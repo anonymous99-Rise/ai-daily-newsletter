@@ -1,0 +1,30 @@
+name: Send Subscription Confirmation Email
+
+on:
+  repository_dispatch:
+    types: [confirm-subscription]
+
+permissions:
+  contents: read
+
+jobs:
+  send_confirmation:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.10'
+
+      - name: Send confirmation email via QQ SMTP
+        run: |
+          python scripts/send_confirmation_email.py
+        env:
+          QQ_EMAIL_TOKEN: ${{ secrets.QQ_EMAIL_TOKEN }}
+          QQ_EMAIL_ADDR: ${{ secrets.QQ_EMAIL_ADDR }}
+          CONFIRM_EMAIL: ${{ github.event.client_payload.email }}
+          CONFIRM_TOKEN: ${{ github.event.client_payload.token }}
+          CONFIRM_ORIGIN: ${{ github.event.client_payload.origin }}

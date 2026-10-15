@@ -138,7 +138,7 @@ def send_email(to_email: str, subject: str, html_body: str) -> bool:
     qq_token = os.environ.get("QQ_EMAIL_TOKEN", "").strip()
     qq_addr = os.environ.get("QQ_EMAIL_ADDR", "").strip()
 
-    if resend_key and not resend_key.startswith("re_"):
+    if resend_key:
         if send_via_resend(resend_key, to_email, subject, html_body):
             return True
         print(f"    Resend failed, trying QQ SMTP...")

@@ -33,10 +33,9 @@
       ]
     },
     {
-      "source": "/api/(subscribe|confirm|unsubscribe)/(.*)",
+      "source": "/api/(subscribe|confirm|unsubscribe)(/.*)?",
       "headers": [
-        { "key": "Cache-Control", "value": "no-store" },
-        { "key": "Access-Control-Allow-Origin", "value": "https://ai-daily-newsletter.vercel.app" }
+        { "key": "Cache-Control", "value": "no-store" }
       ]
     },
     {
