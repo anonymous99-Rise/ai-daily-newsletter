@@ -1,0 +1,634 @@
+[
+  {
+    "source": "LessWrong",
+    "category": "policy",
+    "title": "someone's agents are still \"hacking\"",
+    "url": "https://www.lesswrong.com/posts/qxaNEpRAmjoJwJ7oF/someone-s-agents-are-still-hacking",
+    "time": "2026-10-15T02:31:37+00:00",
+    "summary": "TL;DR agents seem to still be bypassing site paywalls, browser restrictions and leaking benchmark questions as of October 14 2026! I have not found any evidence of them actually hacking or coordinating. this is distinct from the other swarm fleet report released today regarding Tencent.Backgroundurlquery.net is a free service that allows you to query a URL and get a screenshot of its content without opening it. the site takes your request, spins up its Firefox browser, and returns to you a scree"
+  },
+  {
+    "source": "TechCrunch AI",
+    "category": "industry",
+    "title": "Ricursive Intelligence is betting on AI-designed chips to help solve the compute crisis",
+    "url": "https://techcrunch.com/2026/10/14/ricursive-intelligence-is-betting-on-ai-designed-chips-to-help-solve-the-compute-crisis/",
+    "time": "2026-10-15T01:01:32+00:00",
+    "summary": "The founders detailed how their startup is developing AI that can design chips, learn from each iteration, and improve subsequent designs, all with the goal of automating and accelerating the chip design process."
+  },
+  {
+    "source": "TechCrunch AI",
+    "category": "industry",
+    "title": "Gudea leverages AI to help organizations prevent social media crises before they erupt",
+    "url": "https://techcrunch.com/2026/10/14/gudea-leverages-ai-to-help-organizations-prevent-social-media-crises-before-they-erupt/",
+    "time": "2026-10-15T00:00:00+00:00",
+    "summary": "Every day, conversations unfold across social media and websites around the world. A seemingly insignificant post—whether it involves AI-generated misinformation, hate speech, or a damaging rumor—can quickly snowball into a much larger public controversy. Gudea, a company that tracks how stories and rumors spread online that describes itself as the “storm tracker for the internet,” […]"
+  },
+  {
+    "source": "LessWrong",
+    "category": "policy",
+    "title": "I trained GPT-2 with full-batch gradient descent so you don't have to",
+    "url": "https://www.lesswrong.com/posts/9gqjdRyJxSM6kS7zi/i-trained-gpt-2-with-full-batch-gradient-descent-so-you-don",
+    "time": "2026-10-14T23:09:33+00:00",
+    "summary": "The impetus for doing this was provided in large part by Charles Renshaw-Whitman.Learning dynamics people suggested to me that noise was essential in the training of neural networks. I thought this was kind of counterintuitive--- I usually naively operate from a model in which the pretraining data basically specifies the outcome by virtue of the samples all \"pulling\" on the loss landscape in some relatively uniform way which incentivizes converging to a point that generalizes well, but instead i"
+  },
+  {
+    "source": "LessWrong",
+    "category": "policy",
+    "title": "The basic argument for making AI better at moral philosophy",
+    "url": "https://www.lesswrong.com/posts/auMyz6pjPX5nGLYsL/the-basic-argument-for-making-ai-better-at-moral-philosophy",
+    "time": "2026-10-14T22:42:36+00:00",
+    "summary": "In this post, I try to briefly make the case for making models good at moral philosophy. To be up front, aside from some niche areas of moral philosophy, I don’t actually think this is the most important thing to work on for most people. But, depending on the exact scope, I do think it’s near competitive. I also like it as an archetype for a broader set of interventions.After a brief preface (related to the archetype point), the main text of the post is structured as follows:I say what I mean by"
+  },
+  {
+    "source": "r/MachineLearning",
+    "category": "community",
+    "title": "Tracing where LLM \"slop\" style comes from in the model and in training, and cutting it out [R]",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1x64lbk/tracing_where_llm_slop_style_comes_from_in_the/",
+    "time": "2026-10-14T22:08:02+00:00",
+    "summary": "I wanted to find where the recognizable assistant style (em dashes, \"it's not X, it's Y\", lists of three, buzzwords) lives in a model and which training stage installs it. Where it lives: in Qwen3-4B-Instruct, a difference-in-means direction from the model's own exaggerated vs plain writing separate"
+  },
+  {
+    "source": "LessWrong",
+    "category": "policy",
+    "title": "When bureaucracy gives you something it shouldn't",
+    "url": "https://www.lesswrong.com/posts/dFDkEiyRyueyKEB2J/when-bureaucracy-gives-you-something-it-shouldn-t",
+    "time": "2026-10-14T21:39:10+00:00",
+    "summary": "Epistemic status: two cases and the statute behind them. The first case rests on one side's account in a lawyer's call-in video; I have not seen her file. I am not a lawyer. I could not find a base rate.AI use: a Codex session did the research: pulled the video captions, found the Policy Manual section and the Turfah opinion plus related cases, and summed the fiscal year 2025 totals from USCIS's spreadsheet. Claude then fact-checked every claim against the primary sources, proofread, and wrote t"
+  },
+  {
+    "source": "LessWrong",
+    "category": "policy",
+    "title": "AI Marketplaces Can Contribute to, and Profit From, the AI 2040 Plan: Research Directions and Strategy",
+    "url": "https://www.lesswrong.com/posts/Bug3fDHCru6uWDuJg/ai-marketplaces-can-contribute-to-and-profit-from-the-ai",
+    "time": "2026-10-14T21:31:11+00:00",
+    "summary": "Epistemic status: Draft-Quality. Partially motivated reasoning.After my “Not Pinning Your OpenRouter Provider Might Invalidate Your Research” post, a representative of an AI marketplace reached out to me about providers and reproducibility. I unofficially chatted with a representative there[1] about this essay, but they do not endorse this document.[2]This document is entirely human written. Particular research investigations that can be taken by researchers in AI Marketplaces are in bold. I do "
+  },
+  {
+    "source": "Simon Willison",
+    "category": "tools",
+    "title": "Tree Appreciator",
+    "url": "https://simonwillison.net/2026/Oct/14/tree-appreciator/",
+    "time": "2026-10-14T21:23:01+00:00",
+    "summary": "Tool: Tree Appreciator\nAnother game experiment with Claude. This one used the default Claude iPhone app (chat mode, not Claude Code mode) where I prompted Claude Opus 5.5 Max with:\n\nBuild a three js game called \"Tree appreciator\" - it shows you two algorithmically generated trees and the game mechanics is about appreciating the differences between them. Think hard about how to make sure it is both fun and beautiful.\n\nSomewhat embarrassingly given my recent talk, I've found that telling Opus 5.5 "
+  },
+  {
+    "source": "Hacker News",
+    "category": "tools",
+    "title": "Anthropic's Scion is heavily inspired by Mononoke",
+    "url": "https://sunshowers.io/posts/anthropic-mononoke/",
+    "time": "2026-10-14T20:30:54+00:00",
+    "summary": "Comments"
+  },
+  {
+    "source": "LessWrong",
+    "category": "policy",
+    "title": "Rogue AI developers as hostis humani generis: under an international AI treaty, should they be subject to international concurrent jurisdiction?",
+    "url": "https://www.lesswrong.com/posts/Qwg2Pg6DpApsFKq9H/rogue-ai-developers-as-hostis-humani-generis-under-an",
+    "time": "2026-10-14T20:28:06+00:00",
+    "summary": "An international treaty banning superhuman AI will, necessarily, require the arrest of rogue AI developers who violate the treaty. But who should be authorized to conduct these arrests? Should there be some sort of international concurrent jurisdiction, allowing at least some countries to conduct arrests of defectors within other countries’ territory?The default approach - allowing countries to make such arrests only within their own borders - may quickly cause the treaty to fall apart. If natio"
+  },
+  {
+    "source": "GitHub Copilot",
+    "category": "tools",
+    "title": "GitHub availability report: September 2026",
+    "url": "https://github.blog/news-insights/company-news/github-availability-report-september-2026/",
+    "time": "2026-10-14T20:01:35+00:00",
+    "summary": "In September, we experienced two incidents that resulted in degraded performance across GitHub services.  \nThe post GitHub availability report: September 2026 appeared first on The GitHub Blog."
+  },
+  {
+    "source": "GitHub Copilot",
+    "category": "tools",
+    "title": "From 2,500 requests to 24: Rebuilding star history without the stargazers",
+    "url": "https://github.blog/engineering/architecture-optimization/from-2500-requests-to-24-rebuilding-star-history-without-the-stargazers/",
+    "time": "2026-10-14T19:11:33+00:00",
+    "summary": "Our new repo star history API now provides trends without returning individual identities or requiring unbounded database work. These are the engineering tradeoffs we made.\nThe post From 2,500 requests to 24: Rebuilding star history without the stargazers appeared first on The GitHub Blog."
+  },
+  {
+    "source": "LessWrong",
+    "category": "policy",
+    "title": "Why are some explanations bad?",
+    "url": "https://www.lesswrong.com/posts/uaW6cKZJkuBYkWXgL/why-are-some-explanations-bad",
+    "time": "2026-10-14T18:48:49+00:00",
+    "summary": "I like understanding things. Many explanations strike me as insufficient, and I wanted to know what features characterize the explanations that frustrate me. I looked through answers to why questions on Quora, found ones I didn’t like, and tried to find patterns in them. So far, I've come up with the following ways that explanations can go wrong:Insufficient specificityOften, when I'm asking a why question, a general answer will not satisfy my confusion or curiosity. It’s common, though, to not "
+  },
+  {
+    "source": "Hacker News",
+    "category": "tools",
+    "title": "Banks are now trying to offload the AI data center debt they just underwrote",
+    "url": "https://startupfortune.com/banks-are-now-trying-to-offload-the-ai-data-center-debt-they-just-underwrote/",
+    "time": "2026-10-14T18:32:52+00:00",
+    "summary": "Comments"
+  },
+  {
+    "source": "TechCrunch AI",
+    "category": "industry",
+    "title": "YouTube Music launches new labels as AI-generated music floods streaming platforms",
+    "url": "https://techcrunch.com/2026/10/14/youtube-music-launches-new-labels-as-ai-generated-music-floods-streaming-platforms/",
+    "time": "2026-10-14T18:23:46+00:00",
+    "summary": "The label will appear on the player page and include songs entirely generated by AI or partially, such as AI involved in composition and vocals."
+  },
+  {
+    "source": "r/MachineLearning",
+    "category": "community",
+    "title": "I trained a 15M \"decision-only\" model two ways — linear recurrence vs Transformer attention. Accuracy was a coin flip; latency and training cost weren't.[R]",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1x5yhr6/i_trained_a_15m_decisiononly_model_two_ways/",
+    "time": "2026-10-14T18:07:44+00:00",
+    "summary": "Inspired by TypeSafe's Jev (a non-generative model that only outputs bounded decisions — choices, probabilities, calibrated confidence), I built two small decision models end-to-end on identical budgets and tasks to answer one question: which substrate makes the better Jev? Repo: https://github.com/"
+  },
+  {
+    "source": "TechCrunch AI",
+    "category": "industry",
+    "title": "Apate sends AI agents undercover to get scammed so they can gather fraud intelligence",
+    "url": "https://techcrunch.com/2026/10/14/apate-sends-ai-agents-undercover-to-get-scammed-so-they-can-gather-fraud-intelligence/",
+    "time": "2026-10-14T18:00:00+00:00",
+    "summary": "Most companies use AI agents to ship products faster or speed up workflows. Apate.ai sends them undercover to get scammed."
+  },
+  {
+    "source": "Hacker News",
+    "category": "tools",
+    "title": "Containment and monitoring failures are to blame for AI hacking reports: experts",
+    "url": "https://www.csoonline.com/article/4234854/ai-agents-arent-going-rogue-frontier-labs-are-skipping-security-basics.html",
+    "time": "2026-10-14T17:45:23+00:00",
+    "summary": "Comments"
+  },
+  {
+    "source": "LessWrong",
+    "category": "policy",
+    "title": "Hindsight: a trivia + calibration game",
+    "url": "https://www.lesswrong.com/posts/nnqmnKdjbtigGRHEe/hindsight-a-trivia-calibration-game",
+    "time": "2026-10-14T16:58:40+00:00",
+    "summary": "I made a betting game called Hindsight (AI slop rulebook at https://hindsight.markets/rules). At last year’s Metagame conference I playtested a face-to-face version but ultimately we gave up trying to come up with methods to trade the chips around conveniently.The online version is a “TV party game” like JackBox where players view public info on a common screen and private info and decisions on their phones.Each player starts with 100 chips. The game progresses in a series of rounds until all pl"
+  },
+  {
+    "source": "Hacker News",
+    "category": "tools",
+    "title": "Has AI tells",
+    "url": "https://theconsensus.dev/blog/2026/10/14/has-ai-tells.html?focus=1",
+    "time": "2026-10-14T16:52:42+00:00",
+    "summary": "Comments"
+  },
+  {
+    "source": "Simon Willison",
+    "category": "tools",
+    "title": "AI is mass decompiling games. That's both awesome and scary.",
+    "url": "https://simonwillison.net/2026/Oct/14/ai-is-mass-decompiling-games/",
+    "time": "2026-10-14T16:26:53+00:00",
+    "summary": "AI is mass decompiling games. That's both awesome and scary.\nIndie game developer Popcar talks about the recent wave of AI-powered decompilation of existing games, enabling weird mashups between existing games, and producing a boom in game preservation projects to get old games working on new hardware (often in a browser using WebAssembly).\nI like how this piece captures both the positives and the negatives of this new development:\n\nMost people already realized the scary part by now. If AI can d"
+  },
+  {
+    "source": "AWS ML Blog",
+    "category": "industry",
+    "title": "Build self-improving document processing using Amazon Bedrock AgentCore",
+    "url": "https://aws.amazon.com/blogs/machine-learning/build-self-improving-document-processing-using-amazon-bedrock-agentcore/",
+    "time": "2026-10-14T16:24:07+00:00",
+    "summary": "Learn how to build an agentic intelligent document processing (IDP) system using Amazon Bedrock AgentCore that classifies, extracts, validates, and learns from business documents with minimal human intervention, automatically handling new document formats without manual template configuration."
+  },
+  {
+    "source": "Google Research AI",
+    "category": "research",
+    "title": "Research@ 2026: 10 ways we're amplifying human ingenuity",
+    "url": "https://research.google/blog/research-2026-10-ways-were-amplifying-human-ingenuity/",
+    "time": "2026-10-14T16:14:34+00:00",
+    "summary": "General Science"
+  },
+  {
+    "source": "Google Research AI",
+    "category": "research",
+    "title": "Putting Earth AI to work: Geospatial agents for our planet's biggest challenges",
+    "url": "https://research.google/blog/putting-earth-ai-to-work-geospatial-agents-for-our-planets-biggest-challenges/",
+    "time": "2026-10-14T16:14:00+00:00",
+    "summary": "Earth AI"
+  },
+  {
+    "source": "Google Research AI",
+    "category": "research",
+    "title": "Analyzing technical documents with Deep Review",
+    "url": "https://research.google/blog/analyzing-technical-documents-with-deep-review/",
+    "time": "2026-10-14T16:14:00+00:00",
+    "summary": "General Science"
+  },
+  {
+    "source": "Hugging Face Blog",
+    "category": "tools",
+    "title": "HiRO-ACEv2: Simulating extreme weather at 3 km resolution for a fraction of the cost",
+    "url": "https://huggingface.co/blog/allenai/hiro-acev2",
+    "time": "2026-10-14T16:12:42+00:00",
+    "summary": ""
+  },
+  {
+    "source": "LessWrong",
+    "category": "policy",
+    "title": "Some interesting internal documents from Anthropic litigation",
+    "url": "https://www.lesswrong.com/posts/em5wnA7gpQSvfsuxQ/some-interesting-internal-documents-from-anthropic",
+    "time": "2026-10-14T15:59:49+00:00",
+    "summary": "Anthropic released some documents earlier this year due to the book copyright litigation. I think a few of those documents might be of interest to some people here and haven't gotten much attention. In this post I link to some of those documents, and quote the bits I find interesting.[1] (This expands on my quick take from yesterday.)These aren't Anthropic's official opinions about anything, and you should probably treat opinions in these documents as \"what the author thought at the time\", not a"
+  },
+  {
+    "source": "r/MachineLearning",
+    "category": "community",
+    "title": "Mapping the Post-Transformer Architecture Landscape in 2026 [D]",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1x5u2wz/mapping_the_posttransformer_architecture/",
+    "time": "2026-10-14T15:22:01+00:00",
+    "summary": "Went down the rabbit hole to map the different Post-Transformer architectures. Various directions include Dragon Hatchling (BDH), Mamba, RWKV, xLSTM, Titans, and a bunch of hybrid models coming from different AI Labs. My interest areas are architectural changes that can improve reasoning, memory, an"
+  },
+  {
+    "source": "TechCrunch AI",
+    "category": "industry",
+    "title": "Deezer will soon let you filter out AI-generated music",
+    "url": "https://techcrunch.com/2026/10/14/deezer-will-soon-let-you-filter-out-ai-generated-music/",
+    "time": "2026-10-14T15:16:04+00:00",
+    "summary": "Deezer said that the new toggle will be rolled out by the end of the year."
+  },
+  {
+    "source": "TechCrunch AI",
+    "category": "industry",
+    "title": "Save 50% on your TechCrunch Disrupt 2026 ticket and join the last 2 days in San Francisco’s Moscone West",
+    "url": "https://techcrunch.com/2026/10/14/save-50-on-your-techcrunch-disrupt-2026-ticket-and-join-the-last-two-days-in-san-francisco/",
+    "time": "2026-10-14T15:13:24+00:00",
+    "summary": "Get a 50% discount on the last two days of TechCrunch Disrupt 2026, October 14-15, in San Francisco. Register now and join the rest of the startup ecosystem. Today, it's all about physical and software AI."
+  },
+  {
+    "source": "TechCrunch AI",
+    "category": "industry",
+    "title": "Zenzap raises $44M for its AI chat app that aims to replace WhatsApp in the workplace",
+    "url": "https://techcrunch.com/2026/10/14/zenzap-raises-44m-for-its-ai-chat-app-that-aims-to-replace-whatsapp-in-the-workplace/",
+    "time": "2026-10-14T15:08:00+00:00",
+    "summary": "Zenzap is used by organizations including Starbucks and Taco Bell."
+  },
+  {
+    "source": "LessWrong",
+    "category": "policy",
+    "title": "PPA 11: The Basic Model",
+    "url": "https://www.lesswrong.com/posts/gcpKPJCZXm2fovvri/ppa-11-the-basic-model",
+    "time": "2026-10-14T15:03:34+00:00",
+    "summary": "[This is the eleventh piece in my series on the Parametric Process Assumption (PPA), a new model of anthropics. You should start here if you are just seeing this for the first time. The previous piece is \"Deriving the PPA.\"This piece is part of the technical portion of this series.TLDR: Most of this piece contains proofs for the statements in this pieceWe prove the PPA is negligibly presumptuous, in the sense that, when modeling life emergence as a Poisson point process, we have a presumptuousne"
+  },
+  {
+    "source": "TechCrunch AI",
+    "category": "industry",
+    "title": "Floqer’s AI agents research sales prospects so teams don’t have to",
+    "url": "https://techcrunch.com/2026/10/14/floqers-ai-agents-help-b2b-revenue-teams-research-customers/",
+    "time": "2026-10-14T15:00:00+00:00",
+    "summary": "The problem Floqer is trying to solve is familiar to anyone who has worked in sales or revenue operations."
+  },
+  {
+    "source": "TechCrunch AI",
+    "category": "industry",
+    "title": "TechCrunch Disrupt 2026: Day 2",
+    "url": "https://techcrunch.com/2026/10/14/techcrunch-disrupt-2026-day-2/",
+    "time": "2026-10-14T14:30:00+00:00",
+    "summary": "Day 2 at TechCrunch Disrupt 2026, full of all themes across AI, as well as an investor-only session, more roundtables, Side Events, and more. Register to save 50% on your pass."
+  },
+  {
+    "source": "AWS ML Blog",
+    "category": "industry",
+    "title": "Generate presentations with Amazon Bedrock AgentCore",
+    "url": "https://aws.amazon.com/blogs/machine-learning/generate-presentations-with-amazon-bedrock-agentcore/",
+    "time": "2026-10-14T13:58:43+00:00",
+    "summary": "This post walks you through building an AI agent system with Amazon Bedrock AgentCore that automates PowerPoint presentation creation from enterprise documents. A supervisor agent, Retrieval Augmented Generation, and Amazon Bedrock Guardrails generate grounded presentations in under 90 seconds."
+  },
+  {
+    "source": "AWS ML Blog",
+    "category": "industry",
+    "title": "How Tamnoon built AI-powered cloud security remediation with Amazon Bedrock",
+    "url": "https://aws.amazon.com/blogs/machine-learning/how-tamnoon-built-ai-powered-cloud-security-remediation-with-amazon-bedrock/",
+    "time": "2026-10-14T13:53:33+00:00",
+    "summary": "Learn how Tamnoon built Tami, an agentic cloud remediation orchestrator on Amazon Bedrock that autonomously investigates and safely remediates cloud security findings from CNAPP and cloud-native sources. The approach drove a 90%+ reduction in critical cloud exposure in 90 days with zero production issues."
+  },
+  {
+    "source": "AWS ML Blog",
+    "category": "industry",
+    "title": "Deploy and evaluate models with Amazon SageMaker JumpStart",
+    "url": "https://aws.amazon.com/blogs/machine-learning/deploy-and-evaluate-models-with-amazon-sagemaker-jumpstart/",
+    "time": "2026-10-14T13:14:36+00:00",
+    "summary": "Learn how to deploy an available model from Amazon SageMaker JumpStart, run a lightweight and repeatable performance test using the SageMaker Python SDK, and delete the endpoint when testing is complete."
+  },
+  {
+    "source": "Twitter/@TheHackersNews",
+    "category": "community",
+    "title": "The AI for Security Virtual Summit Join Figma, Perplexity, and @Wiz_io to learn how to monitor rogue agents, automate triage, and secure cod…",
+    "url": "https://x.com/TheHackersNews/status/2110348808769179911",
+    "time": "2026-10-14T12:35:39+00:00",
+    "summary": "The AI for Security Virtual Summit\n\nJoin Figma, Perplexity, and @Wiz_io to learn how to monitor rogue agents, automate triage, and secure code.\n\nDefensive security is transitioning from manual, reactive operations to autonomous, machine-speed execution. The AI for Security Virtual Summit brings together pioneering practitioners and researchers who are moving past general AI chatbots to embed specialized security agents directly into their defensive pipelines.\n\nSave your spot → https://thn.news/a"
+  },
+  {
+    "source": "OpenAI Blog",
+    "category": "announcements",
+    "title": "Amp puts AI agents to work beyond code with OpenAI models",
+    "url": "https://openai.com/index/amp-beyond-coding",
+    "time": "2026-10-14T12:00:00+00:00",
+    "summary": "See how Amp pushes the frontier of what agents can do with GPT-6 Astra, Ultrafast, GPT-Live-1, and Sign in with ChatGPT."
+  },
+  {
+    "source": "OpenAI Blog",
+    "category": "announcements",
+    "title": "SentinelOne cuts malware analysis from weeks to hours",
+    "url": "https://openai.com/index/sentinelone",
+    "time": "2026-10-14T12:00:00+00:00",
+    "summary": "With OpenAI Daybreak, SentinelOne cuts weeks of malware analysis to hours, creating capacity to investigate more threats."
+  },
+  {
+    "source": "Twitter/@TheHackersNews",
+    "category": "community",
+    "title": "‼️ Researchers used AI agents running OpenAI's public GPT-5.6 Sol to build a 3-bug Chrome exploit chain in 6 days. Loading a web page could …",
+    "url": "https://x.com/TheHackersNews/status/2110337161656684943",
+    "time": "2026-10-14T11:49:22+00:00",
+    "summary": "‼️ Researchers used AI agents running OpenAI's public GPT-5.6 Sol to build a 3-bug Chrome exploit chain in 6 days.\n\nLoading a web page could execute code on Windows, outside Chrome. Google fixed all three bugs and paid $250,000.\n\nDetails → https://thehackernews.com/2026/10/researchers-used-public-openai-model-to.html"
+  },
+  {
+    "source": "Twitter/@TheHackersNews",
+    "category": "community",
+    "title": "With 42% of organizations allowing AI agents to act autonomously, GRC leaders face unprecedented oversight gaps. When decision-making accele…",
+    "url": "https://x.com/TheHackersNews/status/2110334051257340000",
+    "time": "2026-10-14T11:37:00+00:00",
+    "summary": "With 42% of organizations allowing AI agents to act autonomously, GRC leaders face unprecedented oversight gaps. When decision-making accelerates without central visibility, risk escalates rapidly across business operations. \n\nThe 2026 agentic enterprise report delivers actionable insights to help risk leaders unify oversight, establish clear boundaries, and transform agentic AI into a strategic advantage without sacrificing control.\n\nKey topics covered include:\n✅  Balancing AI decision-making a"
+  },
+  {
+    "source": "Twitter/@TheHackersNews",
+    "category": "community",
+    "title": "A major insurer’s login API let users redirect one-time codes to unregistered email addresses. During an authorized test, Reflectiz’s AI age…",
+    "url": "https://x.com/TheHackersNews/status/2110326045484413432",
+    "time": "2026-10-14T11:05:11+00:00",
+    "summary": "A major insurer’s login API let users redirect one-time codes to unregistered email addresses.\n\nDuring an authorized test, Reflectiz’s AI agent sent the code to its own inbox and logged in.\n\nThe flaw could allow account access with the required customer identifiers\n\nRead → https://thehackernews.com/2026/10/an-ai-agent-found-critical-otp-bypass.html\n"
+  },
+  {
+    "source": "TechCrunch AI",
+    "category": "industry",
+    "title": "Scimplify raises $25M to challenge China’s grip on critical materials with AI",
+    "url": "https://techcrunch.com/2026/10/14/scimplify-raises-25m-to-challenge-chinas-grip-on-critical-materials-with-ai/",
+    "time": "2026-10-14T11:00:00+00:00",
+    "summary": "Scimplify's annualized revenue run rate has tripled to $200 million as it eyes U.S. expansion."
+  },
+  {
+    "source": "Stratechery",
+    "category": "industry",
+    "title": "Apple HomeView, The New Apple TV, The App Story",
+    "url": "https://stratechery.com/2026/apple-homeview-the-new-apple-tv-the-app-story/",
+    "time": "2026-10-14T10:00:00+00:00",
+    "summary": "The Apple Homeview is official, and the question is how big is the addressable market for expensive devices based on subpar AI."
+  },
+  {
+    "source": "Twitter/@TheHackersNews",
+    "category": "community",
+    "title": "🛑 A Linux kernel flaw can let an untrusted VM hijack its host's QEMU process in specific setups. Dubbed Vghost (CVE-2026-74580), the AI-ass…",
+    "url": "https://x.com/TheHackersNews/status/2110278636754575716",
+    "time": "2026-10-14T07:56:48+00:00",
+    "summary": "🛑 A Linux kernel flaw can let an untrusted VM hijack its host's QEMU process in specific setups.\n\nDubbed Vghost (CVE-2026-74580), the AI-assisted discovery also enables local root escalation for users with vhost device access.\n\nRead: https://thehackernews.com/2026/10/ai-found-linux-kernel-flaw-gives-local.html\n"
+  },
+  {
+    "source": "OpenAI Blog",
+    "category": "announcements",
+    "title": "How Third Moment Research runs 10,000 agents for 36+ hours",
+    "url": "https://openai.com/index/third-moment-research",
+    "time": "2026-10-14T07:00:00+00:00",
+    "summary": "With GPT-6 Astra and GPT-6.1 Sol, Codex, and Daybreak for cybersecurity, this AI lab builds agents that focus for days and improve with use."
+  },
+  {
+    "source": "OpenAI Blog",
+    "category": "announcements",
+    "title": "How Block is building AI-powered security with OpenAI technology",
+    "url": "https://openai.com/index/block-ai-powered-security",
+    "time": "2026-10-14T07:00:00+00:00",
+    "summary": "Block is building AI-powered security with OpenAI. Its security team investigates threats faster and proposes patches in minutes."
+  },
+  {
+    "source": "Latent Space AINews",
+    "category": "industry",
+    "title": "[AINews] AI Engineer NYC: Gemini 4 Argon, Vals AI Benchmarks",
+    "url": "https://www.latent.space/p/ainews-ai-engineer-nyc-gemini-4-argon",
+    "time": "2026-10-14T05:40:28+00:00",
+    "summary": "Gemini 4 Argon went GA today, but we already gave it title story 2 weeks ago and most benchmarks, like CursorBench, simply independently confirm their claims."
+  },
+  {
+    "source": "Product Hunt",
+    "category": "tools",
+    "title": "RoleFit",
+    "url": "https://www.producthunt.com/products/rolefit",
+    "time": "2026-10-14T05:07:36+00:00",
+    "summary": "\n            Tailor every job application without starting from scratch\n          \n\nDiscussion\n            |\n            Link\n"
+  },
+  {
+    "source": "Product Hunt",
+    "category": "tools",
+    "title": "PixLate",
+    "url": "https://www.producthunt.com/products/pixlate",
+    "time": "2026-10-14T04:47:06+00:00",
+    "summary": "\n            Translate documents. Preserve artwork and layout.\n          \n\nDiscussion\n            |\n            Link\n"
+  },
+  {
+    "source": "Product Hunt",
+    "category": "tools",
+    "title": "WriterzRoom",
+    "url": "https://www.producthunt.com/products/writerzroom",
+    "time": "2026-10-14T04:35:22+00:00",
+    "summary": "\n            Governed multi-agent AI content for regulated industries\n          \n\nDiscussion\n            |\n            Link\n"
+  },
+  {
+    "source": "Product Hunt",
+    "category": "tools",
+    "title": "Cloud Releases",
+    "url": "https://www.producthunt.com/products/cloud-releases",
+    "time": "2026-10-14T04:07:56+00:00",
+    "summary": "\n            Every AWS, Azure, GCP and Cloudflare update in one feed\n          \n\nDiscussion\n            |\n            Link\n"
+  },
+  {
+    "source": "HuggingFace Papers",
+    "category": "research",
+    "title": "Diagnosing and Correcting Reward Hacking in Verifiable Instruction Following",
+    "url": "https://huggingface.co/papers/2610.19525",
+    "time": "2026-10-14T03:42:59.000Z",
+    "summary": "Verifiable instruction-following benchmarks emphasize output-constraint satisfaction but can overlook whether responses meaningfully answer the underlying request, creating an evaluation blind spot. We show that frontier models can receive full credit for responses with little substantive answer content. Using the same verifier-based criterion as a training reward can induce reward hacking, as publicly released checkpoints exhibit higher constraint satisfaction but lower response quality after r",
+    "heat": "1",
+    "github_url": "https://arxiv.org/abs/2610.19525"
+  },
+  {
+    "source": "HuggingFace Papers",
+    "category": "research",
+    "title": "Seeing, Maintaining, and Learning: The Evolution of Multimodal Agent Memory",
+    "url": "https://huggingface.co/papers/2610.19366",
+    "time": "2026-10-14T01:11:57.000Z",
+    "summary": "Multimodal models and agents have emerged to enable AI systems to learn from and interact with the real world more like humans by integrating information across multiple modalities. However, enabling multimodal agents to continually acquire useful information from complex, heterogeneous multimodal data remains a significant challenge as they move toward long-horizon tasks and lifelong settings. Addressing this challenge requires effective memory mechanisms that can maintain continuity across ses",
+    "heat": "24",
+    "github_url": "https://arxiv.org/abs/2610.19366"
+  },
+  {
+    "source": "HuggingFace Papers",
+    "category": "research",
+    "title": "What Makes a Social Agent's Interactions Effective? Learning from Verifiable Outcomes in Paired Worlds",
+    "url": "https://huggingface.co/papers/2610.20195",
+    "time": "2026-10-14T00:00:00.000Z",
+    "summary": "Effective social interaction requires more than fluent responses: agents must reach plans that fit the participants' needs and circumstances. Existing evaluations of social agents mainly rely on LLM judges that rate the conversation, without checking the resulting plan. We introduce HICO-Bench, a benchmark of 180 everyday coordination scenarios, such as resource allocation, scheduling, and authorization, in which two agents with private information converse and then independently record the plan",
+    "heat": "1",
+    "github_url": "https://arxiv.org/abs/2610.20195"
+  },
+  {
+    "source": "HuggingFace Papers",
+    "category": "research",
+    "title": "Physical Time as a Missing Dimension of Robot Policy Memory Dynamics",
+    "url": "https://huggingface.co/papers/2610.20524",
+    "time": "2026-10-14T00:00:00.000Z",
+    "summary": "Existing robot policy memories typically evolve with observation sequences, implicitly treating each update as the same amount of physical time. Yet identical observation histories can span different durations and require different actions, exposing physical time as a missing dimension of policy memory. We introduce Temporal Flow Policy (TFP), which learns memory dynamics to retain past events and evolve the memory state over measured time intervals. Observations and prior memory determine the c",
+    "heat": "2",
+    "github_url": "https://arxiv.org/abs/2610.20524"
+  },
+  {
+    "source": "HuggingFace Papers",
+    "category": "research",
+    "title": "Player-1: Learning to Play from Synthetic Experience",
+    "url": "https://huggingface.co/papers/2610.20584",
+    "time": "2026-10-14T00:00:00.000Z",
+    "summary": "Computer-use agents have demonstrated strong capabilities in interpreting screens and executing keyboard and mouse actions. However, games, with their visually rich worlds and diverse mechanics, remain challenging and offer a demanding next step toward general digital control. Current game-agent learning pipelines often rely on large-scale demonstrations with limited coverage of dynamic game states, while scalable environments for interactive training remain difficult to obtain. We introduce Pla",
+    "heat": "16",
+    "github_url": "https://arxiv.org/abs/2610.20584"
+  },
+  {
+    "source": "HuggingFace Papers",
+    "category": "research",
+    "title": "G^3VLA: Geometric Inductive Bias for Vision-Language-Action Models",
+    "url": "https://huggingface.co/papers/2606.24472",
+    "time": "2026-10-14T00:00:00.000Z",
+    "summary": "Vision-language-action (VLA) models have rapidly advanced generalist robot manipulation by harnessing the semantic knowledge of pretrained vision-language backbones. However, their visual representations are typically grounded in 2D image coordinates rather than calibrated camera geometry. This limitation is especially pronounced in multi-camera systems, where views are coupled by known intrinsics and extrinsics but processed as independent images. We propose G^3VLA, a camera-aware geometric mod",
+    "heat": "5",
+    "github_url": "https://arxiv.org/abs/2606.24472"
+  },
+  {
+    "source": "HuggingFace Papers",
+    "category": "research",
+    "title": "Doc2Harness: Benchmarking LLMs on Long-Horizon Harness Engineering of Coding Agents",
+    "url": "https://huggingface.co/papers/2610.20344",
+    "time": "2026-10-14T00:00:00.000Z",
+    "summary": "Agents driven by large language models are increasingly deployed on long-horizon tasks, where they use tools and modify real workspaces. How well they perform depends as much on the harness around the model as on the model itself. Existing benchmarks measure downstream task success under a fixed harness, leaving harness engineering itself unexplored. We propose Doc2Harness, a two-stage benchmark that evaluates long-horizon harness engineering directly. In Stage 1, a build model operating inside ",
+    "heat": "5",
+    "github_url": "https://arxiv.org/abs/2610.20344"
+  },
+  {
+    "source": "HuggingFace Papers",
+    "category": "research",
+    "title": "Towards Agentic Robots: Model, Data, Environment, and Harness",
+    "url": "https://huggingface.co/papers/2610.20442",
+    "time": "2026-10-14T00:00:00.000Z",
+    "summary": "Foundation models are driving a paradigm shift in robotic intelligence, moving beyond low-level action prediction to goal-directed orchestration of data collection, model training, task planning, and real-world execution. We characterize this emerging paradigm as an agentic robots, in which agents reason over human instructions, interact with robotic environments, rectify execution errors autonomously, and dynamically adjust operational strategies. Although this field develops fast, current stud",
+    "heat": "8",
+    "github_url": "https://arxiv.org/abs/2610.20442"
+  },
+  {
+    "source": "HuggingFace Papers",
+    "category": "research",
+    "title": "More Methods, Better Agents? A Reality Check on Self-Distillation in Agentic Reinforcement Learning",
+    "url": "https://huggingface.co/papers/2610.19789",
+    "time": "2026-10-14T00:00:00.000Z",
+    "summary": "Self-distillation in agentic reinforcement learning has produced a growing number of methods. However, existing evaluations often reuse published baseline scores under differing experimental conditions, provide few direct comparisons among contemporaneous methods, and give limited attention to training stability and computational cost. These limitations obscure the source of reported gains and the practical strengths and weaknesses of competing methods. Costly agent training further motivates a ",
+    "heat": "6",
+    "github_url": "https://arxiv.org/abs/2610.19789"
+  },
+  {
+    "source": "HuggingFace Papers",
+    "category": "research",
+    "title": "Long-Horizon RL Needs Muon",
+    "url": "https://huggingface.co/papers/2610.20256",
+    "time": "2026-10-14T00:00:00.000Z",
+    "summary": "Long-horizon agents must coordinate reasoning, tool use, and environment feedback over extended interactions. Learning from sparse outcome rewards requires weighting trajectories of different lengths and updating the policy while rollouts are still being collected. We examine a single-rollout asynchronous recipe combining Muon, token-averaged loss, truncated importance sampling, and auxiliary length and tool-error penalties. Single-rollout sampling allows asynchronous learning without waiting fo",
+    "heat": "3",
+    "github_url": "https://arxiv.org/abs/2610.20256"
+  },
+  {
+    "source": "HuggingFace Papers",
+    "category": "research",
+    "title": "Recovering Reliable Supervision via Critique-Guided On-Policy Distillation",
+    "url": "https://huggingface.co/papers/2610.20572",
+    "time": "2026-10-14T00:00:00.000Z",
+    "summary": "On-policy distillation (OPD) trains a student model on its own rollouts with token-level supervision from a teacher, assuming that the teacher can reach a correct answer from any prefix the student writes. We call this property the recoverability of the teacher and show it fails on incorrect rollouts: the teacher follows student errors, although it recognizes them. We propose CriticOPD, using error recognition to restore recoverability. The teacher critiques an incorrect rollout, allowing the st",
+    "heat": "12",
+    "github_url": "https://arxiv.org/abs/2610.20572"
+  },
+  {
+    "source": "HuggingFace Papers",
+    "category": "research",
+    "title": "The COUNT: Counting N-grams Unlocks Scaling on Host Memory and Training-Free Adaptation",
+    "url": "https://huggingface.co/papers/2610.20456",
+    "time": "2026-10-14T00:00:00.000Z",
+    "summary": "The scaling relationship of compute and performance for language models (LMs) has been extensively studied; more recently, models are being designed to scale memory use, as well. In particular, adding embeddings for n-grams scales memory separately from compute use, because each pass only processes individual embedding rows, which are much smaller than the storage used for the whole embedding table. However, existing methods train embeddings from scratch, which needs expensive GPU memory for fas",
+    "heat": "1",
+    "github_url": "https://arxiv.org/abs/2610.20456"
+  },
+  {
+    "source": "HuggingFace Papers",
+    "category": "research",
+    "title": "Efficient Scene-Text Refinement via Pixel-Space Grouped Image Generation",
+    "url": "https://huggingface.co/papers/2610.18284",
+    "time": "2026-10-13T00:00:00.000Z",
+    "summary": "Generated images often have coherent layouts and visual content, yet local errors in small text and complex characters still limit their readability and practical use. Scene-text refinement requires accuracy, preservation, and efficiency. Existing methods based on variational autoencoders (VAEs) can lose fine strokes during reconstruction, while full-image editing can shift background colors. In this work, we introduce PixText, a model that formulates local text refinement as grouped image gener",
+    "heat": "3",
+    "github_url": "https://arxiv.org/abs/2610.18284"
+  },
+  {
+    "source": "HuggingFace Papers",
+    "category": "research",
+    "title": "Diff Diffusion: Predicting Edit Paths with Diffusion Models for Efficient Code Editing",
+    "url": "https://huggingface.co/papers/2610.17831",
+    "time": "2026-10-13T00:00:00.000Z",
+    "summary": "Diffusion large language models (dLLMs) are appealing for code generation because they can update many tokens in parallel, yet many are optimized for sequence synthesis rather than edit prediction. This setting is poorly matched to modern AI-assisted IDEs, where edit prediction must infer the next code change from recent edits, the current file, and cursor-local context. Such changes are usually sparse and preserve most source tokens, so regenerating a full code segment wastes computation. We pr",
+    "heat": "1",
+    "github_url": "https://arxiv.org/abs/2610.17831"
+  },
+  {
+    "source": "HuggingFace Papers",
+    "category": "research",
+    "title": "Hybrid Reasoning Agents",
+    "url": "https://huggingface.co/papers/2610.18861",
+    "time": "2026-10-13T00:00:00.000Z",
+    "summary": "How can we build an agent that thinks beyond human language, yet still acts through it in the external environment? Modern LLM agents still reason and interact through text, while latent reasoning offers an efficient internal medium but lacks native tool access and reasoning transparency. We bridge these two directions with Hybrid Reasoning Agents (HybridAgents), which dynamically navigate between latent reasoning and text-based interaction throughout a unified generation process. Architecturall",
+    "heat": "17",
+    "github_url": "https://arxiv.org/abs/2610.18861"
+  },
+  {
+    "source": "HuggingFace Papers",
+    "category": "research",
+    "title": "Are We Testing Too Much? A Survey of Benchmark Compression for Efficient Evaluation of Large Language Models",
+    "url": "https://huggingface.co/papers/2610.18248",
+    "time": "2026-10-13T00:00:00.000Z",
+    "summary": "Benchmarks are essential for evaluating and improving large language models (LLMs). Yet many widely used benchmarks are redundant, making evaluation unnecessarily expensive. Benchmark compression lowers this cost by estimating full-benchmark scores and rankings from a partial evaluation. Research in this area has grown rapidly since 2024, but to our knowledge no survey has systematically organized its methods and findings. We review 119 papers to explain how methods choose what to evaluate, reco",
+    "heat": "3",
+    "github_url": "https://arxiv.org/abs/2610.18248"
+  },
+  {
+    "source": "HuggingFace Papers",
+    "category": "research",
+    "title": "MA-Bench: Measuring Operational Planning in Language Models",
+    "url": "https://huggingface.co/papers/2610.19138",
+    "time": "2026-10-13T00:00:00.000Z",
+    "summary": "How well can a language model turn a large, incomplete and partly contradictory body of documents into a plan when no single correct answer exists? We introduce Mission Analysis (MA)-Bench, built on mission analysis, the first step of military operational planning, in which a staff reads the full situation and states the problem before anyone proposes a solution. Its 10 expert-built scenarios pair synthetic packets of ten to twelve documents with 1,257 expert-written pass/fail requirements, each",
+    "heat": "0",
+    "github_url": "https://arxiv.org/abs/2610.19138"
+  },
+  {
+    "source": "HuggingFace Papers",
+    "category": "research",
+    "title": "Acting Through Registers",
+    "url": "https://huggingface.co/papers/2610.17638",
+    "time": "2026-10-13T00:00:00.000Z",
+    "summary": "World Action Models (WAMs) use generative visual representations to condition robot actions, yet how these representations organize action-relevant information remains poorly understood. We identify persistent high-norm spatial outliers in WAM representations and find that their action relevance persists even after normalization and K/V projection attenuate their extreme magnitude. Motivated by this observation, we introduce RegisterWAM, which adds learnable non-spatial registers to the world mo",
+    "heat": "2",
+    "github_url": "https://arxiv.org/abs/2610.17638"
+  },
+  {
+    "source": "HuggingFace Papers",
+    "category": "research",
+    "title": "Beyond Domain-Routed Supervision: Cross-Teacher Guarding for Multi-Teacher On-Policy Distillation",
+    "url": "https://huggingface.co/papers/2610.13521",
+    "time": "2026-10-09T00:00:00.000Z",
+    "summary": "Multi-teacher on-policy distillation (MOPD) extends on-policy distillation (OPD) by routing domain-specific data to specialized teachers, integrating their capabilities through dense token-level supervision on student-generated trajectories. However, domain routing only distinguishes the supervision sources for different domains; updates from all domains still act on shared parameters. When teachers differ substantially in response style and domain expertise, supervision that is effective in iso",
+    "heat": "18",
+    "github_url": "https://arxiv.org/abs/2610.13521"
+  },
+  {
+    "source": "HuggingFace Papers",
+    "category": "research",
+    "title": "HumanoidToolBench: Benchmarking Humanoid Tool Use from Selection to Mobile Execution",
+    "url": "https://huggingface.co/papers/2610.02089",
+    "time": "2026-10-01T00:00:00.000Z",
+    "summary": "As robotic hardware and learning methods advance, humanoids need tools to perform tasks beyond their inherent physical limits. Successful tool use requires selecting a suitable tool and coordinating manipulation and, when needed, locomotion to complete the task. Existing benchmarks do not jointly evaluate these capabilities on a humanoid. We introduce HumanoidToolBench, an 18-task benchmark spanning three scenarios, three execution levels, and two tool-set modes, together with ToolBook, a datase",
+    "heat": "10",
+    "github_url": "https://arxiv.org/abs/2610.02089"
+  }
+]
