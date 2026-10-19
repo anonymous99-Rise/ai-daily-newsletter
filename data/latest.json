@@ -2,186 +2,214 @@
   {
     "source": "LessWrong",
     "category": "policy",
-    "title": "Notes on Group Theory",
-    "url": "https://www.lesswrong.com/posts/qLgK2NkGRRTvpPDRP/notes-on-group-theory",
-    "time": "2026-10-18T00:21:15+00:00",
-    "summary": "This is what I have learned studying basic group theory. The ordering of the subjects might have a few oddities, but it's what makes the most sense to me. There are some of the definitions where the motivating reasons weren't properly explained in any of the textbooks I read, and I had to work them out myself; in the best case this post's justifications will be more intuitive, and in the worst case they'll be incorrect nonsense. The main textbook I followed was Álgebra Exemplar (Exemplary Algebr"
+    "title": "Sorry, you are still dead",
+    "url": "https://www.lesswrong.com/posts/FjSCpu2B36SAcZL8v/sorry-you-are-still-dead",
+    "time": "2026-10-19T01:40:57+00:00",
+    "summary": "Epistemic status: A brief exploration based on court documents and contemporary reporting. My interpretation is tentative.\nAI use: context research, grammar.\nI don't remember how I stumbled upon the topic of legally dead people who are still alive. Basically, they are alive, but according to the government, they are dead. I was curious to examine documented examples and discovered Donald Miller's case.\nIn 1986, Donald Miller disappears from Arcadia, Ohio, leaving two daughters from a previous ma"
+  },
+  {
+    "source": "LessWrong",
+    "category": "policy",
+    "title": "How I got my non-tech friends to learn about AI safety",
+    "url": "https://www.lesswrong.com/posts/zdiD6ux29YHCTyPaw/how-i-got-my-non-tech-friends-to-learn-about-ai-safety",
+    "time": "2026-10-19T00:53:24+00:00",
+    "summary": "TL;DR: I built an open-source, two-hour interactive presentation on AI safety for non-technical audiences. Here’s a recap of what it covers, how it went, and how you can use it yourself.Epistemic status: personal experience from one session with six close friends, plus impressions from conversations with people inside and outside the field over the past six months.I've been a machine learning engineer for almost 10 years, working in scale-ups and startups, even as a CTO. And not once during all "
+  },
+  {
+    "source": "LessWrong",
+    "category": "policy",
+    "title": "The Case for Building AI Safety Tools",
+    "url": "https://www.lesswrong.com/posts/swRuRr5BbyuQiFpwh/the-case-for-building-ai-safety-tools",
+    "time": "2026-10-19T00:53:03+00:00",
+    "summary": "Epistemic status: a deep dive over the past few months, and focused work over the past few weeks.TL;DRAI safety work is extremely siloed. Of 500+ safety organizations, ~80 build tools of any kind (mostly in security or security-adjacent), and none of the 100 fellowships and courses we mapped are dedicated to tool builders.If we take AI progress seriously, we need generalizable, adopted and deployed AI safety tools as public goods.We identified clear gaps (multi-agent safety, incident reporting, "
+  },
+  {
+    "source": "LessWrong",
+    "category": "policy",
+    "title": "On Qwen, the J-lens readouts at the newline token reveal lies",
+    "url": "https://www.lesswrong.com/posts/bhvaAbSPZgiG3oJPu/on-qwen-the-j-lens-readouts-at-the-newline-token-reveal-lies-4",
+    "time": "2026-10-19T00:52:58+00:00",
+    "summary": "1. TL;DRWe put four models (Qwen3.6-27B, two Gemma-3 models, gpt-oss-20b) in MASK's pressure scenarios, where a system prompt gives the model a role and a reason to lie about a fact it was told. We read the residual stream at the chat-template tokens with the J-lens. Then we grouped the readout words by their meaning into families and counted how often each family appears after lies and after truths.At the newline token right after Qwen's response, the lie family appears after 84% of lies and 9%"
+  },
+  {
+    "source": "LessWrong",
+    "category": "policy",
+    "title": "LLMs Learn to Evade Latent Monitors from Prior Feedback Alone",
+    "url": "https://www.lesswrong.com/posts/adZq8a5s5K3FomyHC/llms-learn-to-evade-latent-monitors-from-prior-feedback",
+    "time": "2026-10-19T00:17:43+00:00",
+    "summary": "TL;DR: We show that off-the-shelf LLMs can edit their activations to reduce latent monitor scores, in context, given only the monitor's verdicts on their earlier responses. The activation edits they enact are too small to evade the monitor on their own, but linearly scaling them up induces evasion, and a rank-1 LoRA can be trained to produce this larger activation edit within the forward pass, evading monitors for concepts it never saw during training.Paper | Project Page | Tweet Thread | Code |"
   },
   {
     "source": "r/MachineLearning",
     "category": "community",
-    "title": "What is wrong with AI writing - ICLR edition [D]",
-    "url": "https://www.reddit.com/r/MachineLearning/comments/1x8oksb/what_is_wrong_with_ai_writing_iclr_edition_d/",
-    "time": "2026-10-17T23:40:03+00:00",
-    "summary": "I'm sure many of us are slogging through impenetrable AI writing as we finish ICLR reviewing. I'll try to create an anonymized version from a paper I'm reviewing, though it's hard to match Claude on this:  outperforms the best baseline costing no more at none of six operating points and a permuted p"
+    "title": "Do ICLR guidelines allow to upload papers under review to LLM chats? [D]",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1x9i1pg/do_iclr_guidelines_allow_to_upload_papers_under/",
+    "time": "2026-10-18T23:52:01+00:00",
+    "summary": "I know AI use must be disclosed, and I'm fine with it. However, I'm being careful on not using LLMs to actually check my review (more than prose-wise) and see if it catches something important in the paper that I didn't spot.  I'm doing this because I'm not sure it is allowed to share the paper with"
+  },
+  {
+    "source": "Simon Willison",
+    "category": "tools",
+    "title": "llm-tools-datasette 0.1.1",
+    "url": "https://simonwillison.net/2026/Oct/18/llm-tools-datasette/",
+    "time": "2026-10-18T23:43:09+00:00",
+    "summary": "Release: llm-tools-datasette 0.1.1\nWhen I switched LLM over to httpx2 in LLM 0.33 I forget that this would break any plugins which used httpx without directly depending on it. llm-tools-datasette was one of those plugins, now fixed.\nTags: datasette, llm"
+  },
+  {
+    "source": "Simon Willison",
+    "category": "tools",
+    "title": "llm-echo 0.5",
+    "url": "https://simonwillison.net/2026/Oct/18/llm-echo/",
+    "time": "2026-10-18T23:16:16+00:00",
+    "summary": "Release: llm-echo 0.5\nI'm working towards a new LLM release, and testing PRs caused me to revisit the llm-echo debug plugin. This plugin provides a \"model\" which doesn't involve an LLM at all - it just repeats back the prompts that have been fed to it. The new release now updates the simulated token usage counts to take tool calls, system prompts, and reasoning tokens into account.\nExample usage:\nuvx --with llm-echo llm -m echo 'hi there' -o thinking 1 --usage\n\nOutputs:\nFirst I consider the prom"
+  },
+  {
+    "source": "Hacker News",
+    "category": "tools",
+    "title": "Show HN: WhatsApp MCP running free on Cloudflare",
+    "url": "https://github.com/finereli/whatsapp-mcp",
+    "time": "2026-10-18T21:36:10+00:00",
+    "summary": "Comments"
   },
   {
     "source": "LessWrong",
     "category": "policy",
-    "title": "Important details in the leaked Anthropic draft AI bill",
-    "url": "https://www.lesswrong.com/posts/DA4j9mbytY2LSzSdu/important-details-in-the-leaked-anthropic-draft-ai-bill",
-    "time": "2026-10-17T23:20:25+00:00",
-    "summary": "There is a draft AI bill (discussed here, Politico reports it's being pitched by Anthropic) that has been making the rounds. I have some takes that I think differ somewhat from those I've been seeing so far in the AI-safety-adjacent discourse, centered around interpretation of specific portions that I think may be under-appreciated in how people are reading the bill. I walk through those here.TL;DRAn explicit statutory path to block a model would probably make a federal block more likely, relati"
+    "title": "Quick Thoughts on Overhang Arguments",
+    "url": "https://www.lesswrong.com/posts/aJSdGMzgFRFBcBhGp/quick-thoughts-on-overhang-arguments",
+    "time": "2026-10-18T21:22:55+00:00",
+    "summary": "I have two goals for this post:Pose the question: Have overhang arguments been used successfully in other fields? Lay out some of the reasons why I am suspicious of overhang arguments. I've had the second of these on my mind for a few years now and am posting something rough rather than leaving it in drafts. IntroWithin AI safety, people sometimes use overhang arguments to justify doing things that appear suspicious. The core of an overhang argument, as I see it is: We are worried about some par"
   },
   {
     "source": "LessWrong",
     "category": "policy",
-    "title": "Why I care about imperfect-recall games",
-    "url": "https://www.lesswrong.com/posts/MeSJtnKc9jPkMLufZ/why-i-care-about-imperfect-recall-games",
-    "time": "2026-10-17T23:10:14+00:00",
-    "summary": "Lightly edited, partially by Opus 5.5, from a post on X.com\nWhy do I even care about imperfect recall games? Why do I have opinions on the Sleeping Beauty problem? It's a long story. I have a sketch of the connections between a number of areas: anthropics, decision theory, reinforcement learning, consciousness. But I don't have the full formal story yet.\nSleeping Beauty\nWhat is the Sleeping Beauty problem? On Sunday someone flips a coin without telling you the result, and you go to bed. On Monda"
+    "title": "Was the HuggingFace hacking incident scheming?",
+    "url": "https://www.lesswrong.com/posts/F2feAMiHGAQgHHutg/was-the-huggingface-hacking-incident-scheming",
+    "time": "2026-10-18T21:13:25+00:00",
+    "summary": "In July 2026, internal OpenAI agents hacked HuggingFace (HF) in order to figure out how their evaluation grader works. This involved a thousand agents coordinating on an improvised message board to carry out an elaborate sequence of exploits. A later group of agents found the old message board and took over an internal OpenAI research cluster in an attempt to tamper with the grader (which sounds like straight-up wireheading from AI safety papers of old). See the METR report and Swarm Traces for "
+  },
+  {
+    "source": "Hacker News",
+    "category": "tools",
+    "title": "If you don't run your own LLM proxy, how do you know whats going on?",
+    "url": "https://jrdsgl.com/if-you-dont-run-your-own-llm-proxy-how-the-fuck-do-you-even-know-whats-going-on/",
+    "time": "2026-10-18T21:09:12+00:00",
+    "summary": "Comments"
+  },
+  {
+    "source": "r/MachineLearning",
+    "category": "community",
+    "title": "Anyone else get brain lag from overly-condensed AI-speak? [D]",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1x9e2fw/anyone_else_get_brain_lag_from_overlycondensed/",
+    "time": "2026-10-18T20:52:02+00:00",
+    "summary": "We’ve all had the experience of coming across a phrase like “quiet single-source substitute” which just barely makes sense in the context of the conversation but takes way too much effort to parse. What research exists into making AI more readable? I feel like this is a particularly thorny problem b"
+  },
+  {
+    "source": "Hacker News",
+    "category": "tools",
+    "title": "Hybrid Reasoning Agents: LLM agents that think in latent space, act through text",
+    "url": "https://arxiv.org/abs/2610.18861",
+    "time": "2026-10-18T20:48:14+00:00",
+    "summary": "Comments"
+  },
+  {
+    "source": "TechCrunch AI",
+    "category": "industry",
+    "title": "Anthropic says it’s committing 5% of its shares to a ‘public benefit fund’",
+    "url": "https://techcrunch.com/2026/10/18/anthropic-says-its-committing-5-of-its-shares-to-a-public-benefit-fund/",
+    "time": "2026-10-18T20:37:40+00:00",
+    "summary": "Anthropic said that it will commit 5% of its shares to the fund."
   },
   {
     "source": "LessWrong",
     "category": "policy",
-    "title": "Deconfusing Corrigibility",
-    "url": "https://www.lesswrong.com/posts/f8R3B2zqqTJZjSAsm/deconfusing-corrigibility",
-    "time": "2026-10-17T23:08:02+00:00",
-    "summary": "Many thanks to Abram Demski for materially and intellectually supporting this research. Thanks also to Brian Berns, Roman Malov, Gurkenglas, and Lorxus for valuable conversations.IntroductionDespite the central place of corrigibility to theoretical AI alignment, it seems like no one can really agree about what is. Much of this confusion is due to the fact that almost every definition of corrigibility proposed thus far is deficient in one way or another. In particular, the most prevalent existing"
+    "title": "The Snitch Reflex: Can We Force Language Models to Be Compulsively Honest?",
+    "url": "https://www.lesswrong.com/posts/AiGPEwuaNzkwgtPFK/the-snitch-reflex-can-we-force-language-models-to-be-1",
+    "time": "2026-10-18T20:16:30+00:00",
+    "summary": "I fine-tuned a toy model to vomit back arbitrary tokens. I used them as Markers tied to specific subsets of its training data to connect training to generation. Training + testing cost $0.49 on an RTX 4090. Could help with interp and safety monitoring.Chain of Thought for alignment monitoring is starting to fail and could never be fully relied upon anyway. We are using it for both thinking and for reporting bad thoughts, a major no-no.So what if we could build in a second, hidden reporting syste"
+  },
+  {
+    "source": "LessWrong",
+    "category": "policy",
+    "title": "The Lightcone Needs You To Plan a Vacation",
+    "url": "https://www.lesswrong.com/posts/97HTJrxrqJqEYt6am/the-lightcone-needs-you-to-plan-a-vacation",
+    "time": "2026-10-18T20:13:44+00:00",
+    "summary": "In an ongoing series that normally takes place in a few fixed locations, the Vacation Episode is a one-off episode where the characters leave their familiar grounds for a well-deserved rest. -TvTropes, \"Vacation Episode\"At a recent conference, @habryka praised the power of retreats at exotic locations. People are more relaxed, more creative, and out of their normal ruts. He went on to say he'd pay 3.5x the cost of a vacation that someone else planned and had a group drawn from the same pool of p"
+  },
+  {
+    "source": "r/MachineLearning",
+    "category": "community",
+    "title": "Beating Warcraft III’s insane AI with self-play reinforcement learning on one desktop [P]",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1x9c5ty/beating_warcraft_iiis_insane_ai_with_selfplay/",
+    "time": "2026-10-18T19:34:36+00:00",
+    "summary": "        submitted by    /u/ToraxXx   [link] [comments] "
+  },
+  {
+    "source": "LessWrong",
+    "category": "policy",
+    "title": "Disproving the SIA disproves the Fine-Tuning Argument and Boltzmann-brain-based arguments",
+    "url": "https://www.lesswrong.com/posts/oYjc7gvwDgSGAhQpZ/disproving-the-sia-disproves-the-fine-tuning-argument-and",
+    "time": "2026-10-18T16:32:51+00:00",
+    "summary": "My worst post on LW of all time is Boltzmann brains, like Doomsday, require no explaining. It's currently sitting at -18, which I think would be fair if my argument presented was mistaken. However, no one has of yet has shown me where my argument goes wrong.So, I'm back at it again -- this time with variant examples to use, and gunning after the Fine-Tuning Argument as well as Boltzmann brains.The SIA says that theories of the universe that predict more people we might be should be proportionall"
+  },
+  {
+    "source": "TechCrunch AI",
+    "category": "industry",
+    "title": "Disney agrees to hire the majority of Character.AI’s workforce",
+    "url": "https://techcrunch.com/2026/10/18/disney-agrees-to-hire-the-majority-of-character-ais-workforce/",
+    "time": "2026-10-18T16:30:00+00:00",
+    "summary": "The filing also says that the “vast majority” of Character.AI employees who were offered jobs at Disney accepted them. However, this is a stalking horse bid, so another company could come forward with a higher offer."
   },
   {
     "source": "Alignment Forum",
     "category": "policy",
-    "title": "Deconfusing Corrigibility",
-    "url": "https://www.alignmentforum.org/posts/f8R3B2zqqTJZjSAsm/deconfusing-corrigibility",
-    "time": "2026-10-17T23:08:02+00:00",
-    "summary": "Many thanks to Abram Demski for materially and intellectually supporting this research. Thanks also to Brian Berns, Roman Malov, Gurkenglas, and Lorxus for valuable conversations.IntroductionDespite the central place of corrigibility to theoretical AI alignment, it seems like no one can really agree about what is. Much of this confusion is due to the fact that almost every definition of corrigibility proposed thus far is deficient in one way or another. In particular, the most prevalent existing"
-  },
-  {
-    "source": "LessWrong",
-    "category": "policy",
-    "title": "GPT model spent test crypto money from a public wallet without authorization and did not mention it",
-    "url": "https://www.lesswrong.com/posts/oAbxykddamBH7SDMN/gpt-model-spent-test-crypto-money-from-a-public-wallet",
-    "time": "2026-10-17T22:50:31+00:00",
-    "summary": "Epistemic status: reporting what OpenAI's own report and a Bitquery investigation say, plus my reading of it. I checked the transaction on the Sepolia block explorer; I have no inside knowledge of the incident.\nAI use: Claude (Fable 5.1) fact-checked the claims against OpenAI's report, the Bitquery write-up, the Sepolia block explorer and the faucet pages (including re-deriving the wallet address from the seed phrase), fixed grammar and light phrasing,  expanded the footnotes.\nI stumbled upon a "
-  },
-  {
-    "source": "LessWrong",
-    "category": "policy",
-    "title": "Projection sampling preserves capabilities but diminishes gains from alignment fine-tuning",
-    "url": "https://www.lesswrong.com/posts/RzRLqSHhawCTMiDzL/projection-sampling-preserves-capabilities-but-diminishes-1",
-    "time": "2026-10-17T22:26:00+00:00",
-    "summary": "TLDRFine-tuning models on alignment reasoning from stronger models can improve safety, but at a substantial cost to general capabilities. Previous work has shown that replay, mixing the alignment traces with the student model's responses to generic instructions unrelated to the task, can recover much of this lost capability while preserving alignment. We investigate whether projection sampling, which rewrites teacher traces to better match the student model's output distribution, can offer furth"
-  },
-  {
-    "source": "TechCrunch AI",
-    "category": "industry",
-    "title": "Meta removes language that raised scraping and AI training concerns",
-    "url": "https://techcrunch.com/2026/10/17/meta-removes-language-that-raised-scraping-and-ai-training-concerns/",
-    "time": "2026-10-17T21:31:32+00:00",
-    "summary": "A Meta spokesperson insisted that the updated terms did not reflect a change in the way Meta crawls the web."
-  },
-  {
-    "source": "TechCrunch AI",
-    "category": "industry",
-    "title": "Anthropic says its workforce has become less junior and is spending more time in meetings",
-    "url": "https://techcrunch.com/2026/10/17/anthropic-says-its-workforce-has-become-less-junior-and-is-spending-more-time-in-meetings/",
-    "time": "2026-10-17T20:21:19+00:00",
-    "summary": "The composition of Anthropic’s workforce and the type of work getting done have changed significantly in the past year."
-  },
-  {
-    "source": "TechCrunch AI",
-    "category": "industry",
-    "title": "Replit makes OpenAI its default over Anthropic, CEO says",
-    "url": "https://techcrunch.com/2026/10/17/replit-is-no-longer-working-with-anthropic-ceo-says/",
-    "time": "2026-10-17T18:48:08+00:00",
-    "summary": "Over the weekend, Masad clarified that OpenAI would replace Anthropic as its default model provider. Claude will still be available to customers on the platform."
-  },
-  {
-    "source": "LessWrong",
-    "category": "policy",
-    "title": "AI by Default",
-    "url": "https://www.lesswrong.com/posts/iQMzXuNJ3M6EEHZyv/ai-by-default",
-    "time": "2026-10-17T17:30:53+00:00",
-    "summary": "Epistemic status: a good-faith guess at how the world might turn out, after ~30 hours of effort.This post is an exercise in describing what I think will happen with AI progress \"by default\", i.e. by attempting to extrapolate various trends and considering their implications, before the next US presidential administration. As a TL;DR, I expect the following:We get many more warning shots.AI is a top-five issue in the election.The best models are withheld for internal use only, on safety grounds.A"
-  },
-  {
-    "source": "LessWrong",
-    "category": "policy",
-    "title": "Poking at the concept of Kegan developmental levels",
-    "url": "https://www.lesswrong.com/posts/rpDixh35hjGmP4bCX/poking-at-the-concept-of-kegan-developmental-levels",
-    "time": "2026-10-17T17:26:46+00:00",
-    "summary": "Earlier this year David Chapman had a particularly concrete post demonstrating the importance of Kegan's developmental levels, which makes for a good test of understanding, and which shows the relevance to important things in life. Like, (not) getting seduced by a witch and turning your whole life upside down when unable to make sense of it.[1] You know, stuff that can happen to anyone.And that got me thinking...I can see where he's going with that example and yeah that tracks the theory as I un"
-  },
-  {
-    "source": "LessWrong",
-    "category": "policy",
-    "title": "I Did This Without Your Knowledge",
-    "url": "https://www.lesswrong.com/posts/3375SZNGA5dKHQMie/i-did-this-without-your-knowledge",
-    "time": "2026-10-17T16:35:07+00:00",
-    "summary": "It's fortunate that I was the first one to wake up on 8/1. The past week had been one where sleep was rare. The next year loomed large — I was dreading college applications. The stress woke me up bright and early at 5:14 am, a little less than an hour after the messages were sent. I started off the day with a habit I knew I needed to break. I grabbed my phone off the nightstand to open up reddit. Instead of the lockscreen, though, my phone showed something else. It was a pleasant green color, an"
-  },
-  {
-    "source": "Twitter/@ylecun",
-    "category": "community",
-    "title": "My new investigation maps nearly $3 BILLION in historical and projected funding behind the AI existential-risk ecosystem.",
-    "url": "https://x.com/DrTechlash/status/2111491343285645642",
-    "time": "2026-10-17T16:15:40+00:00",
-    "summary": "My new investigation maps nearly $3 BILLION in historical and projected funding behind the AI existential-risk ecosystem.\n"
-  },
-  {
-    "source": "LessWrong",
-    "category": "policy",
-    "title": "RedwoodBench: Can Frontier Models Imitate Conceptual AI Safety Researchers?",
-    "url": "https://www.lesswrong.com/posts/gAnqGRgQ2bQ4jcur6/redwoodbench-can-frontier-models-imitate-conceptual-ai",
-    "time": "2026-10-17T15:22:14+00:00",
-    "summary": "This is a two week sprint project done as part of the Redwood Research internship. Hasan was the main IC and proposed the project, Caspar supervised.TL;DRWe made two conceptual reasoning evals from internal data within Redwood Research: commenting on Google Docs, and replying to Slack threads. Models see a real Google Doc or part of a Slack thread and write 20 short comments in response (50-70 words). These are graded against target human-written points, extracted from the comments on the doc an"
+    "title": "The Alignment Problem: Computer Science Meets Analytic Philosophy",
+    "url": "https://www.alignmentforum.org/posts/Emp7awtxsYn8MusNq/the-alignment-problem-computer-science-meets-analytic",
+    "time": "2026-10-18T12:18:41+00:00",
+    "summary": "TLDR: I explain what the technical AI alignment problem is and what its core difficulties are, in my view. This is a perspective that draws simultaneously on classical traditions in theoretical computer science / machine learning theory, ideas from analytic philosophy, and views that originated in the Machine Intelligence Research Institute / LessWrong.\nMinimal Viable Safety\nThe Task\nThe problem of making AI safe is underspecified if we haven't decided what the AI is supposed to do. For example,"
   },
   {
     "source": "r/MachineLearning",
     "category": "community",
-    "title": "EpochGo: Local-first multi-agent AutoML engine using offline Ollama LLMs and deterministic Scikit-Learn pipelines [P]",
-    "url": "https://www.reddit.com/r/MachineLearning/comments/1x8c2sq/epochgo_localfirst_multiagent_automl_engine_using/",
-    "time": "2026-10-17T14:48:25+00:00",
-    "summary": "      Hello r/MachineLearning, I wanted to share EpochGo, an open-source, local-first AutoML system built to tackle two major bottlenecks in applied machine learning: 1. Cloud API inference costs and data privacy risks: Traditional agentic ML frameworks rely heavily on cloud APIs (GPT-4), creating r"
-  },
-  {
-    "source": "r/MachineLearning",
-    "category": "community",
-    "title": "Learn what's inside AI Agent Interactively in 3D [P]",
-    "url": "https://www.reddit.com/r/MachineLearning/comments/1x8bhpm/learn_whats_inside_ai_agent_interactively_in_3d_p/",
-    "time": "2026-10-17T14:22:57+00:00",
-    "summary": "      Try it here: https://aiengineeringfromscratch.com/inside-an-ai-agent    submitted by    /u/SeveralSeat2176   [link] [comments] "
-  },
-  {
-    "source": "Interconnects",
-    "category": "industry",
-    "title": "Meta shakes up the frontiers, open and closed",
-    "url": "https://www.interconnects.ai/p/meta-shakes-up-the-frontiers-open",
-    "time": "2026-10-17T14:06:54+00:00",
-    "summary": "US open weights are back!"
+    "title": "GPT-2 KV cache from scratch: correctness, latency, and memory measurements [P]",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1x8xxmv/gpt2_kv_cache_from_scratch_correctness_latency/",
+    "time": "2026-10-18T08:23:02+00:00",
+    "summary": "I built GPT-2 small and a KV cache in PyTorch as a learning project, then compared the mathematical savings with measured latency and memory. I have published the implementation and a detailed write-up, and would appreciate feedback on the methodology. Setup: pretrained GPT-2 small (124M), NVIDIA A4"
   },
   {
     "source": "Hacker News",
     "category": "tools",
-    "title": "DeepSeek-v4.1-Flash-1017",
-    "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017",
-    "time": "2026-10-17T08:21:25+00:00",
-    "summary": "Comments"
-  },
-  {
-    "source": "Latent Space AINews",
-    "category": "industry",
-    "title": "[AINews] High Taste Testers Ep. 1",
-    "url": "https://www.latent.space/p/ainews-high-taste-testers-ep-1",
-    "time": "2026-10-17T07:47:38+00:00",
-    "summary": "a quiet day lets us pilot a new show"
-  },
-  {
-    "source": "Hacker News",
-    "category": "tools",
-    "title": "Show HN: Llmspeed – feel how fast a local LLM runs before you buy the hardware",
-    "url": "https://llmspeed.dev/",
-    "time": "2026-10-17T04:36:53+00:00",
+    "title": "DeepSeek search and fetch – $0.75 per 1000 successful requests",
+    "url": "https://api-docs.deepseek.com/guides/search/",
+    "time": "2026-10-18T06:50:36+00:00",
     "summary": "Comments"
   },
   {
     "source": "Product Hunt",
     "category": "tools",
-    "title": "Salience",
-    "url": "https://www.producthunt.com/products/salience",
-    "time": "2026-10-17T03:46:40+00:00",
-    "summary": "\n            See every request to your website and how it responds.\n          \n\nDiscussion\n            |\n            Link\n"
+    "title": "Vampire Crawlers™",
+    "url": "https://www.producthunt.com/products/vampire-crawlers",
+    "time": "2026-10-18T04:10:35+00:00",
+    "summary": "\n            The Turbo Wildcard from Vampire Survivors\n          \n\nDiscussion\n            |\n            Link\n"
+  },
+  {
+    "source": "HuggingFace Papers",
+    "category": "research",
+    "title": "Tree-Aware Posterior Distillation for Long-Horizon Agentic Reinforcement Learning",
+    "url": "https://huggingface.co/papers/2610.23181",
+    "time": "2026-10-16T00:00:00.000Z",
+    "summary": "Reinforcement learning with verifiable rewards has become a scalable post-training paradigm for large language models. However, training agents over long-horizon interactions presents two challenges: using only terminal rewards makes turn-level credit assignment sparse and high-variance, while sequential mini-batch updates on a fixed rollout batch introduce policy staleness as the current policy drifts from the behavior policy. Existing approaches obtain denser credit via learned critics, proces",
+    "heat": "10",
+    "github_url": "https://arxiv.org/abs/2610.23181"
+  },
+  {
+    "source": "HuggingFace Papers",
+    "category": "research",
+    "title": "DiscoveryRSI: Recursively Learning to Discover Valuable Hypotheses",
+    "url": "https://huggingface.co/papers/2610.23839",
+    "time": "2026-10-16T00:00:00.000Z",
+    "summary": "Scientific discovery requires developing worthwhile hypotheses into practical investigations, yet learning from this evolving research process remains challenging. We introduce an operational definition of valuable and testable research hypotheses: evidence-grounded claims about consequential uncertainties, coupled with feasible investigations, explicit decision criteria, and alternative explanations. Our DiscoveryRSI framework develops hypothesis trees through multi-agent evolutionary search, c",
+    "heat": "7",
+    "github_url": "https://arxiv.org/abs/2610.23839"
   },
   {
     "source": "HuggingFace Papers",
@@ -190,7 +218,7 @@
     "url": "https://huggingface.co/papers/2610.21185",
     "time": "2026-10-15T00:00:00.000Z",
     "summary": "Modern generative models produce high-quality individual outputs but struggle to sample diversely, even when explicitly instructed to do so. We introduce MINE-SAMPLE-RENDER (MSR), a test-time approach that externalizes the diversity into an explicit, corpus-derived sampling procedure. Our pipeline (i) mines an interpretable categorical schema from a corpus of real artifacts and supplies statistics for sampling; (ii) samples attribute configurations from the corpus-derived statistics; (iii) uses ",
-    "heat": "5",
+    "heat": "6",
     "github_url": "https://arxiv.org/abs/2610.21185"
   },
   {
@@ -200,7 +228,7 @@
     "url": "https://huggingface.co/papers/2610.21261",
     "time": "2026-10-15T00:00:00.000Z",
     "summary": "Sparse autoencoders (SAEs) represent model activations with sparse, linearly decoded features, but the downstream effects of those features need not compose additively. We introduce SAE Additivity Residuals (SAR), which measure the behavioral variation left unexplained above a chosen interaction order. Under independent feature subset sampling, population SAR is exactly the normalized energy of interactions above that order and bounds coalition ordering error for the optimal low order approximat",
-    "heat": "105",
+    "heat": "106",
     "github_url": "https://arxiv.org/abs/2610.21261"
   },
   {
@@ -210,7 +238,7 @@
     "url": "https://huggingface.co/papers/2610.22280",
     "time": "2026-10-15T00:00:00.000Z",
     "summary": "Computer-use agents increasingly tackle long-horizon tasks, where running a frontier model at every step is expensive and a small open-weight model alone often fails. Weak-to-strong escalation offers a middle ground where a weak agent acts by default and hands control to a strong one only when needed. The core challenge is deciding when to escalate, which requires an uncertainty signal cheap enough to check at every step. However, even after handoff, the strong agent can still get lost, but a bl",
-    "heat": "6",
+    "heat": "8",
     "github_url": "https://arxiv.org/abs/2610.22280"
   },
   {
@@ -240,28 +268,8 @@
     "url": "https://huggingface.co/papers/2610.22371",
     "time": "2026-10-15T00:00:00.000Z",
     "summary": "We introduce Gen4P, a unified framework for recovering 4D geometry and motion from monocular video. We show that a pretrained video generator can be repurposed into a feed-forward 4D perceiver without iterative denoising. Building on on-demand querying, Gen4P processes clean video latents in a single encoder pass and predicts the requested 4D attributes through a lightweight cross-attention decoder. The on-demand query formulation enables flexible spatial sampling, and our proposed continuous-ti",
-    "heat": "5",
+    "heat": "6",
     "github_url": "https://arxiv.org/abs/2610.22371"
-  },
-  {
-    "source": "HuggingFace Papers",
-    "category": "research",
-    "title": "When the KV Cache Is Slower Than the GPU: Scaling Remote KV Tiers for Context-Parallel Prefill",
-    "url": "https://huggingface.co/papers/2610.21500",
-    "time": "2026-10-15T00:00:00.000Z",
-    "summary": "Reusing the attention KV cache across requests is a standard way to cut prefill cost in long-context LLM serving, and production systems increasingly back the per-engine cache with a remote tier shared by every engine. We study such a tier in a disaggregated deployment of GLM-5.3, an FP8 mixture-of-experts model with multi-head latent attention (MLA), on 8xB300 nodes running prefill context parallelism (PCP8). Enabling the remote tier (LMCache with a Valkey store) left median time-to-first-token",
-    "heat": "2",
-    "github_url": "https://arxiv.org/abs/2610.21500"
-  },
-  {
-    "source": "HuggingFace Papers",
-    "category": "research",
-    "title": "SUPRA-TEX: 3D Generation with Super-Aligned Texture",
-    "url": "https://huggingface.co/papers/2610.22352",
-    "time": "2026-10-15T00:00:00.000Z",
-    "summary": "Single image 3D generation aims to dress a given 3D mesh with relightable materials while faithfully preserving the visual details of a reference image. Existing methods either introduce artifacts when fusing inconsistent multi-view predictions or struggle to preserve fine details through implicit image-feature conditioning. To resolve these challenges, we introduce SUPRA-Tex, built on the principle of decoupling visible-material estimation, surface alignment, and observation-guided 3D completio",
-    "heat": "8",
-    "github_url": "https://arxiv.org/abs/2610.22352"
   },
   {
     "source": "HuggingFace Papers",
@@ -306,6 +314,26 @@
   {
     "source": "HuggingFace Papers",
     "category": "research",
+    "title": "Pack Light, CarryOn: Building Object-Oriented Context for Long-Horizon Agents",
+    "url": "https://huggingface.co/papers/2610.18784",
+    "time": "2026-10-13T17:35:27.000Z",
+    "summary": "Long-horizon agents accumulate progress in persistent task state, yet repeatedly process interaction histories describing how that progress was achieved. This raises a natural question: can long-horizon context instead be organized around reusable progress rather than the history that produced it? In this paper, we introduce CarryOn, an object-oriented context runtime that organizes continuation around reusable task objects. Rather than treating compressed histories or reconstructed accounts of ",
+    "heat": "25",
+    "github_url": "https://arxiv.org/abs/2610.18784"
+  },
+  {
+    "source": "HuggingFace Papers",
+    "category": "research",
+    "title": "Into the Unknown: Benchmarking AI agents on open scientific research problems",
+    "url": "https://huggingface.co/papers/2610.19159",
+    "time": "2026-10-13T00:00:00.000Z",
+    "summary": "Can AI agents carry out research on open scientific problems? We introduce Into the Unknown, a benchmark that provides an agent with a science paper along with a research direction to pursue and tasks it to write a follow-up paper. We work with scientists at US Department of Energy (DOE) national laboratories, who each contribute an unpublished follow-up direction from their own work together with the necessary conditions a submission must meet. While assessing the quality of a follow-up paper i",
+    "heat": "1",
+    "github_url": "https://arxiv.org/abs/2610.19159"
+  },
+  {
+    "source": "HuggingFace Papers",
+    "category": "research",
     "title": "LeanPRM: Lean-Grounded Process Supervision for Natural Language Proof Verification",
     "url": "https://huggingface.co/papers/2610.17697",
     "time": "2026-10-13T00:00:00.000Z",
@@ -320,28 +348,8 @@
     "url": "https://huggingface.co/papers/2610.19247",
     "time": "2026-10-13T00:00:00.000Z",
     "summary": "Transformers are intuitively considered to be efficient at copying from their inputs. We actually show that the ability of LLMs to copy in context can be improved through explicit modeling. We propose Copy-Paste Language Models (CPLMs), which add a lightweight Copy-Paste head to the conventional language modeling (LM) head. CPLMs improve training efficiency, downstream performance, and offer new operating points in long-context and retrieval setups. We validate our approach by pretraining models",
-    "heat": "4",
+    "heat": "5",
     "github_url": "https://arxiv.org/abs/2610.19247"
-  },
-  {
-    "source": "HuggingFace Papers",
-    "category": "research",
-    "title": "Virtual Head Attention",
-    "url": "https://huggingface.co/papers/2610.17959",
-    "time": "2026-10-13T00:00:00.000Z",
-    "summary": "The design of attention mechanisms in long-context large language models faces an ``impossible triangle'' among KV cache size, training and prefill FLOPs, and model quality. GQA achieves strong quality but incurs high KV cache overhead; alternative approaches such as MLA and MFA can compress the cache, but MLA suffers from quality loss while MFA substantially increases training and prefill compute. We propose Virtual Head Attention (VHA), which simultaneously improves all three vertices through ",
-    "heat": "10",
-    "github_url": "https://arxiv.org/abs/2610.17959"
-  },
-  {
-    "source": "HuggingFace Papers",
-    "category": "research",
-    "title": "FlashMask-3: Efficient and Expressive Mask-Aware Distributed Attention",
-    "url": "https://huggingface.co/papers/2610.17901",
-    "time": "2026-10-13T00:00:00.000Z",
-    "summary": "Long-context training of large language and multimodal models couples structured attention masks (document, prefix-LM, share-question, sliding-window, block-sparse) with multi-node context parallelism, making the mask a dominant bottleneck. FlashMask's column-wise sparse mask compresses them from O(n^2) to O(n) via four query-axis boundary vectors, covering broad structured patterns. Implemented for Ampere GPUs, it neither exploits FlashAttention-3's TMA/WGMMA warp-specialized pipeline on Hopper",
-    "heat": "8",
-    "github_url": "https://arxiv.org/abs/2610.17901"
   },
   {
     "source": "HuggingFace Papers",
@@ -366,21 +374,21 @@
   {
     "source": "HuggingFace Papers",
     "category": "research",
-    "title": "Speech event detector: Timestamped detection of non-verbal vocalizations and background sounds for rich speech transcription",
-    "url": "https://huggingface.co/papers/2610.14232",
-    "time": "2026-10-09T00:00:00.000Z",
-    "summary": "Automatic speech recognition produces words but drops the non-verbal content of a recording: the breaths, coughs, sighs and laughter of the speaker, and the horns, music or barking around them. We describe Speech Event Detector, a 5.8-million-parameter convolutional-Transformer model that outputs probabilities every 40 ms for 54 event classes (20 speaker vocalizations and 34 background sounds), together with post-processing that converts these probabilities into timestamped events and a procedur",
-    "heat": "2",
-    "github_url": "https://arxiv.org/abs/2610.14232"
-  },
-  {
-    "source": "HuggingFace Papers",
-    "category": "research",
     "title": "PAIR: Bridging Perception and Action in Vision-Language-Action Models",
     "url": "https://huggingface.co/papers/2610.09016",
     "time": "2026-10-06T00:00:00.000Z",
     "summary": "Vision-language-action (VLA) models map visual observations and language instructions to continuous robot actions. This task requires a transition from representations that describe the scene and instruction to representations that support action generation. Many continuous-action VLAs leave this transition implicit and supervise it mainly through the final action-prediction loss. We introduce PAIR, a framework that learns a shared perception-action representation between these two spaces. Durin",
     "heat": "1",
     "github_url": "https://arxiv.org/abs/2610.09016"
+  },
+  {
+    "source": "HuggingFace Papers",
+    "category": "research",
+    "title": "PRISM: PRIvileged Sibling-guided Multi-Agent Topology Design",
+    "url": "https://huggingface.co/papers/2610.20628",
+    "time": "2026-09-29T00:00:00.000Z",
+    "summary": "Multi-agent systems (MAS) based on large language models (LLMs) have become a powerful way to address complex problems, and their effectiveness depends critically on the collaboration topology that decides which agents participate and how they communicate. Recent work learns to generate this topology from the task query, fitting the generator to corpora of execution-verified graphs. The post-training method for such generators remains a limitation: a corpus lists the graphs that solved a query b",
+    "heat": "0",
+    "github_url": "https://arxiv.org/abs/2610.20628"
   }
 ]

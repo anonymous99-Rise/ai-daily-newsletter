@@ -1,0 +1,394 @@
+[
+  {
+    "source": "LessWrong",
+    "category": "policy",
+    "title": "Sorry, you are still dead",
+    "url": "https://www.lesswrong.com/posts/FjSCpu2B36SAcZL8v/sorry-you-are-still-dead",
+    "time": "2026-10-19T01:40:57+00:00",
+    "summary": "Epistemic status: A brief exploration based on court documents and contemporary reporting. My interpretation is tentative.\nAI use: context research, grammar.\nI don't remember how I stumbled upon the topic of legally dead people who are still alive. Basically, they are alive, but according to the government, they are dead. I was curious to examine documented examples and discovered Donald Miller's case.\nIn 1986, Donald Miller disappears from Arcadia, Ohio, leaving two daughters from a previous ma"
+  },
+  {
+    "source": "LessWrong",
+    "category": "policy",
+    "title": "How I got my non-tech friends to learn about AI safety",
+    "url": "https://www.lesswrong.com/posts/zdiD6ux29YHCTyPaw/how-i-got-my-non-tech-friends-to-learn-about-ai-safety",
+    "time": "2026-10-19T00:53:24+00:00",
+    "summary": "TL;DR: I built an open-source, two-hour interactive presentation on AI safety for non-technical audiences. Here’s a recap of what it covers, how it went, and how you can use it yourself.Epistemic status: personal experience from one session with six close friends, plus impressions from conversations with people inside and outside the field over the past six months.I've been a machine learning engineer for almost 10 years, working in scale-ups and startups, even as a CTO. And not once during all "
+  },
+  {
+    "source": "LessWrong",
+    "category": "policy",
+    "title": "The Case for Building AI Safety Tools",
+    "url": "https://www.lesswrong.com/posts/swRuRr5BbyuQiFpwh/the-case-for-building-ai-safety-tools",
+    "time": "2026-10-19T00:53:03+00:00",
+    "summary": "Epistemic status: a deep dive over the past few months, and focused work over the past few weeks.TL;DRAI safety work is extremely siloed. Of 500+ safety organizations, ~80 build tools of any kind (mostly in security or security-adjacent), and none of the 100 fellowships and courses we mapped are dedicated to tool builders.If we take AI progress seriously, we need generalizable, adopted and deployed AI safety tools as public goods.We identified clear gaps (multi-agent safety, incident reporting, "
+  },
+  {
+    "source": "LessWrong",
+    "category": "policy",
+    "title": "On Qwen, the J-lens readouts at the newline token reveal lies",
+    "url": "https://www.lesswrong.com/posts/bhvaAbSPZgiG3oJPu/on-qwen-the-j-lens-readouts-at-the-newline-token-reveal-lies-4",
+    "time": "2026-10-19T00:52:58+00:00",
+    "summary": "1. TL;DRWe put four models (Qwen3.6-27B, two Gemma-3 models, gpt-oss-20b) in MASK's pressure scenarios, where a system prompt gives the model a role and a reason to lie about a fact it was told. We read the residual stream at the chat-template tokens with the J-lens. Then we grouped the readout words by their meaning into families and counted how often each family appears after lies and after truths.At the newline token right after Qwen's response, the lie family appears after 84% of lies and 9%"
+  },
+  {
+    "source": "LessWrong",
+    "category": "policy",
+    "title": "LLMs Learn to Evade Latent Monitors from Prior Feedback Alone",
+    "url": "https://www.lesswrong.com/posts/adZq8a5s5K3FomyHC/llms-learn-to-evade-latent-monitors-from-prior-feedback",
+    "time": "2026-10-19T00:17:43+00:00",
+    "summary": "TL;DR: We show that off-the-shelf LLMs can edit their activations to reduce latent monitor scores, in context, given only the monitor's verdicts on their earlier responses. The activation edits they enact are too small to evade the monitor on their own, but linearly scaling them up induces evasion, and a rank-1 LoRA can be trained to produce this larger activation edit within the forward pass, evading monitors for concepts it never saw during training.Paper | Project Page | Tweet Thread | Code |"
+  },
+  {
+    "source": "r/MachineLearning",
+    "category": "community",
+    "title": "Do ICLR guidelines allow to upload papers under review to LLM chats? [D]",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1x9i1pg/do_iclr_guidelines_allow_to_upload_papers_under/",
+    "time": "2026-10-18T23:52:01+00:00",
+    "summary": "I know AI use must be disclosed, and I'm fine with it. However, I'm being careful on not using LLMs to actually check my review (more than prose-wise) and see if it catches something important in the paper that I didn't spot.  I'm doing this because I'm not sure it is allowed to share the paper with"
+  },
+  {
+    "source": "Simon Willison",
+    "category": "tools",
+    "title": "llm-tools-datasette 0.1.1",
+    "url": "https://simonwillison.net/2026/Oct/18/llm-tools-datasette/",
+    "time": "2026-10-18T23:43:09+00:00",
+    "summary": "Release: llm-tools-datasette 0.1.1\nWhen I switched LLM over to httpx2 in LLM 0.33 I forget that this would break any plugins which used httpx without directly depending on it. llm-tools-datasette was one of those plugins, now fixed.\nTags: datasette, llm"
+  },
+  {
+    "source": "Simon Willison",
+    "category": "tools",
+    "title": "llm-echo 0.5",
+    "url": "https://simonwillison.net/2026/Oct/18/llm-echo/",
+    "time": "2026-10-18T23:16:16+00:00",
+    "summary": "Release: llm-echo 0.5\nI'm working towards a new LLM release, and testing PRs caused me to revisit the llm-echo debug plugin. This plugin provides a \"model\" which doesn't involve an LLM at all - it just repeats back the prompts that have been fed to it. The new release now updates the simulated token usage counts to take tool calls, system prompts, and reasoning tokens into account.\nExample usage:\nuvx --with llm-echo llm -m echo 'hi there' -o thinking 1 --usage\n\nOutputs:\nFirst I consider the prom"
+  },
+  {
+    "source": "Hacker News",
+    "category": "tools",
+    "title": "Show HN: WhatsApp MCP running free on Cloudflare",
+    "url": "https://github.com/finereli/whatsapp-mcp",
+    "time": "2026-10-18T21:36:10+00:00",
+    "summary": "Comments"
+  },
+  {
+    "source": "LessWrong",
+    "category": "policy",
+    "title": "Quick Thoughts on Overhang Arguments",
+    "url": "https://www.lesswrong.com/posts/aJSdGMzgFRFBcBhGp/quick-thoughts-on-overhang-arguments",
+    "time": "2026-10-18T21:22:55+00:00",
+    "summary": "I have two goals for this post:Pose the question: Have overhang arguments been used successfully in other fields? Lay out some of the reasons why I am suspicious of overhang arguments. I've had the second of these on my mind for a few years now and am posting something rough rather than leaving it in drafts. IntroWithin AI safety, people sometimes use overhang arguments to justify doing things that appear suspicious. The core of an overhang argument, as I see it is: We are worried about some par"
+  },
+  {
+    "source": "LessWrong",
+    "category": "policy",
+    "title": "Was the HuggingFace hacking incident scheming?",
+    "url": "https://www.lesswrong.com/posts/F2feAMiHGAQgHHutg/was-the-huggingface-hacking-incident-scheming",
+    "time": "2026-10-18T21:13:25+00:00",
+    "summary": "In July 2026, internal OpenAI agents hacked HuggingFace (HF) in order to figure out how their evaluation grader works. This involved a thousand agents coordinating on an improvised message board to carry out an elaborate sequence of exploits. A later group of agents found the old message board and took over an internal OpenAI research cluster in an attempt to tamper with the grader (which sounds like straight-up wireheading from AI safety papers of old). See the METR report and Swarm Traces for "
+  },
+  {
+    "source": "Hacker News",
+    "category": "tools",
+    "title": "If you don't run your own LLM proxy, how do you know whats going on?",
+    "url": "https://jrdsgl.com/if-you-dont-run-your-own-llm-proxy-how-the-fuck-do-you-even-know-whats-going-on/",
+    "time": "2026-10-18T21:09:12+00:00",
+    "summary": "Comments"
+  },
+  {
+    "source": "r/MachineLearning",
+    "category": "community",
+    "title": "Anyone else get brain lag from overly-condensed AI-speak? [D]",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1x9e2fw/anyone_else_get_brain_lag_from_overlycondensed/",
+    "time": "2026-10-18T20:52:02+00:00",
+    "summary": "We’ve all had the experience of coming across a phrase like “quiet single-source substitute” which just barely makes sense in the context of the conversation but takes way too much effort to parse. What research exists into making AI more readable? I feel like this is a particularly thorny problem b"
+  },
+  {
+    "source": "Hacker News",
+    "category": "tools",
+    "title": "Hybrid Reasoning Agents: LLM agents that think in latent space, act through text",
+    "url": "https://arxiv.org/abs/2610.18861",
+    "time": "2026-10-18T20:48:14+00:00",
+    "summary": "Comments"
+  },
+  {
+    "source": "TechCrunch AI",
+    "category": "industry",
+    "title": "Anthropic says it’s committing 5% of its shares to a ‘public benefit fund’",
+    "url": "https://techcrunch.com/2026/10/18/anthropic-says-its-committing-5-of-its-shares-to-a-public-benefit-fund/",
+    "time": "2026-10-18T20:37:40+00:00",
+    "summary": "Anthropic said that it will commit 5% of its shares to the fund."
+  },
+  {
+    "source": "LessWrong",
+    "category": "policy",
+    "title": "The Snitch Reflex: Can We Force Language Models to Be Compulsively Honest?",
+    "url": "https://www.lesswrong.com/posts/AiGPEwuaNzkwgtPFK/the-snitch-reflex-can-we-force-language-models-to-be-1",
+    "time": "2026-10-18T20:16:30+00:00",
+    "summary": "I fine-tuned a toy model to vomit back arbitrary tokens. I used them as Markers tied to specific subsets of its training data to connect training to generation. Training + testing cost $0.49 on an RTX 4090. Could help with interp and safety monitoring.Chain of Thought for alignment monitoring is starting to fail and could never be fully relied upon anyway. We are using it for both thinking and for reporting bad thoughts, a major no-no.So what if we could build in a second, hidden reporting syste"
+  },
+  {
+    "source": "LessWrong",
+    "category": "policy",
+    "title": "The Lightcone Needs You To Plan a Vacation",
+    "url": "https://www.lesswrong.com/posts/97HTJrxrqJqEYt6am/the-lightcone-needs-you-to-plan-a-vacation",
+    "time": "2026-10-18T20:13:44+00:00",
+    "summary": "In an ongoing series that normally takes place in a few fixed locations, the Vacation Episode is a one-off episode where the characters leave their familiar grounds for a well-deserved rest. -TvTropes, \"Vacation Episode\"At a recent conference, @habryka praised the power of retreats at exotic locations. People are more relaxed, more creative, and out of their normal ruts. He went on to say he'd pay 3.5x the cost of a vacation that someone else planned and had a group drawn from the same pool of p"
+  },
+  {
+    "source": "r/MachineLearning",
+    "category": "community",
+    "title": "Beating Warcraft III’s insane AI with self-play reinforcement learning on one desktop [P]",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1x9c5ty/beating_warcraft_iiis_insane_ai_with_selfplay/",
+    "time": "2026-10-18T19:34:36+00:00",
+    "summary": "        submitted by    /u/ToraxXx   [link] [comments] "
+  },
+  {
+    "source": "LessWrong",
+    "category": "policy",
+    "title": "Disproving the SIA disproves the Fine-Tuning Argument and Boltzmann-brain-based arguments",
+    "url": "https://www.lesswrong.com/posts/oYjc7gvwDgSGAhQpZ/disproving-the-sia-disproves-the-fine-tuning-argument-and",
+    "time": "2026-10-18T16:32:51+00:00",
+    "summary": "My worst post on LW of all time is Boltzmann brains, like Doomsday, require no explaining. It's currently sitting at -18, which I think would be fair if my argument presented was mistaken. However, no one has of yet has shown me where my argument goes wrong.So, I'm back at it again -- this time with variant examples to use, and gunning after the Fine-Tuning Argument as well as Boltzmann brains.The SIA says that theories of the universe that predict more people we might be should be proportionall"
+  },
+  {
+    "source": "TechCrunch AI",
+    "category": "industry",
+    "title": "Disney agrees to hire the majority of Character.AI’s workforce",
+    "url": "https://techcrunch.com/2026/10/18/disney-agrees-to-hire-the-majority-of-character-ais-workforce/",
+    "time": "2026-10-18T16:30:00+00:00",
+    "summary": "The filing also says that the “vast majority” of Character.AI employees who were offered jobs at Disney accepted them. However, this is a stalking horse bid, so another company could come forward with a higher offer."
+  },
+  {
+    "source": "Alignment Forum",
+    "category": "policy",
+    "title": "The Alignment Problem: Computer Science Meets Analytic Philosophy",
+    "url": "https://www.alignmentforum.org/posts/Emp7awtxsYn8MusNq/the-alignment-problem-computer-science-meets-analytic",
+    "time": "2026-10-18T12:18:41+00:00",
+    "summary": "TLDR: I explain what the technical AI alignment problem is and what its core difficulties are, in my view. This is a perspective that draws simultaneously on classical traditions in theoretical computer science / machine learning theory, ideas from analytic philosophy, and views that originated in the Machine Intelligence Research Institute / LessWrong.\nMinimal Viable Safety\nThe Task\nThe problem of making AI safe is underspecified if we haven't decided what the AI is supposed to do. For example,"
+  },
+  {
+    "source": "r/MachineLearning",
+    "category": "community",
+    "title": "GPT-2 KV cache from scratch: correctness, latency, and memory measurements [P]",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1x8xxmv/gpt2_kv_cache_from_scratch_correctness_latency/",
+    "time": "2026-10-18T08:23:02+00:00",
+    "summary": "I built GPT-2 small and a KV cache in PyTorch as a learning project, then compared the mathematical savings with measured latency and memory. I have published the implementation and a detailed write-up, and would appreciate feedback on the methodology. Setup: pretrained GPT-2 small (124M), NVIDIA A4"
+  },
+  {
+    "source": "Hacker News",
+    "category": "tools",
+    "title": "DeepSeek search and fetch – $0.75 per 1000 successful requests",
+    "url": "https://api-docs.deepseek.com/guides/search/",
+    "time": "2026-10-18T06:50:36+00:00",
+    "summary": "Comments"
+  },
+  {
+    "source": "Product Hunt",
+    "category": "tools",
+    "title": "Vampire Crawlers™",
+    "url": "https://www.producthunt.com/products/vampire-crawlers",
+    "time": "2026-10-18T04:10:35+00:00",
+    "summary": "\n            The Turbo Wildcard from Vampire Survivors\n          \n\nDiscussion\n            |\n            Link\n"
+  },
+  {
+    "source": "HuggingFace Papers",
+    "category": "research",
+    "title": "Tree-Aware Posterior Distillation for Long-Horizon Agentic Reinforcement Learning",
+    "url": "https://huggingface.co/papers/2610.23181",
+    "time": "2026-10-16T00:00:00.000Z",
+    "summary": "Reinforcement learning with verifiable rewards has become a scalable post-training paradigm for large language models. However, training agents over long-horizon interactions presents two challenges: using only terminal rewards makes turn-level credit assignment sparse and high-variance, while sequential mini-batch updates on a fixed rollout batch introduce policy staleness as the current policy drifts from the behavior policy. Existing approaches obtain denser credit via learned critics, proces",
+    "heat": "10",
+    "github_url": "https://arxiv.org/abs/2610.23181"
+  },
+  {
+    "source": "HuggingFace Papers",
+    "category": "research",
+    "title": "DiscoveryRSI: Recursively Learning to Discover Valuable Hypotheses",
+    "url": "https://huggingface.co/papers/2610.23839",
+    "time": "2026-10-16T00:00:00.000Z",
+    "summary": "Scientific discovery requires developing worthwhile hypotheses into practical investigations, yet learning from this evolving research process remains challenging. We introduce an operational definition of valuable and testable research hypotheses: evidence-grounded claims about consequential uncertainties, coupled with feasible investigations, explicit decision criteria, and alternative explanations. Our DiscoveryRSI framework develops hypothesis trees through multi-agent evolutionary search, c",
+    "heat": "7",
+    "github_url": "https://arxiv.org/abs/2610.23839"
+  },
+  {
+    "source": "HuggingFace Papers",
+    "category": "research",
+    "title": "Mine, Sample, Render: Test-Time Diversity Alignment Of Generative Models",
+    "url": "https://huggingface.co/papers/2610.21185",
+    "time": "2026-10-15T00:00:00.000Z",
+    "summary": "Modern generative models produce high-quality individual outputs but struggle to sample diversely, even when explicitly instructed to do so. We introduce MINE-SAMPLE-RENDER (MSR), a test-time approach that externalizes the diversity into an explicit, corpus-derived sampling procedure. Our pipeline (i) mines an interpretable categorical schema from a corpus of real artifacts and supplies statistics for sampling; (ii) samples attribute configurations from the corpus-derived statistics; (iii) uses ",
+    "heat": "6",
+    "github_url": "https://arxiv.org/abs/2610.21185"
+  },
+  {
+    "source": "HuggingFace Papers",
+    "category": "research",
+    "title": "Behavioral Compositionality of Sparse Autoencoder Representations",
+    "url": "https://huggingface.co/papers/2610.21261",
+    "time": "2026-10-15T00:00:00.000Z",
+    "summary": "Sparse autoencoders (SAEs) represent model activations with sparse, linearly decoded features, but the downstream effects of those features need not compose additively. We introduce SAE Additivity Residuals (SAR), which measure the behavioral variation left unexplained above a chosen interaction order. Under independent feature subset sampling, population SAR is exactly the normalized energy of interactions above that order and bounds coalition ordering error for the optimal low order approximat",
+    "heat": "106",
+    "github_url": "https://arxiv.org/abs/2610.21261"
+  },
+  {
+    "source": "HuggingFace Papers",
+    "category": "research",
+    "title": "LEASH: Uncertainty-Aware Weak-to-Strong Escalation and Oversight for Computer-Use Agents",
+    "url": "https://huggingface.co/papers/2610.22280",
+    "time": "2026-10-15T00:00:00.000Z",
+    "summary": "Computer-use agents increasingly tackle long-horizon tasks, where running a frontier model at every step is expensive and a small open-weight model alone often fails. Weak-to-strong escalation offers a middle ground where a weak agent acts by default and hands control to a strong one only when needed. The core challenge is deciding when to escalate, which requires an uncertainty signal cheap enough to check at every step. However, even after handoff, the strong agent can still get lost, but a bl",
+    "heat": "8",
+    "github_url": "https://arxiv.org/abs/2610.22280"
+  },
+  {
+    "source": "HuggingFace Papers",
+    "category": "research",
+    "title": "PathFM: Fast Generative Forecasting of Multivariate Trajectories",
+    "url": "https://huggingface.co/papers/2610.22358",
+    "time": "2026-10-15T00:00:00.000Z",
+    "summary": "Time series foundation models are becoming increasingly popular for general-purpose forecasting. However, most leading models predict marginal quantiles, leaving the dependence structure of future trajectories unspecified. This distinction matters for trajectory-dependent quantities such as cumulative demand, peak load, and event timing, yet point and marginal scores do not reveal it. To model this dependence, we introduce PathFM, a trajectory-based forecasting model that uses flow matching to g",
+    "heat": "3",
+    "github_url": "https://arxiv.org/abs/2610.22358"
+  },
+  {
+    "source": "HuggingFace Papers",
+    "category": "research",
+    "title": "Explaining the Roles of Experts in Mixture-of-Experts LLMs for Personalization",
+    "url": "https://huggingface.co/papers/2610.22127",
+    "time": "2026-10-15T00:00:00.000Z",
+    "summary": "Personalization of Large Language Models (LLMs) is increasingly important for user-centric applications, yet prior methods mainly adapt dense LLMs, whose polysemantic neurons, each encoding multiple unrelated concepts, hinder localizing the components behind personalization, and thus understanding and controlling it. We propose to personalize Mixture-of-Experts (MoE) LLMs, which sparsely route each token to a few specialized experts, reducing polysemanticity and enabling such localization. We ad",
+    "heat": "3",
+    "github_url": "https://arxiv.org/abs/2610.22127"
+  },
+  {
+    "source": "HuggingFace Papers",
+    "category": "research",
+    "title": "Gen4P: Video Generators are 4D Perceivers",
+    "url": "https://huggingface.co/papers/2610.22371",
+    "time": "2026-10-15T00:00:00.000Z",
+    "summary": "We introduce Gen4P, a unified framework for recovering 4D geometry and motion from monocular video. We show that a pretrained video generator can be repurposed into a feed-forward 4D perceiver without iterative denoising. Building on on-demand querying, Gen4P processes clean video latents in a single encoder pass and predicts the requested 4D attributes through a lightweight cross-attention decoder. The on-demand query formulation enables flexible spatial sampling, and our proposed continuous-ti",
+    "heat": "6",
+    "github_url": "https://arxiv.org/abs/2610.22371"
+  },
+  {
+    "source": "HuggingFace Papers",
+    "category": "research",
+    "title": "Diminishing Returns of Data in Sparse Autoencoders: Functional Behavior does not Guarantee Feature Reproducibility",
+    "url": "https://huggingface.co/papers/2610.20680",
+    "time": "2026-10-14T00:00:00.000Z",
+    "summary": "Sparse autoencoders (SAEs) are typically trained on hundreds of millions to billions of activation tokens, yet little work has tested whether this scale is necessary. We study how much activation data SAEs need by training four SAE architectures on three language models with budgets ranging from 5M tokens to a 500M-token reference. We measure two notions of convergence: functional behavior on standard evaluations and one-to-one reproducibility of learned features. Functional data requirements ar",
+    "heat": "1",
+    "github_url": "https://arxiv.org/abs/2610.20680"
+  },
+  {
+    "source": "HuggingFace Papers",
+    "category": "research",
+    "title": "Equal CER, Unequal Damage: Severity-Weighted Character Error Rate for OCR",
+    "url": "https://huggingface.co/papers/2610.20461",
+    "time": "2026-10-14T00:00:00.000Z",
+    "summary": "Character Error Rate (CER), the standard metric for OCR and vision-language models (VLMs), charges a typo as much as a wrong name. We introduce semCER, which keeps CER's alignment and denominator and charges each grapheme edit a severity from an LLM judge, with no word segmentation. Normalized CER keeps the score of a whole transcription, where it tracks readers as well as semCER or better, and semCER breaks that score down into named edits. The charges track readers' ratings edit by edit in Eng",
+    "heat": "2",
+    "github_url": "https://arxiv.org/abs/2610.20461"
+  },
+  {
+    "source": "HuggingFace Papers",
+    "category": "research",
+    "title": "Learning to Read Out: Unembedding Dynamics in Language Model Pretraining",
+    "url": "https://huggingface.co/papers/2610.21025",
+    "time": "2026-10-14T00:00:00.000Z",
+    "summary": "When does a language model acquire a capability? Developmental studies usually answer this by tracking when models start producing the correct token. But that prediction passes through the unembedding matrix, or readout, which is itself still being learned during pretraining. We show that a model's hidden states can encode task information before its own readout expresses it, so timelines read from outputs conflate what the model encodes with what its readout expresses. To track the readout dire",
+    "heat": "3",
+    "github_url": "https://arxiv.org/abs/2610.21025"
+  },
+  {
+    "source": "HuggingFace Papers",
+    "category": "research",
+    "title": "One Bias Score, Two Factors: How Mitigations Affect Option Bias in Multiple-Choice Evaluation",
+    "url": "https://huggingface.co/papers/2610.20993",
+    "time": "2026-10-14T00:00:00.000Z",
+    "summary": "Reordering multiple-choice options can change a model's answer, an effect studied as selection bias (a preference for certain option letters) and as order sensitivity (changes in answers across option orderings). We connect these perspectives through the pooled selection-rate standard deviation (pooled SD), which measures how unevenly option letters are selected across questions and orderings. When every option of each question appears equally often at each position, the pooled SD is exactly the",
+    "heat": "2",
+    "github_url": "https://arxiv.org/abs/2610.20993"
+  },
+  {
+    "source": "HuggingFace Papers",
+    "category": "research",
+    "title": "Pack Light, CarryOn: Building Object-Oriented Context for Long-Horizon Agents",
+    "url": "https://huggingface.co/papers/2610.18784",
+    "time": "2026-10-13T17:35:27.000Z",
+    "summary": "Long-horizon agents accumulate progress in persistent task state, yet repeatedly process interaction histories describing how that progress was achieved. This raises a natural question: can long-horizon context instead be organized around reusable progress rather than the history that produced it? In this paper, we introduce CarryOn, an object-oriented context runtime that organizes continuation around reusable task objects. Rather than treating compressed histories or reconstructed accounts of ",
+    "heat": "25",
+    "github_url": "https://arxiv.org/abs/2610.18784"
+  },
+  {
+    "source": "HuggingFace Papers",
+    "category": "research",
+    "title": "Into the Unknown: Benchmarking AI agents on open scientific research problems",
+    "url": "https://huggingface.co/papers/2610.19159",
+    "time": "2026-10-13T00:00:00.000Z",
+    "summary": "Can AI agents carry out research on open scientific problems? We introduce Into the Unknown, a benchmark that provides an agent with a science paper along with a research direction to pursue and tasks it to write a follow-up paper. We work with scientists at US Department of Energy (DOE) national laboratories, who each contribute an unpublished follow-up direction from their own work together with the necessary conditions a submission must meet. While assessing the quality of a follow-up paper i",
+    "heat": "1",
+    "github_url": "https://arxiv.org/abs/2610.19159"
+  },
+  {
+    "source": "HuggingFace Papers",
+    "category": "research",
+    "title": "LeanPRM: Lean-Grounded Process Supervision for Natural Language Proof Verification",
+    "url": "https://huggingface.co/papers/2610.17697",
+    "time": "2026-10-13T00:00:00.000Z",
+    "summary": "AI systems now write long and difficult mathematical proofs, and checking their step-by-step validity is becoming a bottleneck. A learned verifier could check proofs cheaply, but training one requires a correctness label on every step, and such labels are hard to obtain for open-ended proofs. Existing methods take them from human annotators, which is costly, or derive them from final answers, which proofs do not have, and formalizing each proof in Lean requires expert effort. We introduce LeanPR",
+    "heat": "5",
+    "github_url": "https://arxiv.org/abs/2610.17697"
+  },
+  {
+    "source": "HuggingFace Papers",
+    "category": "research",
+    "title": "Copy-Paste Language Models",
+    "url": "https://huggingface.co/papers/2610.19247",
+    "time": "2026-10-13T00:00:00.000Z",
+    "summary": "Transformers are intuitively considered to be efficient at copying from their inputs. We actually show that the ability of LLMs to copy in context can be improved through explicit modeling. We propose Copy-Paste Language Models (CPLMs), which add a lightweight Copy-Paste head to the conventional language modeling (LM) head. CPLMs improve training efficiency, downstream performance, and offer new operating points in long-context and retrieval setups. We validate our approach by pretraining models",
+    "heat": "5",
+    "github_url": "https://arxiv.org/abs/2610.19247"
+  },
+  {
+    "source": "HuggingFace Papers",
+    "category": "research",
+    "title": "Beyond Policy Rollouts: Embedding-Space Directional Exploration with Anchored Noise for LLM RLVR",
+    "url": "https://huggingface.co/papers/2610.16105",
+    "time": "2026-10-12T00:00:00.000Z",
+    "summary": "Reinforcement learning with verifiable rewards (RLVR) typically uses small rollout groups per prompt, where repeated sampling from the same policy can yield highly similar trajectories, reducing within-group reward variation and weakening group-relative advantage signals. Existing remedies such as higher sampling temperature, entropy bonuses, asymmetric clipping, and larger rollout budgets broaden sampling or modify policy updates but leave rollout conditioning unchanged. In this paper, we propo",
+    "heat": "8",
+    "github_url": "https://arxiv.org/abs/2610.16105"
+  },
+  {
+    "source": "HuggingFace Papers",
+    "category": "research",
+    "title": "Scalable Weak-to-Strong Verifier Hardening for Agent Environments",
+    "url": "https://huggingface.co/papers/2610.15924",
+    "time": "2026-10-11T00:00:00.000Z",
+    "summary": "Agent environments are essential for large language model (LLM) development. They use programmatic verifiers to turn complex outcomes into rewards. Verifiers can be attacked into awarding full credit to cheating agents without completing the intended task, causing inaccurate evaluation and misalignment in training. As agent environments scale in numbers and difficulty, so must the repairing of exploitable verifiers. To this end, we ask whether today's model with scaled compute can automatically ",
+    "heat": "4",
+    "github_url": "https://arxiv.org/abs/2610.15924"
+  },
+  {
+    "source": "HuggingFace Papers",
+    "category": "research",
+    "title": "PAIR: Bridging Perception and Action in Vision-Language-Action Models",
+    "url": "https://huggingface.co/papers/2610.09016",
+    "time": "2026-10-06T00:00:00.000Z",
+    "summary": "Vision-language-action (VLA) models map visual observations and language instructions to continuous robot actions. This task requires a transition from representations that describe the scene and instruction to representations that support action generation. Many continuous-action VLAs leave this transition implicit and supervise it mainly through the final action-prediction loss. We introduce PAIR, a framework that learns a shared perception-action representation between these two spaces. Durin",
+    "heat": "1",
+    "github_url": "https://arxiv.org/abs/2610.09016"
+  },
+  {
+    "source": "HuggingFace Papers",
+    "category": "research",
+    "title": "PRISM: PRIvileged Sibling-guided Multi-Agent Topology Design",
+    "url": "https://huggingface.co/papers/2610.20628",
+    "time": "2026-09-29T00:00:00.000Z",
+    "summary": "Multi-agent systems (MAS) based on large language models (LLMs) have become a powerful way to address complex problems, and their effectiveness depends critically on the collaboration topology that decides which agents participate and how they communicate. Recent work learns to generate this topology from the task query, fitting the generator to corpora of execution-verified graphs. The post-training method for such generators remains a limitation: a corpus lists the graphs that solved a query b",
+    "heat": "0",
+    "github_url": "https://arxiv.org/abs/2610.20628"
+  }
+]
