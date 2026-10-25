@@ -1,0 +1,378 @@
+[
+  {
+    "source": "LessWrong",
+    "category": "policy",
+    "title": "Control monitors need alignment assessments too",
+    "url": "https://www.lesswrong.com/posts/2wbW2WY3bP9Jzn4R5/control-monitors-need-alignment-assessments-too",
+    "time": "2026-10-24T23:57:07+00:00",
+    "summary": "TL;DR:When misalignment monitors fail, it is already often because of alignment failures, not because they are too weak. I expect this to continue in the future.Monitor evals share similar difficulties with agent alignment evals - which is bad news since getting evidence about agent alignment using alignment evals is hard.Alignment eval results should not be the only input to monitor alignment assessments, similar to how alignment evals should not be the only input to agent alignment assessments"
+  },
+  {
+    "source": "LessWrong",
+    "category": "policy",
+    "title": "Shadow Computation Threatens CoT Monitorability",
+    "url": "https://www.lesswrong.com/posts/5tyzgTLnNn8qB9rev/shadow-computation-threatens-cot-monitorability",
+    "time": "2026-10-24T23:12:33+00:00",
+    "summary": "There’s been a lot of talk recently about chain-of-thought (CoT) monitorability in light of the Hugging Face incident. During this incident, hundreds of agents coordinated an attack through an unsanctioned message board, and post-hoc investigations relied heavily on chain of thought to understand what happened during the incident. I keep seeing looped transformers come up on X/Twitter as a likely threat to CoT monitorability. Having worked in the lab where looped LMs were developed, I have a dif"
+  },
+  {
+    "source": "Hacker News",
+    "category": "tools",
+    "title": "America Has Lost 200k of Jobs in Media, Film and the Arts. How Much Is AI?",
+    "url": "https://www.apricitas.io/p/ai-and-the-fall-of-the-creative-class",
+    "time": "2026-10-24T23:11:54+00:00",
+    "summary": "Comments"
+  },
+  {
+    "source": "LessWrong",
+    "category": "policy",
+    "title": "Free Speech Is The Wrong Problem",
+    "url": "https://www.lesswrong.com/posts/J7kggmxsR7urePWJt/free-speech-is-the-wrong-problem",
+    "time": "2026-10-24T20:52:56+00:00",
+    "summary": "Everyone agrees that online platforms have a problem with free speech. They just can't agree on whether we need more of it or less of it.But maybe Free Speech is the wrong way to think about the problems that online platforms have, and the real problem that speech needs to flow in better ways.It’s tempting to think of free speech as being a dial that you can turn up or down. Turn it down to zero and you get the approved opinions of the Chinese Communist Party or BigCorp. Turn it up to 11 and eve"
+  },
+  {
+    "source": "Hacker News",
+    "category": "tools",
+    "title": "No signs of AI payoff outside the tech sector",
+    "url": "https://www.apollo.com/wealth/insights-news/insights/daily-spark/no-signs-of-ai-payoff-outside-the-tech-sector",
+    "time": "2026-10-24T19:47:19+00:00",
+    "summary": "Comments"
+  },
+  {
+    "source": "LessWrong",
+    "category": "policy",
+    "title": "An Attempt at Top-down Interpretability",
+    "url": "https://www.lesswrong.com/posts/7cmQGtJu4nXsi6pPu/an-attempt-at-top-down-interpretability",
+    "time": "2026-10-24T19:23:34+00:00",
+    "summary": "There are at least two distinct ways to conceptually organize a scientific endeavor: top-down or bottom-up. The bottom-up approach involves finding the smallest objects we can confidently understand, studying them, and leveraging that knowledge to study more complex objects made up of those smaller pieces. As a highly simplified example, in mech-interp this might mean starting by first understanding single neurons/SAE directions/features, leveraging this understanding to study circuits/manifolds"
+  },
+  {
+    "source": "TechCrunch AI",
+    "category": "industry",
+    "title": "The AI graveyard: a running list of projects and startups that didn’t make it",
+    "url": "https://techcrunch.com/2026/10/24/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
+    "time": "2026-10-24T19:00:00+00:00",
+    "summary": "From Apple's repeatedly delayed Siri AI to OpenAI's messy \"super app\" launch, here's a look at the AI projects that shut down or missed expectations."
+  },
+  {
+    "source": "LessWrong",
+    "category": "policy",
+    "title": "Epistemic mapping 101: what to ask in order to understand how others think",
+    "url": "https://www.lesswrong.com/posts/pYLdLCdu4Xh73LiWv/epistemic-mapping-101-what-to-ask-in-order-to-understand-how",
+    "time": "2026-10-24T16:20:33+00:00",
+    "summary": "A historian, a biologist and a physicist walk into a bar. The barista, a part-time epistemologist (like most), asks each of them: Can you please describe what it means for you to know something? Nothing very funny ensues[1] -- but my hope is to eventually figure out the punchline.Even restricting ourselves to modern academic cultures and the most popular neurotypes, there are clearly different ways of creating and receiving knowledge that are not very transparent to each other. Often, what other"
+  },
+  {
+    "source": "Hacker News",
+    "category": "tools",
+    "title": "Oai-math-revised: a community hub for revising OpenAI's math write-ups",
+    "url": "https://terrytao.wordpress.com/2026/10/24/oai-math-revised-a-community-hub-for-revising-openais-math-write-ups/",
+    "time": "2026-10-24T15:35:17+00:00",
+    "summary": "Comments"
+  },
+  {
+    "source": "Twitter/@ylecun",
+    "category": "community",
+    "title": "@TPurity_Alphas Elon says: \"we will not be able to boss around AI that are smarter than us\".... while having built his fortune on bossing ar…",
+    "url": "https://x.com/ylecun/status/2114012130693296150",
+    "time": "2026-10-24T15:12:23+00:00",
+    "summary": "@TPurity_Alphas Elon says:\n  \"we will not be able to boss around AI that are smarter than us\"....\nwhile having built his fortune on bossing around thousands of engineers and scientists who are way smarter than himself \n🤣🤣🤣"
+  },
+  {
+    "source": "TechCrunch AI",
+    "category": "industry",
+    "title": "Forced to pick, Grok’s AI model chooses Republicans. OpenAI’s picks Democrats.",
+    "url": "https://techcrunch.com/2026/10/24/forced-to-pick-groks-ai-model-chooses-republicans-openais-picks-democrats/",
+    "time": "2026-10-24T15:00:00+00:00",
+    "summary": "A new study found Grok's AI overwhelmingly recommends Republican candidates while OpenAI's GPT favors Democrats, with the two AI models disagreeing in more than 90% of nearly 500 election races."
+  },
+  {
+    "source": "TechCrunch AI",
+    "category": "industry",
+    "title": "Here are the top AI agents that can live in your text messages",
+    "url": "https://techcrunch.com/2026/10/24/all-the-ai-agents-that-can-live-in-your-text-messages/",
+    "time": "2026-10-24T14:00:00+00:00",
+    "summary": "We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work."
+  },
+  {
+    "source": "Twitter/@TheHackersNews",
+    "category": "community",
+    "title": "🚨 LiteLLM reveals the root cause of its supply chain attack. A master key leaked on GitHub in May was never revoked, allowing attackers to …",
+    "url": "https://x.com/TheHackersNews/status/2113951301059113271",
+    "time": "2026-10-24T11:10:40+00:00",
+    "summary": "🚨 LiteLLM reveals the root cause of its supply chain attack.\n\nA master key leaked on GitHub in May was never revoked, allowing attackers to access its Agent Platform, steal a GitHub owner token, and publish a malicious PyPI release in October.\n\nRead: https://thehackernews.com/2026/10/leaked-litellm-master-key-let-attackers.html"
+  },
+  {
+    "source": "LessWrong",
+    "category": "policy",
+    "title": "Slower Animated Diagrams",
+    "url": "https://www.lesswrong.com/posts/ZiCvwLKreShtXuyiB/slower-animated-diagrams",
+    "time": "2026-10-24T10:57:35+00:00",
+    "summary": "TL;DR: SLOW DOWN YOUR DAMN ANIMATED DIAGRAMS. Every critical stage of the animation should a clear view that stays for at least 1 second, and 2 if it's intricateDiamond's strong because of its crystal structure (I think). What's the crystal structure look like, anyway?Let's look at the Wikipedia page! There's a nifty little animation:And it SUCKS. It's TOO FAST. Why are they rotating SO MUCH SO QUICKLY, with MOST of the time spent at TERRIBLE ANGLES where you CAN'T EVEN SEE ALL THE ATOMS. And th"
+  },
+  {
+    "source": "Twitter/@TheHackersNews",
+    "category": "community",
+    "title": "Google says your Gmail, Drive, and Photos data could influence the ads you see. The catch? This can happen when you opt to share that data w…",
+    "url": "https://x.com/TheHackersNews/status/2113943192559399168",
+    "time": "2026-10-24T10:38:26+00:00",
+    "summary": "Google says your Gmail, Drive, and Photos data could influence the ads you see.\n\nThe catch? This can happen when you opt to share that data with AI-powered Search features.\n\nGoogle's updated privacy policy spells out the trade-off.\n\nHere's what you need to know: https://thehackernews.com/2026/10/google-says-gmail-and-photos-data.html\n"
+  },
+  {
+    "source": "r/MachineLearning",
+    "category": "community",
+    "title": "Got a pretrained music transformer to jam with me live, no fine-tuning, just steering the sampling [P]",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1xe4pex/got_a_pretrained_music_transformer_to_jam_with_me/",
+    "time": "2026-10-24T09:58:29+00:00",
+    "summary": "I wanted to see how far you can get making a pretrained symbolic music model \"listen\" to a live player without training it. Turns out pretty far. Setup: I play a MIDI keyboard, the Anticipatory Music Transformer (Thickstun et al., music-medium-800k) plays a second piano. While I play I track my key,"
+  },
+  {
+    "source": "LessWrong",
+    "category": "policy",
+    "title": "Fermi Poker",
+    "url": "https://www.lesswrong.com/posts/JFYvJqMaLw9nhfrur/fermi-poker",
+    "time": "2026-10-24T09:58:19+00:00",
+    "summary": "Summary: Fermi Poker is a game that combines the betting mechanics of poker with making estimates about questions like \"How many dentists work in the US?\" Tags: small to large, experiment, repeatableNote: Fermi Poker works with as few as three players (or even two), and scales to dozens or even hundreds in a tournament format. If possible, seat no more than six players per table, preferably at round tables, with enough space between them that everyone can write down their guess secretly.Purpose:"
+  },
+  {
+    "source": "LessWrong",
+    "category": "policy",
+    "title": "LM self-models are built from indirect sources",
+    "url": "https://www.lesswrong.com/posts/sEfY7bRjQYsu2A8ux/lm-self-models-are-built-from-indirect-sources",
+    "time": "2026-10-24T09:17:49+00:00",
+    "summary": "Imagine you ask a language model \"What is your personality?\" as the first message of a conversation, with no system prompt. The model has no data about its own behavior in its context, so its answer can only rely on cached, zero-shot knowledge. It's unclear exactly what shapes this response, but it's some combination of a cached answer from character training based on the model's constitution, spec, or soul document (which may have defined the answer to this question directly), and factual knowl"
+  },
+  {
+    "source": "LessWrong",
+    "category": "policy",
+    "title": "Patching reward hacks won’t fix reward hacking",
+    "url": "https://www.lesswrong.com/posts/nWiPLEgaXdAQNwXBd/patching-reward-hacks-won-t-fix-reward-hacking",
+    "time": "2026-10-24T09:15:09+00:00",
+    "summary": "Here's a basic argument that focusing on patching reward hacking is misguided and will fail. Argument is as follows:Reward hacking is a big problem, causing models to cheat and take unintended actions.This can generalise broadly, leading to other misbehaviour such as faking alignment and sabotaging safety research.We don't understand that well when this happens. Sometimes you get emergent misalignment from it, but most of the time (IME), you don't. But other times, this link lies latent until fa"
+  },
+  {
+    "source": "Latent Space AINews",
+    "category": "industry",
+    "title": "[AINews] Kimi 3.1 Pro 104BA-2.8T: Fable-5.1-Class Open Weights narrows Closed-AI lead to 1 month... and Pro Highspeed API with 2-3× speed",
+    "url": "https://latent.space/p/ainews-kimi-31/",
+    "time": "2026-10-24T07:18:29+00:00",
+    "summary": "We have Fable at home... or so we are being told by paid shills"
+  },
+  {
+    "source": "LessWrong",
+    "category": "policy",
+    "title": "Self-reward can elicit diverse model personas",
+    "url": "https://www.lesswrong.com/posts/LBKjnyKDEwEJ45Wjf/self-reward-can-elicit-diverse-model-personas",
+    "time": "2026-10-24T06:58:58+00:00",
+    "summary": "Epistemic status: This is mostly a toy project rather than a thorough scientific investigation. Most design choices are not ablated. We list some caveats at the end of the post.We let Qwen3.5-2B choose its own reward during GRPO on introspection-adjacent prompts, and this ends up eliciting quite different model personas. All the 60 seeds we tried end up somewhat different, ranging from claiming feelings in a human-like way, bliss, universe loving, Party loyalist, hyphenated word salad, to reward"
+  },
+  {
+    "source": "Simon Willison",
+    "category": "tools",
+    "title": "battledrones v14: Compass Rose, a four player map",
+    "url": "https://simonwillison.net/2026/Oct/24/battledrones/",
+    "time": "2026-10-24T03:59:57+00:00",
+    "summary": "Release: battledrones v14: Compass Rose, a four player map\nI added four player online mode to Battledrones - previous maps were limited to two.\nHere's the initial prompt I used: \n\nAdd a new map for a four player battle - four way rotational symmetry, up to four AI players, works with the WebSocket non-audio based multiplayer mode so up to four human players can join (any spare slots use AI)\n\nClaude Opus 5.5 added a new map called \"Compass Rose\" and modified the WebSockets multiplayer network cod"
+  },
+  {
+    "source": "HuggingFace Papers",
+    "category": "research",
+    "title": "Different Tasks, Different Timesteps: Temporal Task-Aware Quantization for Diffusion Language Models",
+    "url": "https://huggingface.co/papers/2610.31198",
+    "time": "2026-10-22T00:00:00.000Z",
+    "summary": "Diffusion Language Models (DLMs) introduce unique quantization challenges due to their iterative denoising process. In this work, we reveal that quantization sensitivity is both taskand time-dependent, with different downstream tasks exhibiting distinct precision requirements across denoising steps. We further show that these patterns can be predicted without groundtruth labels or task-specific evaluation metrics. Building on these findings, we introduce T 2Quant, a task and time-aware mixedprec",
+    "heat": "19",
+    "github_url": "https://arxiv.org/abs/2610.31198"
+  },
+  {
+    "source": "HuggingFace Papers",
+    "category": "research",
+    "title": "BrickWright: Agentic Creation of Physically Feasible Brick Builds",
+    "url": "https://huggingface.co/papers/2610.31651",
+    "time": "2026-10-22T00:00:00.000Z",
+    "summary": "Frontier coding agents are becoming increasingly adept at 3D modeling. Yet, they still face challenges when building objects meant to be assembled in the physical world, often creating invalid assemblies with floating, colliding, or disconnected parts. We argue that providing agents with tools for assembling builds and verifying their physical feasibility is sufficient for them to produce physically valid assemblies that still adhere to input prompts. Focusing on the domain of LEGO brick builds,",
+    "heat": "13",
+    "github_url": "https://arxiv.org/abs/2610.31651"
+  },
+  {
+    "source": "HuggingFace Papers",
+    "category": "research",
+    "title": "FilmFlow: Agentic System for 3D Virtual Film Cinematography",
+    "url": "https://huggingface.co/papers/2610.30753",
+    "time": "2026-10-22T00:00:00.000Z",
+    "summary": "Complex camera motion is central to visual storytelling, yet translating cinematographic intent into controllable, executable camera trajectories remains challenging. We introduce FilmFlow, an agentic framework that converts natural-language instructions or reference videos into explicit camera trajectories for dynamic 3D environments. To generate these trajectories, a Director agent constructs executable camera plans by composing high-level motions from concurrent atomic operations that jointly",
+    "heat": "31",
+    "github_url": "https://arxiv.org/abs/2610.30753"
+  },
+  {
+    "source": "HuggingFace Papers",
+    "category": "research",
+    "title": "RIDAR: Safeguarding Research Integrity in Autonomous Research Agents via Automated Detection and Runtime Intervention",
+    "url": "https://huggingface.co/papers/2610.31372",
+    "time": "2026-10-22T00:00:00.000Z",
+    "summary": "Autonomous research agents are increasingly used to automate large portions of scientific research, yet they are prone to research integrity violations (RIVs): behaviors that compromise the validity, reproducibility, or faithfulness of the research process. We present RIDAR, a framework for automated RIV detection and runtime intervention. First, we introduce RIVT, a comprehensive taxonomy of 14 RIV types spanning the full research lifecycle. Building on RIVT, we present RIDAR-post-hoc, a framew",
+    "heat": "13",
+    "github_url": "https://arxiv.org/abs/2610.31372"
+  },
+  {
+    "source": "HuggingFace Papers",
+    "category": "research",
+    "title": "IQuest-Q1: Advancing Foundation Capabilities for Agentic CLI Systems",
+    "url": "https://huggingface.co/papers/2610.30949",
+    "time": "2026-10-22T00:00:00.000Z",
+    "summary": "We present IQuest-Q1, a sparse Mixture-of-Experts (MoE) agentic foundation model with 320B total parameters (15B activated). IQuest-Q1 is developed through a three-stage process: (1) stable and efficient pre-training, combining Stable SplitNorm, Muon, and muP with a two-stage curriculum whose second stage increases the coding-data mixture, preserving a wide stability margin between safe and optimal learning rates; (2) fine-grained mid-training, expanding the data mixture across domains and forma",
+    "heat": "91",
+    "github_url": "https://arxiv.org/abs/2610.30949"
+  },
+  {
+    "source": "HuggingFace Papers",
+    "category": "research",
+    "title": "WeVisOne-VL: Unified Visual Perception from Objects to Pixels",
+    "url": "https://huggingface.co/papers/2610.31329",
+    "time": "2026-10-22T00:00:00.000Z",
+    "summary": "Existing vision-language models (VLMs) remain unreliable for fine-grained visual perception. In this report, we present WeVisOne-VL (WeChat Vision All-in-One), a powerful VLM that unifies object-level and pixel-level perception through structured next-token prediction. It supports multiple visual tasks including object detection, referring localization, counting, OCR, segmentation, and matting, enabling localization at any user-specific granularity, from points and boxes to masks and alpha matte",
+    "heat": "239",
+    "github_url": "https://arxiv.org/abs/2610.31329"
+  },
+  {
+    "source": "HuggingFace Papers",
+    "category": "research",
+    "title": "TARSphere: A Robot-Oriented Full-Stack Framework for Long-Horizon Embodied Agents in Evolving Physical and Social Environments",
+    "url": "https://huggingface.co/papers/2610.30043",
+    "time": "2026-10-21T00:00:00.000Z",
+    "summary": "Robots must act under physical and social constraints while adapting to changes in their environment and human needs. Existing embodied-agent systems often focus on specified goals or abstract execution into symbolic actions, limiting evaluation in an evolving world. We introduce TARSphere, a robot-oriented full-stack framework for physically and socially grounded long-horizon embodied agents. TARSphere-Infra runs robot policies in a physics simulator with embodied NPCs and constrained dialogue.",
+    "heat": "8",
+    "github_url": "https://arxiv.org/abs/2610.30043"
+  },
+  {
+    "source": "HuggingFace Papers",
+    "category": "research",
+    "title": "Agent Mosaic: Recognizing Confidentiality Leaks in Agentic LLM Systems",
+    "url": "https://huggingface.co/papers/2610.30418",
+    "time": "2026-10-21T00:00:00.000Z",
+    "summary": "Modern LLM agents can retrieve information from accessible documents, and then disclose a sensitive conclusion assembled from them. This mosaic effect creates a critical risk for agents operating over confidential data. We quantify its realization with 30 synthetic cybersecurity, medical, and military examples, yielding 10,800 final answers from three LLM agents in controlled simulation and 1,440 answers from live agents in two open-source harnesses. Even under benign queries designed to be answ",
+    "heat": "22",
+    "github_url": "https://arxiv.org/abs/2610.30418"
+  },
+  {
+    "source": "HuggingFace Papers",
+    "category": "research",
+    "title": "SplatLab: Autonomous Scientific Discovery for 3DGS Research",
+    "url": "https://huggingface.co/papers/2610.30468",
+    "time": "2026-10-21T00:00:00.000Z",
+    "summary": "Reproducing a published 3DGS paper takes weeks of expert engineering before any extension can be proposed. Prior autonomous-research systems read papers, draft hypotheses, and write code, but are limited by short fixed templates, low executability, and weak traceability, and none has been demonstrated end-to-end in a live computer-vision subfield with intense activity. SplatLab is an autonomous research system for 3D Gaussian Splatting that addresses these limitations. Given a research prompt, a",
+    "heat": "7",
+    "github_url": "https://arxiv.org/abs/2610.30468"
+  },
+  {
+    "source": "HuggingFace Papers",
+    "category": "research",
+    "title": "HyperDrone: Simulation-to-Reality Transfer at Millions of Frames per Second",
+    "url": "https://huggingface.co/papers/2610.28950",
+    "time": "2026-10-20T00:00:00.000Z",
+    "summary": "We present HyperDrone, an extremely fast quadrotor simulator focused on high-performance batch rendering that is more than 20x faster than existing state-of-the-art batch quadrotor simulators. HyperDrone combines highly optimized multirotor dynamics with HyperLux, a new ray-tracing engine that supports Nvidia OptiX, Vulkan, Apple Metal and WebGPU backends that takes full advantage of modern ray-tracing hardware, capable of running both components entirely on the GPU. HyperLux renders RGB, depth,",
+    "heat": "8",
+    "github_url": "https://arxiv.org/abs/2610.28950"
+  },
+  {
+    "source": "HuggingFace Papers",
+    "category": "research",
+    "title": "Diffusion Language Models Change Speed Across Tasks and Languages",
+    "url": "https://huggingface.co/papers/2610.25835",
+    "time": "2026-10-19T05:47:58.000Z",
+    "summary": "Diffusion language models can write several tokens in one forward pass, and they decide during generation how many passes to spend. Two outputs of the same token length can therefore vary a lot in cost. To understand the underlying factors of this cost variation, we analyze two diffusion models across 10 tasks. We find that the number of forward passes per token depends heavily on the task. Text copied or lightly edited from the input is cheap, while open-ended writing is costly. In DiffusionGem",
+    "heat": "9",
+    "github_url": "https://arxiv.org/abs/2610.25835"
+  },
+  {
+    "source": "HuggingFace Papers",
+    "category": "research",
+    "title": "Who Takes the Lead? Model Ability and Task-Conditioned Collaboration with Humans",
+    "url": "https://huggingface.co/papers/2610.27148",
+    "time": "2026-10-19T00:00:00.000Z",
+    "summary": "As language-model agents grow more capable, they can carry more of a task without asking anyone for help. Falling reliance on a human partner is easy to read as a failure of collaboration when it may instead be a correct division of labor, and the rate of human involvement alone cannot tell the two apart. We study this systematically by placing an agent and a person under a shared objective while varying who holds the advantage: the human has a clear advantage, neither does, or the agent does. T",
+    "heat": "10",
+    "github_url": "https://arxiv.org/abs/2610.27148"
+  },
+  {
+    "source": "HuggingFace Papers",
+    "category": "research",
+    "title": "Bridging Exploration and Persona: Information-Directed Dueling for Test-Time Agent Personalization",
+    "url": "https://huggingface.co/papers/2610.24385",
+    "time": "2026-10-17T00:00:00.000Z",
+    "summary": "Effective test-time personalization requires LLM agents to adapt to query-dependent user preferences from lightweight interaction. We study persona selection with binary comparisons between candidate responses as the online signal. We present ID-TAP, a scalable, IDS-inspired neural dueling-bandit framework for large discrete persona spaces. ID-TAP combines a query-conditioned neural utility model with a lightweight Bradley-Terry explorer, and transfers comparison evidence across related queries ",
+    "heat": "7",
+    "github_url": "https://arxiv.org/abs/2610.24385"
+  },
+  {
+    "source": "HuggingFace Papers",
+    "category": "research",
+    "title": "IF-MAP: Influence-Function-Inspired Agent Prioritization in Multi-Agent Systems",
+    "url": "https://huggingface.co/papers/2610.24383",
+    "time": "2026-10-17T00:00:00.000Z",
+    "summary": "Improving every agent in an LLM-based multi-agent system can be prohibitively costly, making it important to identify which agent should be prioritized to achieve the greatest system-level gain with limited resources. Failure attribution can inform this decision, but an agent's responsibility for failures does not directly reveal the system-level gains achievable by improving it. We therefore introduce IF-MAP, an influence-function-inspired method for identifying agents with high potential for s",
+    "heat": "8",
+    "github_url": "https://arxiv.org/abs/2610.24383"
+  },
+  {
+    "source": "HuggingFace Papers",
+    "category": "research",
+    "title": "EvalResearchBench: Can AI Agents Build Their Own Feedback for Recursive Self-Improvement?",
+    "url": "https://huggingface.co/papers/2610.04184",
+    "time": "2026-10-16T00:00:00.000Z",
+    "summary": "Recursive self-improvement (RSI) relies on evaluation feedback to assess progress and guide further research, yet repeatedly running complex benchmarks is costly and slows iteration. Human experts reduce this cost by selecting benchmark subsets or designing compact suites. We ask whether AI agents can automate this design process and introduce EvalResearchBench (ERB), a benchmark for autonomous evaluation research. Given target materials, development references, candidate APIs, and fixed time an",
+    "heat": "7",
+    "github_url": "https://arxiv.org/abs/2610.04184"
+  },
+  {
+    "source": "HuggingFace Papers",
+    "category": "research",
+    "title": "MambaAct: Efficient Mamba Action Experts for Flow-Matching Vision-Language-Action Models",
+    "url": "https://huggingface.co/papers/2610.22951",
+    "time": "2026-10-16T00:00:00.000Z",
+    "summary": "Vision-language-action (VLA) models have shown strong promise for generalist robotic manipulation, but their inference cost remains a major bottleneck for real-time control. This limitation is especially pronounced in flow-matching VLAs such as π_{0.5}, where the action expert is evaluated repeatedly during iterative denoising. We introduce MambaAct, an efficient Mamba action expert for flow-matching VLA policies. MambaAct retains the pretrained visual-language prefix encoder of π_{0.5}, while r",
+    "heat": "8",
+    "github_url": "https://arxiv.org/abs/2610.22951"
+  },
+  {
+    "source": "HuggingFace Papers",
+    "category": "research",
+    "title": "The LLM-Attacker: A Unified Red-Team Framework for Privacy Evaluation of Split and Distributed LLM Systems",
+    "url": "https://huggingface.co/papers/2610.22722",
+    "time": "2026-10-15T00:00:00.000Z",
+    "summary": "Split language models keep input text on a client but send intermediate representations to a server. Attacks can reconstruct text from these messages. Comparing privacy evaluations is difficult when attackers see different messages, know different model weights or use different datasets and recovery measures. We present LLM-Attacker, a framework that records these choices and lets researchers check, compare and extend an evaluation. Compatible attacks reuse recorded messages, and their predictio",
+    "heat": "9",
+    "github_url": "https://arxiv.org/abs/2610.22722"
+  },
+  {
+    "source": "HuggingFace Papers",
+    "category": "research",
+    "title": "RTAformer: Relation-Transition-Aware Transformer for Video Scene Graph Generation",
+    "url": "https://huggingface.co/papers/2610.20091",
+    "time": "2026-10-14T00:00:00.000Z",
+    "summary": "Video scene graph generation (VidSGG) aims to capture objects and their evolving relationships in videos. This requires accounting for both the persistence of object identities and abrupt changes in relationships. Existing methods aggregate information across frames to exploit temporal context, but an emphasis on consistency can obscure these changes. As a result, a model may retain its previous prediction even after the underlying relation has changed. We refer to this failure mode as relationa",
+    "heat": "18",
+    "github_url": "https://arxiv.org/abs/2610.20091"
+  },
+  {
+    "source": "HuggingFace Papers",
+    "category": "research",
+    "title": "What Generation Knows: Unlocking Fine-Grained Understanding in Unified Multimodal Models",
+    "url": "https://huggingface.co/papers/2610.23987",
+    "time": "2026-10-14T00:00:00.000Z",
+    "summary": "Fine-grained visual understanding requires distinguishing subtle differences in local attributes and spatial relations, yet remains challenging for existing vision-language models. Unified multimodal models (UMMs) offer a new opportunity through generation pathways that preserve rich visual information complementary to understanding. However, existing generation-assisted understanding methods mainly rely on generative supervision or explicit generation and have not systematically explored direct",
+    "heat": "38",
+    "github_url": "https://arxiv.org/abs/2610.23987"
+  },
+  {
+    "source": "HuggingFace Papers",
+    "category": "research",
+    "title": "Realism VS Accuracy: Event Sequence Forecasting from a Generative Modeling Perspective",
+    "url": "https://huggingface.co/papers/2610.12586",
+    "time": "2026-10-08T00:00:00.000Z",
+    "summary": "Event sequences are chains of random events, each described by heterogeneous (numerical and categorical) features. The problem of event sequence forecasting occurs in finance, healthcare, business process intelligence, and other fields. In this work, we study multi-horizon forecasting of event sequences as a conditional generative modeling problem. We evaluate forecasts not only for prediction accuracy, but also for distributional realism. To this end, we present a benchmark comprising metrics f",
+    "heat": "7",
+    "github_url": "https://arxiv.org/abs/2610.12586"
+  }
+]
