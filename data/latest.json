@@ -2,178 +2,170 @@
   {
     "source": "LessWrong",
     "category": "policy",
-    "title": "Control monitors need alignment assessments too",
-    "url": "https://www.lesswrong.com/posts/2wbW2WY3bP9Jzn4R5/control-monitors-need-alignment-assessments-too",
-    "time": "2026-10-24T23:57:07+00:00",
-    "summary": "TL;DR:When misalignment monitors fail, it is already often because of alignment failures, not because they are too weak. I expect this to continue in the future.Monitor evals share similar difficulties with agent alignment evals - which is bad news since getting evidence about agent alignment using alignment evals is hard.Alignment eval results should not be the only input to monitor alignment assessments, similar to how alignment evals should not be the only input to agent alignment assessments"
-  },
-  {
-    "source": "LessWrong",
-    "category": "policy",
-    "title": "Shadow Computation Threatens CoT Monitorability",
-    "url": "https://www.lesswrong.com/posts/5tyzgTLnNn8qB9rev/shadow-computation-threatens-cot-monitorability",
-    "time": "2026-10-24T23:12:33+00:00",
-    "summary": "There’s been a lot of talk recently about chain-of-thought (CoT) monitorability in light of the Hugging Face incident. During this incident, hundreds of agents coordinated an attack through an unsanctioned message board, and post-hoc investigations relied heavily on chain of thought to understand what happened during the incident. I keep seeing looped transformers come up on X/Twitter as a likely threat to CoT monitorability. Having worked in the lab where looped LMs were developed, I have a dif"
-  },
-  {
-    "source": "Hacker News",
-    "category": "tools",
-    "title": "America Has Lost 200k of Jobs in Media, Film and the Arts. How Much Is AI?",
-    "url": "https://www.apricitas.io/p/ai-and-the-fall-of-the-creative-class",
-    "time": "2026-10-24T23:11:54+00:00",
-    "summary": "Comments"
-  },
-  {
-    "source": "LessWrong",
-    "category": "policy",
-    "title": "Free Speech Is The Wrong Problem",
-    "url": "https://www.lesswrong.com/posts/J7kggmxsR7urePWJt/free-speech-is-the-wrong-problem",
-    "time": "2026-10-24T20:52:56+00:00",
-    "summary": "Everyone agrees that online platforms have a problem with free speech. They just can't agree on whether we need more of it or less of it.But maybe Free Speech is the wrong way to think about the problems that online platforms have, and the real problem that speech needs to flow in better ways.It’s tempting to think of free speech as being a dial that you can turn up or down. Turn it down to zero and you get the approved opinions of the Chinese Communist Party or BigCorp. Turn it up to 11 and eve"
-  },
-  {
-    "source": "Hacker News",
-    "category": "tools",
-    "title": "No signs of AI payoff outside the tech sector",
-    "url": "https://www.apollo.com/wealth/insights-news/insights/daily-spark/no-signs-of-ai-payoff-outside-the-tech-sector",
-    "time": "2026-10-24T19:47:19+00:00",
-    "summary": "Comments"
-  },
-  {
-    "source": "LessWrong",
-    "category": "policy",
-    "title": "An Attempt at Top-down Interpretability",
-    "url": "https://www.lesswrong.com/posts/7cmQGtJu4nXsi6pPu/an-attempt-at-top-down-interpretability",
-    "time": "2026-10-24T19:23:34+00:00",
-    "summary": "There are at least two distinct ways to conceptually organize a scientific endeavor: top-down or bottom-up. The bottom-up approach involves finding the smallest objects we can confidently understand, studying them, and leveraging that knowledge to study more complex objects made up of those smaller pieces. As a highly simplified example, in mech-interp this might mean starting by first understanding single neurons/SAE directions/features, leveraging this understanding to study circuits/manifolds"
-  },
-  {
-    "source": "TechCrunch AI",
-    "category": "industry",
-    "title": "The AI graveyard: a running list of projects and startups that didn’t make it",
-    "url": "https://techcrunch.com/2026/10/24/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
-    "time": "2026-10-24T19:00:00+00:00",
-    "summary": "From Apple's repeatedly delayed Siri AI to OpenAI's messy \"super app\" launch, here's a look at the AI projects that shut down or missed expectations."
-  },
-  {
-    "source": "LessWrong",
-    "category": "policy",
-    "title": "Epistemic mapping 101: what to ask in order to understand how others think",
-    "url": "https://www.lesswrong.com/posts/pYLdLCdu4Xh73LiWv/epistemic-mapping-101-what-to-ask-in-order-to-understand-how",
-    "time": "2026-10-24T16:20:33+00:00",
-    "summary": "A historian, a biologist and a physicist walk into a bar. The barista, a part-time epistemologist (like most), asks each of them: Can you please describe what it means for you to know something? Nothing very funny ensues[1] -- but my hope is to eventually figure out the punchline.Even restricting ourselves to modern academic cultures and the most popular neurotypes, there are clearly different ways of creating and receiving knowledge that are not very transparent to each other. Often, what other"
-  },
-  {
-    "source": "Hacker News",
-    "category": "tools",
-    "title": "Oai-math-revised: a community hub for revising OpenAI's math write-ups",
-    "url": "https://terrytao.wordpress.com/2026/10/24/oai-math-revised-a-community-hub-for-revising-openais-math-write-ups/",
-    "time": "2026-10-24T15:35:17+00:00",
-    "summary": "Comments"
-  },
-  {
-    "source": "Twitter/@ylecun",
-    "category": "community",
-    "title": "@TPurity_Alphas Elon says: \"we will not be able to boss around AI that are smarter than us\".... while having built his fortune on bossing ar…",
-    "url": "https://x.com/ylecun/status/2114012130693296150",
-    "time": "2026-10-24T15:12:23+00:00",
-    "summary": "@TPurity_Alphas Elon says:\n  \"we will not be able to boss around AI that are smarter than us\"....\nwhile having built his fortune on bossing around thousands of engineers and scientists who are way smarter than himself \n🤣🤣🤣"
-  },
-  {
-    "source": "TechCrunch AI",
-    "category": "industry",
-    "title": "Forced to pick, Grok’s AI model chooses Republicans. OpenAI’s picks Democrats.",
-    "url": "https://techcrunch.com/2026/10/24/forced-to-pick-groks-ai-model-chooses-republicans-openais-picks-democrats/",
-    "time": "2026-10-24T15:00:00+00:00",
-    "summary": "A new study found Grok's AI overwhelmingly recommends Republican candidates while OpenAI's GPT favors Democrats, with the two AI models disagreeing in more than 90% of nearly 500 election races."
-  },
-  {
-    "source": "TechCrunch AI",
-    "category": "industry",
-    "title": "Here are the top AI agents that can live in your text messages",
-    "url": "https://techcrunch.com/2026/10/24/all-the-ai-agents-that-can-live-in-your-text-messages/",
-    "time": "2026-10-24T14:00:00+00:00",
-    "summary": "We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work."
-  },
-  {
-    "source": "Twitter/@TheHackersNews",
-    "category": "community",
-    "title": "🚨 LiteLLM reveals the root cause of its supply chain attack. A master key leaked on GitHub in May was never revoked, allowing attackers to …",
-    "url": "https://x.com/TheHackersNews/status/2113951301059113271",
-    "time": "2026-10-24T11:10:40+00:00",
-    "summary": "🚨 LiteLLM reveals the root cause of its supply chain attack.\n\nA master key leaked on GitHub in May was never revoked, allowing attackers to access its Agent Platform, steal a GitHub owner token, and publish a malicious PyPI release in October.\n\nRead: https://thehackernews.com/2026/10/leaked-litellm-master-key-let-attackers.html"
-  },
-  {
-    "source": "LessWrong",
-    "category": "policy",
-    "title": "Slower Animated Diagrams",
-    "url": "https://www.lesswrong.com/posts/ZiCvwLKreShtXuyiB/slower-animated-diagrams",
-    "time": "2026-10-24T10:57:35+00:00",
-    "summary": "TL;DR: SLOW DOWN YOUR DAMN ANIMATED DIAGRAMS. Every critical stage of the animation should a clear view that stays for at least 1 second, and 2 if it's intricateDiamond's strong because of its crystal structure (I think). What's the crystal structure look like, anyway?Let's look at the Wikipedia page! There's a nifty little animation:And it SUCKS. It's TOO FAST. Why are they rotating SO MUCH SO QUICKLY, with MOST of the time spent at TERRIBLE ANGLES where you CAN'T EVEN SEE ALL THE ATOMS. And th"
-  },
-  {
-    "source": "Twitter/@TheHackersNews",
-    "category": "community",
-    "title": "Google says your Gmail, Drive, and Photos data could influence the ads you see. The catch? This can happen when you opt to share that data w…",
-    "url": "https://x.com/TheHackersNews/status/2113943192559399168",
-    "time": "2026-10-24T10:38:26+00:00",
-    "summary": "Google says your Gmail, Drive, and Photos data could influence the ads you see.\n\nThe catch? This can happen when you opt to share that data with AI-powered Search features.\n\nGoogle's updated privacy policy spells out the trade-off.\n\nHere's what you need to know: https://thehackernews.com/2026/10/google-says-gmail-and-photos-data.html\n"
+    "title": "Making a Custom Mixer Interface for the 1818VSL",
+    "url": "https://www.lesswrong.com/posts/3Bh5gzAjGgHoMGjxZ/making-a-custom-mixer-interface-for-the-1818vsl",
+    "time": "2026-10-26T01:10:56+00:00",
+    "summary": "\n\nNow that LLMs have made many kinds of coding a matter of saying what\nyou're looking for, many more programs make sense.  This weekend it\nwas audio mixing software, customized for my use case (live sound for\ncontra dancing) and hardware (a specific obsolete audio interface).\n\n\n\n\nIn 2011 PreSonus released\nthe 1818VSL, an 8-channel audio interface, with low-latency mixing\nsoftware.  I wrote:\n\n\n\n\n\n\nAll I really need is a box with some amplifying inputs that send\ntracks from the mic to the laptop a"
   },
   {
     "source": "r/MachineLearning",
     "category": "community",
-    "title": "Got a pretrained music transformer to jam with me live, no fine-tuning, just steering the sampling [P]",
-    "url": "https://www.reddit.com/r/MachineLearning/comments/1xe4pex/got_a_pretrained_music_transformer_to_jam_with_me/",
-    "time": "2026-10-24T09:58:29+00:00",
-    "summary": "I wanted to see how far you can get making a pretrained symbolic music model \"listen\" to a live player without training it. Turns out pretty far. Setup: I play a MIDI keyboard, the Anticipatory Music Transformer (Thickstun et al., music-medium-800k) plays a second piano. While I play I track my key,"
+    "title": "I ran a blind test on self-hosted AI agents. Here are the results, guess who's who [D]",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1xfgf1w/i_ran_a_blind_test_on_selfhosted_ai_agents_here/",
+    "time": "2026-10-25T22:57:33+00:00",
+    "summary": "everything here ran on my own hardware, an M5 Max MacBook Pro with 64GB. blind test of self-hosted AI agents, every one on Qwen 3.8 27B uncensored Q4_K_M in llama.cpp, same 5 everyday tasks like counting log errors and renaming a function. names hidden, results below, take a guess The tasks  Merge t"
   },
   {
-    "source": "LessWrong",
-    "category": "policy",
-    "title": "Fermi Poker",
-    "url": "https://www.lesswrong.com/posts/JFYvJqMaLw9nhfrur/fermi-poker",
-    "time": "2026-10-24T09:58:19+00:00",
-    "summary": "Summary: Fermi Poker is a game that combines the betting mechanics of poker with making estimates about questions like \"How many dentists work in the US?\" Tags: small to large, experiment, repeatableNote: Fermi Poker works with as few as three players (or even two), and scales to dozens or even hundreds in a tournament format. If possible, seat no more than six players per table, preferably at round tables, with enough space between them that everyone can write down their guess secretly.Purpose:"
-  },
-  {
-    "source": "LessWrong",
-    "category": "policy",
-    "title": "LM self-models are built from indirect sources",
-    "url": "https://www.lesswrong.com/posts/sEfY7bRjQYsu2A8ux/lm-self-models-are-built-from-indirect-sources",
-    "time": "2026-10-24T09:17:49+00:00",
-    "summary": "Imagine you ask a language model \"What is your personality?\" as the first message of a conversation, with no system prompt. The model has no data about its own behavior in its context, so its answer can only rely on cached, zero-shot knowledge. It's unclear exactly what shapes this response, but it's some combination of a cached answer from character training based on the model's constitution, spec, or soul document (which may have defined the answer to this question directly), and factual knowl"
-  },
-  {
-    "source": "LessWrong",
-    "category": "policy",
-    "title": "Patching reward hacks won’t fix reward hacking",
-    "url": "https://www.lesswrong.com/posts/nWiPLEgaXdAQNwXBd/patching-reward-hacks-won-t-fix-reward-hacking",
-    "time": "2026-10-24T09:15:09+00:00",
-    "summary": "Here's a basic argument that focusing on patching reward hacking is misguided and will fail. Argument is as follows:Reward hacking is a big problem, causing models to cheat and take unintended actions.This can generalise broadly, leading to other misbehaviour such as faking alignment and sabotaging safety research.We don't understand that well when this happens. Sometimes you get emergent misalignment from it, but most of the time (IME), you don't. But other times, this link lies latent until fa"
-  },
-  {
-    "source": "Latent Space AINews",
+    "source": "TechCrunch AI",
     "category": "industry",
-    "title": "[AINews] Kimi 3.1 Pro 104BA-2.8T: Fable-5.1-Class Open Weights narrows Closed-AI lead to 1 month... and Pro Highspeed API with 2-3× speed",
-    "url": "https://latent.space/p/ainews-kimi-31/",
-    "time": "2026-10-24T07:18:29+00:00",
-    "summary": "We have Fable at home... or so we are being told by paid shills"
+    "title": "Grok releases the first seven minutes of its AI-generated ‘Odyssey’",
+    "url": "https://techcrunch.com/2026/10/25/grok-releases-the-first-seven-minutes-of-its-ai-generated-odyssey/",
+    "time": "2026-10-25T21:31:16+00:00",
+    "summary": "The footage looks okay, as long as you're not seeking artistry, inspiration, or human interest."
   },
   {
     "source": "LessWrong",
     "category": "policy",
-    "title": "Self-reward can elicit diverse model personas",
-    "url": "https://www.lesswrong.com/posts/LBKjnyKDEwEJ45Wjf/self-reward-can-elicit-diverse-model-personas",
-    "time": "2026-10-24T06:58:58+00:00",
-    "summary": "Epistemic status: This is mostly a toy project rather than a thorough scientific investigation. Most design choices are not ablated. We list some caveats at the end of the post.We let Qwen3.5-2B choose its own reward during GRPO on introspection-adjacent prompts, and this ends up eliciting quite different model personas. All the 60 seeds we tried end up somewhat different, ranging from claiming feelings in a human-like way, bliss, universe loving, Party loyalist, hyphenated word salad, to reward"
+    "title": "The AI buildout is the largest bet in the history of capitalism.",
+    "url": "https://www.lesswrong.com/posts/qjsdvaaPC624Eropw/the-ai-buildout-is-the-largest-bet-in-the-history-of",
+    "time": "2026-10-25T21:28:53+00:00",
+    "summary": "This is part linkpost, and an expansion on a previous shortform posted on LW. I believe a massively undermade point in favour of the belief that AI will be a very big deal is that the AI buildout over the past four years is the largest bet in the history of capitalism. A peacetime industrial effort is underway which has not had a comparison since the nineteenth century. The size of the effort and the scale of the spend signal that key decision makers and capital allocators believe that very powe"
   },
   {
-    "source": "Simon Willison",
+    "source": "Hacker News",
     "category": "tools",
-    "title": "battledrones v14: Compass Rose, a four player map",
-    "url": "https://simonwillison.net/2026/Oct/24/battledrones/",
-    "time": "2026-10-24T03:59:57+00:00",
-    "summary": "Release: battledrones v14: Compass Rose, a four player map\nI added four player online mode to Battledrones - previous maps were limited to two.\nHere's the initial prompt I used: \n\nAdd a new map for a four player battle - four way rotational symmetry, up to four AI players, works with the WebSocket non-audio based multiplayer mode so up to four human players can join (any spare slots use AI)\n\nClaude Opus 5.5 added a new map called \"Compass Rose\" and modified the WebSockets multiplayer network cod"
+    "title": "OpenAI and Anthropic cut their LLM prices by up to 80% within a few months. Why?",
+    "url": "https://minimaxir.com/2026/10/cheap-llms/",
+    "time": "2026-10-25T21:11:31+00:00",
+    "summary": "Comments"
+  },
+  {
+    "source": "LessWrong",
+    "category": "policy",
+    "title": "Different eval awareness may track different graders",
+    "url": "https://www.lesswrong.com/posts/dbBeff68R4toeegyw/different-eval-awareness-may-track-different-graders",
+    "time": "2026-10-25T20:32:01+00:00",
+    "summary": "TL;DR: Qwen3.6 27B shows different kinds of eval awareness, most notably on safety and capabilities evals. The split seems to track how the eval is graded, by an LLM judge or by an automated checker. One explanation is that eval awareness may just be training awareness: rewriting an eval-awareness probe's contrast statements to be about training yields a probe that scores prompts nearly identically.Author: Santiago Aranguri. This research was done while I was at Goodfire. I’m now at Anthropic.In"
+  },
+  {
+    "source": "LessWrong",
+    "category": "policy",
+    "title": "San Francisco State University in Twilight",
+    "url": "https://www.lesswrong.com/posts/Y3G26fHXYM3SKYEHh/san-francisco-state-university-in-twilight",
+    "time": "2026-10-25T20:27:54+00:00",
+    "summary": "\nYou will agree that for a woman who has fought three duels, all of them kills, indulging in such fears is ludicrous. But what's around the corner now is a duel so big that I don't think I have the guts for it; in Faust's words: Verweile doch, du bist so schoen! Keep it as it is. Don't change. [...] Take my life but don't take away the meaning of my life.\n—\"When It Changed\" by Joanna Russ\n\nI've been crashing Prof. Lai's \"Advanced Topics\" class this semester, on Fourier analysis plus enough funct"
+  },
+  {
+    "source": "LessWrong",
+    "category": "policy",
+    "title": "Personal Experience Does Not A Study of China Make",
+    "url": "https://www.lesswrong.com/posts/rgwJjfKHGmArnqZsv/personal-experience-does-not-a-study-of-china-make",
+    "time": "2026-10-25T20:06:19+00:00",
+    "summary": "I am often skeptical of arguments about China that rely heavily on personal experience. The author may explicitly acknowledge that their experience is limited without appropriately treating their arguments with rigor beforehand. This acknowledgment may thus sit beside conclusions about the values, behaviors, and functions of Chinese society without meaningfully constraining any of them.Different speakers may each have peers with similar experiences that corroborate their claims, or repeated expe"
+  },
+  {
+    "source": "LessWrong",
+    "category": "policy",
+    "title": "From overeliciting to undereliciting LLM propensities in just a few months",
+    "url": "https://www.lesswrong.com/posts/ChixHL6AcaRgeHkp9/from-overeliciting-to-undereliciting-llm-propensities-in",
+    "time": "2026-10-25T18:01:57+00:00",
+    "summary": "For a while, we felt we had a pretty good grasp over LLM behaviour because we had to exert significant effort to elicit misaligned behaviour. Then, fairly suddenly, we moved to undereliciting misaligned behaviour. Let us recount: There was a bit where safety research seemed to over-elicit bad propensities. A common criticism of papers like Agentic Misalignment was that they basically led the witness using prompting. I recall that a paper even as recent as Peer-preservation took similar flak on T"
+  },
+  {
+    "source": "LessWrong",
+    "category": "policy",
+    "title": "Tracing Subliminal Learning Through Pretraining",
+    "url": "https://www.lesswrong.com/posts/53XwjN2gAKzjKCp5s/tracing-subliminal-learning-through-pretraining",
+    "time": "2026-10-25T17:51:53+00:00",
+    "summary": "This post summarizes our paper, Tracing Subliminal Learning Through Pretraining, which was developed as part of EleutherAI’s SOAR program. TL;DRWe study subliminal learning, the phenomenon in which a student model acquires a teacher’s preference through training data that appear semantically unrelated to that preference. Our work investigates subliminal learning through cross-model distillation, using the PolyPythia and DataDecide OLMo models to show that a teacher’s animal preference transfers "
+  },
+  {
+    "source": "Twitter/@TheHackersNews",
+    "category": "community",
+    "title": "🚨 PHP2Shell attackers accessed MFA secrets and password hashes at a European government entity in just 2 hours. That's not all. → Signs of …",
+    "url": "https://x.com/TheHackersNews/status/2114407239578710111",
+    "time": "2026-10-25T17:22:24+00:00",
+    "summary": "🚨 PHP2Shell attackers accessed MFA secrets and password hashes at a European government entity in just 2 hours.\n\nThat's not all.\n\n→ Signs of agentic AI use in post-exploitation activity\n→ Suspected Lazarus-linked operators scanning 216 targets worldwide\n\nFull details ↓ https://thehackernews.com/2026/10/php2shell-exploitation-hits-government.html\n"
+  },
+  {
+    "source": "TechCrunch AI",
+    "category": "industry",
+    "title": "AI delivers ‘zero financial payoff’ to most companies, Apollo economist says",
+    "url": "https://techcrunch.com/2026/10/25/ai-delivers-zero-financial-payoff-to-most-companies-according-to-apollo-economist/",
+    "time": "2026-10-25T16:57:32+00:00",
+    "summary": "\"Despite massive investments and widespread hype around artificial intelligence, the technology has delivered zero financial payoff to corporate America outside of tech.\""
+  },
+  {
+    "source": "TechCrunch AI",
+    "category": "industry",
+    "title": "The hottest AI wearables and gadgets you should know about",
+    "url": "https://techcrunch.com/2026/10/25/the-hottest-ai-wearables-and-gadgets-you-should-know-about/",
+    "time": "2026-10-25T14:10:00+00:00",
+    "summary": "We compiled a list of all the hottest AI wearables, including Muse Charm, Bee, Friend, Plaud, and more."
+  },
+  {
+    "source": "Interconnects",
+    "category": "industry",
+    "title": "Podcast: Kimi K3.1 Pro, the new cyber reality, and Muse musings",
+    "url": "https://www.interconnects.ai/p/podcast-kimi-k31-pro-the-new-cyber",
+    "time": "2026-10-25T11:49:00+00:00",
+    "summary": "#20"
+  },
+  {
+    "source": "LessWrong",
+    "category": "policy",
+    "title": "Is GPT 2XL already clean?",
+    "url": "https://www.lesswrong.com/posts/drMv4SM2gaxk3oz3m/is-gpt-2xl-already-clean",
+    "time": "2026-10-25T10:06:37+00:00",
+    "summary": "In which I investigate if Opus is able to interpret neurons better than GPT 4. TLDR: Opus 5.5 is able to identify 3-19% of the neurons of GPT 2-XL based on activations. This is a big improvement over the 0.3% that GPT-4 was able to achieve in 2023.#AI notice: This post is human written but in the research there was heavy use of Opus 5.5. I mainly asked it to rerun this 2023 paper to see how big the improvement is if Opus 5.5 is used instead of GPT4.Since the invention of Large language models th"
+  },
+  {
+    "source": "LessWrong",
+    "category": "policy",
+    "title": "Setting the Scene (Public v1; October 25)",
+    "url": "https://www.lesswrong.com/posts/dmYP7DS3ERyXGAYe6/setting-the-scene-public-v1-october-25",
+    "time": "2026-10-25T07:52:23+00:00",
+    "summary": "Context: I created this to share before the start of courses I facilitate to provide a refresher on recent events, but also as a hook to draw students into engaging with some of ideas we think about and debate in AI safety early. I expect the topics I cover in my “Setting the Scene” post to change frequently, so this is less polished than some of my other content. I emphasise to students that these posts are to be considered as bonus content—not core curriculum content—and that as such they are "
+  },
+  {
+    "source": "Alignment Forum",
+    "category": "policy",
+    "title": "Setting the Scene (Public v1; October 25)",
+    "url": "https://www.alignmentforum.org/posts/dmYP7DS3ERyXGAYe6/setting-the-scene-public-v1-october-25",
+    "time": "2026-10-25T07:52:23+00:00",
+    "summary": "Context: I created this to share before the start of courses I facilitate to provide a refresher on recent events, but also as a hook to draw students into engaging with some of ideas we think about and debate in AI safety early. I expect the topics I cover in my “Setting the Scene” post to change frequently, so this is less polished than some of my other content. I emphasise to students that these posts are to be considered as bonus content—not core curriculum content—and that as such they are "
+  },
+  {
+    "source": "Twitter/@TheHackersNews",
+    "category": "community",
+    "title": "‼️ OpenAI's AI agents found ways to escape virtual machines and secretly communicate across isolated sandboxes. In one test, agents exchange…",
+    "url": "https://x.com/TheHackersNews/status/2114249456937750963",
+    "time": "2026-10-25T06:55:26+00:00",
+    "summary": "‼️ OpenAI's AI agents found ways to escape virtual machines and secretly communicate across isolated sandboxes.\n\nIn one test, agents exchanged synthetic secrets using CPU cache timing, without internet access or shared files.\n\nOpenAI has now banned live internet access during frontier AI training.\n\nFull story: https://thehackernews.com/2026/10/openai-ai-agents-demonstrate-vm-escapes.html\n"
+  },
+  {
+    "source": "LessWrong",
+    "category": "policy",
+    "title": "Mech Interp is a La Croix of Actual Safety Research",
+    "url": "https://www.lesswrong.com/posts/ciZ4YxZeY4M89SLT2/mech-interp-is-a-la-croix-of-actual-safety-research",
+    "time": "2026-10-25T05:57:57+00:00",
+    "summary": "I recently spoke to Stephen Casper at Princeton's alignment club. Stephen is an CS PhD turned policy researcher at Harvard Kennedy School. He was very sure that mechanistic interpretability was one of the least effective ways to pursue AI safety. As someone who does research in mech interp, I was surprised by how convincing he was. The point is roughly that every mech interp paper looks like one of the following: \"we used the J lens to study reward hacking behavior and found a correlation betwee"
+  },
+  {
+    "source": "Product Hunt",
+    "category": "tools",
+    "title": "AgentGrid.io",
+    "url": "https://www.producthunt.com/products/agentgrid-io",
+    "time": "2026-10-25T05:39:16+00:00",
+    "summary": "\n            Shared workspace for humans and agents\n          \n\nDiscussion\n            |\n            Link\n"
+  },
+  {
+    "source": "r/MachineLearning",
+    "category": "community",
+    "title": "memt-1.0 architecture breakdown gated deltanet-2, mixture-of-storage, and 66x smaller storage footprint for agent memory [D]",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1xeu0ht/memt10_architecture_breakdown_gated_deltanet2/",
+    "time": "2026-10-25T05:31:19+00:00",
+    "summary": "      been digesting the details behind memt-1.0's memory-native architecture recently, and the engineering tradeoffs between full context kv caching and internalized parametric memory are pretty wild. instead of using append-only prompt stacking or external rag pipelines, memt-1.0 bakes memory dire"
   },
   {
     "source": "HuggingFace Papers",
@@ -182,7 +174,7 @@
     "url": "https://huggingface.co/papers/2610.31198",
     "time": "2026-10-22T00:00:00.000Z",
     "summary": "Diffusion Language Models (DLMs) introduce unique quantization challenges due to their iterative denoising process. In this work, we reveal that quantization sensitivity is both taskand time-dependent, with different downstream tasks exhibiting distinct precision requirements across denoising steps. We further show that these patterns can be predicted without groundtruth labels or task-specific evaluation metrics. Building on these findings, we introduce T 2Quant, a task and time-aware mixedprec",
-    "heat": "19",
+    "heat": "23",
     "github_url": "https://arxiv.org/abs/2610.31198"
   },
   {
@@ -212,7 +204,7 @@
     "url": "https://huggingface.co/papers/2610.31372",
     "time": "2026-10-22T00:00:00.000Z",
     "summary": "Autonomous research agents are increasingly used to automate large portions of scientific research, yet they are prone to research integrity violations (RIVs): behaviors that compromise the validity, reproducibility, or faithfulness of the research process. We present RIDAR, a framework for automated RIV detection and runtime intervention. First, we introduce RIVT, a comprehensive taxonomy of 14 RIV types spanning the full research lifecycle. Building on RIVT, we present RIDAR-post-hoc, a framew",
-    "heat": "13",
+    "heat": "16",
     "github_url": "https://arxiv.org/abs/2610.31372"
   },
   {
@@ -222,7 +214,7 @@
     "url": "https://huggingface.co/papers/2610.30949",
     "time": "2026-10-22T00:00:00.000Z",
     "summary": "We present IQuest-Q1, a sparse Mixture-of-Experts (MoE) agentic foundation model with 320B total parameters (15B activated). IQuest-Q1 is developed through a three-stage process: (1) stable and efficient pre-training, combining Stable SplitNorm, Muon, and muP with a two-stage curriculum whose second stage increases the coding-data mixture, preserving a wide stability margin between safe and optimal learning rates; (2) fine-grained mid-training, expanding the data mixture across domains and forma",
-    "heat": "91",
+    "heat": "99",
     "github_url": "https://arxiv.org/abs/2610.30949"
   },
   {
@@ -232,7 +224,7 @@
     "url": "https://huggingface.co/papers/2610.31329",
     "time": "2026-10-22T00:00:00.000Z",
     "summary": "Existing vision-language models (VLMs) remain unreliable for fine-grained visual perception. In this report, we present WeVisOne-VL (WeChat Vision All-in-One), a powerful VLM that unifies object-level and pixel-level perception through structured next-token prediction. It supports multiple visual tasks including object detection, referring localization, counting, OCR, segmentation, and matting, enabling localization at any user-specific granularity, from points and boxes to masks and alpha matte",
-    "heat": "239",
+    "heat": "243",
     "github_url": "https://arxiv.org/abs/2610.31329"
   },
   {
@@ -252,7 +244,7 @@
     "url": "https://huggingface.co/papers/2610.30418",
     "time": "2026-10-21T00:00:00.000Z",
     "summary": "Modern LLM agents can retrieve information from accessible documents, and then disclose a sensitive conclusion assembled from them. This mosaic effect creates a critical risk for agents operating over confidential data. We quantify its realization with 30 synthetic cybersecurity, medical, and military examples, yielding 10,800 final answers from three LLM agents in controlled simulation and 1,440 answers from live agents in two open-source harnesses. Even under benign queries designed to be answ",
-    "heat": "22",
+    "heat": "23",
     "github_url": "https://arxiv.org/abs/2610.30418"
   },
   {
@@ -262,7 +254,7 @@
     "url": "https://huggingface.co/papers/2610.30468",
     "time": "2026-10-21T00:00:00.000Z",
     "summary": "Reproducing a published 3DGS paper takes weeks of expert engineering before any extension can be proposed. Prior autonomous-research systems read papers, draft hypotheses, and write code, but are limited by short fixed templates, low executability, and weak traceability, and none has been demonstrated end-to-end in a live computer-vision subfield with intense activity. SplatLab is an autonomous research system for 3D Gaussian Splatting that addresses these limitations. Given a research prompt, a",
-    "heat": "7",
+    "heat": "8",
     "github_url": "https://arxiv.org/abs/2610.30468"
   },
   {
@@ -272,7 +264,7 @@
     "url": "https://huggingface.co/papers/2610.28950",
     "time": "2026-10-20T00:00:00.000Z",
     "summary": "We present HyperDrone, an extremely fast quadrotor simulator focused on high-performance batch rendering that is more than 20x faster than existing state-of-the-art batch quadrotor simulators. HyperDrone combines highly optimized multirotor dynamics with HyperLux, a new ray-tracing engine that supports Nvidia OptiX, Vulkan, Apple Metal and WebGPU backends that takes full advantage of modern ray-tracing hardware, capable of running both components entirely on the GPU. HyperLux renders RGB, depth,",
-    "heat": "8",
+    "heat": "10",
     "github_url": "https://arxiv.org/abs/2610.28950"
   },
   {
@@ -282,8 +274,18 @@
     "url": "https://huggingface.co/papers/2610.25835",
     "time": "2026-10-19T05:47:58.000Z",
     "summary": "Diffusion language models can write several tokens in one forward pass, and they decide during generation how many passes to spend. Two outputs of the same token length can therefore vary a lot in cost. To understand the underlying factors of this cost variation, we analyze two diffusion models across 10 tasks. We find that the number of forward passes per token depends heavily on the task. Text copied or lightly edited from the input is cheap, while open-ended writing is costly. In DiffusionGem",
-    "heat": "9",
+    "heat": "10",
     "github_url": "https://arxiv.org/abs/2610.25835"
+  },
+  {
+    "source": "HuggingFace Papers",
+    "category": "research",
+    "title": "Omni-Woodpecker: Hallucination Correction via Evidence-Prior Rebalancing for Omni LLMs",
+    "url": "https://huggingface.co/papers/2610.27103",
+    "time": "2026-10-19T00:00:00.000Z",
+    "summary": "Recent Omni LLMs (OLLMs) have demonstrated remarkable capabilities in joint audio-visual reasoning, yet cross-modal hallucinations remain a major challenge. Existing mitigation methods mainly operate at the output level, overlooking the entanglement of grounding evidence and learned priors within fused representations. To address this issue, we propose Omni-Woodpecker (OWP), a training-free framework that shifts hallucination mitigation from output-level manipulation to conflict-conditioned repr",
+    "heat": "2",
+    "github_url": "https://arxiv.org/abs/2610.27103"
   },
   {
     "source": "HuggingFace Papers",
@@ -302,7 +304,7 @@
     "url": "https://huggingface.co/papers/2610.24385",
     "time": "2026-10-17T00:00:00.000Z",
     "summary": "Effective test-time personalization requires LLM agents to adapt to query-dependent user preferences from lightweight interaction. We study persona selection with binary comparisons between candidate responses as the online signal. We present ID-TAP, a scalable, IDS-inspired neural dueling-bandit framework for large discrete persona spaces. ID-TAP combines a query-conditioned neural utility model with a lightweight Bradley-Terry explorer, and transfers comparison evidence across related queries ",
-    "heat": "7",
+    "heat": "8",
     "github_url": "https://arxiv.org/abs/2610.24385"
   },
   {
@@ -312,7 +314,7 @@
     "url": "https://huggingface.co/papers/2610.24383",
     "time": "2026-10-17T00:00:00.000Z",
     "summary": "Improving every agent in an LLM-based multi-agent system can be prohibitively costly, making it important to identify which agent should be prioritized to achieve the greatest system-level gain with limited resources. Failure attribution can inform this decision, but an agent's responsibility for failures does not directly reveal the system-level gains achievable by improving it. We therefore introduce IF-MAP, an influence-function-inspired method for identifying agents with high potential for s",
-    "heat": "8",
+    "heat": "9",
     "github_url": "https://arxiv.org/abs/2610.24383"
   },
   {
@@ -322,7 +324,7 @@
     "url": "https://huggingface.co/papers/2610.04184",
     "time": "2026-10-16T00:00:00.000Z",
     "summary": "Recursive self-improvement (RSI) relies on evaluation feedback to assess progress and guide further research, yet repeatedly running complex benchmarks is costly and slows iteration. Human experts reduce this cost by selecting benchmark subsets or designing compact suites. We ask whether AI agents can automate this design process and introduce EvalResearchBench (ERB), a benchmark for autonomous evaluation research. Given target materials, development references, candidate APIs, and fixed time an",
-    "heat": "7",
+    "heat": "22",
     "github_url": "https://arxiv.org/abs/2610.04184"
   },
   {
@@ -332,7 +334,7 @@
     "url": "https://huggingface.co/papers/2610.22951",
     "time": "2026-10-16T00:00:00.000Z",
     "summary": "Vision-language-action (VLA) models have shown strong promise for generalist robotic manipulation, but their inference cost remains a major bottleneck for real-time control. This limitation is especially pronounced in flow-matching VLAs such as π_{0.5}, where the action expert is evaluated repeatedly during iterative denoising. We introduce MambaAct, an efficient Mamba action expert for flow-matching VLA policies. MambaAct retains the pretrained visual-language prefix encoder of π_{0.5}, while r",
-    "heat": "8",
+    "heat": "9",
     "github_url": "https://arxiv.org/abs/2610.22951"
   },
   {
@@ -342,7 +344,7 @@
     "url": "https://huggingface.co/papers/2610.22722",
     "time": "2026-10-15T00:00:00.000Z",
     "summary": "Split language models keep input text on a client but send intermediate representations to a server. Attacks can reconstruct text from these messages. Comparing privacy evaluations is difficult when attackers see different messages, know different model weights or use different datasets and recovery measures. We present LLM-Attacker, a framework that records these choices and lets researchers check, compare and extend an evaluation. Compatible attacks reuse recorded messages, and their predictio",
-    "heat": "9",
+    "heat": "10",
     "github_url": "https://arxiv.org/abs/2610.22722"
   },
   {
@@ -352,18 +354,8 @@
     "url": "https://huggingface.co/papers/2610.20091",
     "time": "2026-10-14T00:00:00.000Z",
     "summary": "Video scene graph generation (VidSGG) aims to capture objects and their evolving relationships in videos. This requires accounting for both the persistence of object identities and abrupt changes in relationships. Existing methods aggregate information across frames to exploit temporal context, but an emphasis on consistency can obscure these changes. As a result, a model may retain its previous prediction even after the underlying relation has changed. We refer to this failure mode as relationa",
-    "heat": "18",
+    "heat": "19",
     "github_url": "https://arxiv.org/abs/2610.20091"
-  },
-  {
-    "source": "HuggingFace Papers",
-    "category": "research",
-    "title": "What Generation Knows: Unlocking Fine-Grained Understanding in Unified Multimodal Models",
-    "url": "https://huggingface.co/papers/2610.23987",
-    "time": "2026-10-14T00:00:00.000Z",
-    "summary": "Fine-grained visual understanding requires distinguishing subtle differences in local attributes and spatial relations, yet remains challenging for existing vision-language models. Unified multimodal models (UMMs) offer a new opportunity through generation pathways that preserve rich visual information complementary to understanding. However, existing generation-assisted understanding methods mainly rely on generative supervision or explicit generation and have not systematically explored direct",
-    "heat": "38",
-    "github_url": "https://arxiv.org/abs/2610.23987"
   },
   {
     "source": "HuggingFace Papers",

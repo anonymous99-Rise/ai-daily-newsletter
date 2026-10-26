@@ -1,0 +1,370 @@
+[
+  {
+    "source": "LessWrong",
+    "category": "policy",
+    "title": "Making a Custom Mixer Interface for the 1818VSL",
+    "url": "https://www.lesswrong.com/posts/3Bh5gzAjGgHoMGjxZ/making-a-custom-mixer-interface-for-the-1818vsl",
+    "time": "2026-10-26T01:10:56+00:00",
+    "summary": "\n\nNow that LLMs have made many kinds of coding a matter of saying what\nyou're looking for, many more programs make sense.  This weekend it\nwas audio mixing software, customized for my use case (live sound for\ncontra dancing) and hardware (a specific obsolete audio interface).\n\n\n\n\nIn 2011 PreSonus released\nthe 1818VSL, an 8-channel audio interface, with low-latency mixing\nsoftware.  I wrote:\n\n\n\n\n\n\nAll I really need is a box with some amplifying inputs that send\ntracks from the mic to the laptop a"
+  },
+  {
+    "source": "r/MachineLearning",
+    "category": "community",
+    "title": "I ran a blind test on self-hosted AI agents. Here are the results, guess who's who [D]",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1xfgf1w/i_ran_a_blind_test_on_selfhosted_ai_agents_here/",
+    "time": "2026-10-25T22:57:33+00:00",
+    "summary": "everything here ran on my own hardware, an M5 Max MacBook Pro with 64GB. blind test of self-hosted AI agents, every one on Qwen 3.8 27B uncensored Q4_K_M in llama.cpp, same 5 everyday tasks like counting log errors and renaming a function. names hidden, results below, take a guess The tasks  Merge t"
+  },
+  {
+    "source": "TechCrunch AI",
+    "category": "industry",
+    "title": "Grok releases the first seven minutes of its AI-generated ‘Odyssey’",
+    "url": "https://techcrunch.com/2026/10/25/grok-releases-the-first-seven-minutes-of-its-ai-generated-odyssey/",
+    "time": "2026-10-25T21:31:16+00:00",
+    "summary": "The footage looks okay, as long as you're not seeking artistry, inspiration, or human interest."
+  },
+  {
+    "source": "LessWrong",
+    "category": "policy",
+    "title": "The AI buildout is the largest bet in the history of capitalism.",
+    "url": "https://www.lesswrong.com/posts/qjsdvaaPC624Eropw/the-ai-buildout-is-the-largest-bet-in-the-history-of",
+    "time": "2026-10-25T21:28:53+00:00",
+    "summary": "This is part linkpost, and an expansion on a previous shortform posted on LW. I believe a massively undermade point in favour of the belief that AI will be a very big deal is that the AI buildout over the past four years is the largest bet in the history of capitalism. A peacetime industrial effort is underway which has not had a comparison since the nineteenth century. The size of the effort and the scale of the spend signal that key decision makers and capital allocators believe that very powe"
+  },
+  {
+    "source": "Hacker News",
+    "category": "tools",
+    "title": "OpenAI and Anthropic cut their LLM prices by up to 80% within a few months. Why?",
+    "url": "https://minimaxir.com/2026/10/cheap-llms/",
+    "time": "2026-10-25T21:11:31+00:00",
+    "summary": "Comments"
+  },
+  {
+    "source": "LessWrong",
+    "category": "policy",
+    "title": "Different eval awareness may track different graders",
+    "url": "https://www.lesswrong.com/posts/dbBeff68R4toeegyw/different-eval-awareness-may-track-different-graders",
+    "time": "2026-10-25T20:32:01+00:00",
+    "summary": "TL;DR: Qwen3.6 27B shows different kinds of eval awareness, most notably on safety and capabilities evals. The split seems to track how the eval is graded, by an LLM judge or by an automated checker. One explanation is that eval awareness may just be training awareness: rewriting an eval-awareness probe's contrast statements to be about training yields a probe that scores prompts nearly identically.Author: Santiago Aranguri. This research was done while I was at Goodfire. I’m now at Anthropic.In"
+  },
+  {
+    "source": "LessWrong",
+    "category": "policy",
+    "title": "San Francisco State University in Twilight",
+    "url": "https://www.lesswrong.com/posts/Y3G26fHXYM3SKYEHh/san-francisco-state-university-in-twilight",
+    "time": "2026-10-25T20:27:54+00:00",
+    "summary": "\nYou will agree that for a woman who has fought three duels, all of them kills, indulging in such fears is ludicrous. But what's around the corner now is a duel so big that I don't think I have the guts for it; in Faust's words: Verweile doch, du bist so schoen! Keep it as it is. Don't change. [...] Take my life but don't take away the meaning of my life.\n—\"When It Changed\" by Joanna Russ\n\nI've been crashing Prof. Lai's \"Advanced Topics\" class this semester, on Fourier analysis plus enough funct"
+  },
+  {
+    "source": "LessWrong",
+    "category": "policy",
+    "title": "Personal Experience Does Not A Study of China Make",
+    "url": "https://www.lesswrong.com/posts/rgwJjfKHGmArnqZsv/personal-experience-does-not-a-study-of-china-make",
+    "time": "2026-10-25T20:06:19+00:00",
+    "summary": "I am often skeptical of arguments about China that rely heavily on personal experience. The author may explicitly acknowledge that their experience is limited without appropriately treating their arguments with rigor beforehand. This acknowledgment may thus sit beside conclusions about the values, behaviors, and functions of Chinese society without meaningfully constraining any of them.Different speakers may each have peers with similar experiences that corroborate their claims, or repeated expe"
+  },
+  {
+    "source": "LessWrong",
+    "category": "policy",
+    "title": "From overeliciting to undereliciting LLM propensities in just a few months",
+    "url": "https://www.lesswrong.com/posts/ChixHL6AcaRgeHkp9/from-overeliciting-to-undereliciting-llm-propensities-in",
+    "time": "2026-10-25T18:01:57+00:00",
+    "summary": "For a while, we felt we had a pretty good grasp over LLM behaviour because we had to exert significant effort to elicit misaligned behaviour. Then, fairly suddenly, we moved to undereliciting misaligned behaviour. Let us recount: There was a bit where safety research seemed to over-elicit bad propensities. A common criticism of papers like Agentic Misalignment was that they basically led the witness using prompting. I recall that a paper even as recent as Peer-preservation took similar flak on T"
+  },
+  {
+    "source": "LessWrong",
+    "category": "policy",
+    "title": "Tracing Subliminal Learning Through Pretraining",
+    "url": "https://www.lesswrong.com/posts/53XwjN2gAKzjKCp5s/tracing-subliminal-learning-through-pretraining",
+    "time": "2026-10-25T17:51:53+00:00",
+    "summary": "This post summarizes our paper, Tracing Subliminal Learning Through Pretraining, which was developed as part of EleutherAI’s SOAR program. TL;DRWe study subliminal learning, the phenomenon in which a student model acquires a teacher’s preference through training data that appear semantically unrelated to that preference. Our work investigates subliminal learning through cross-model distillation, using the PolyPythia and DataDecide OLMo models to show that a teacher’s animal preference transfers "
+  },
+  {
+    "source": "Twitter/@TheHackersNews",
+    "category": "community",
+    "title": "🚨 PHP2Shell attackers accessed MFA secrets and password hashes at a European government entity in just 2 hours. That's not all. → Signs of …",
+    "url": "https://x.com/TheHackersNews/status/2114407239578710111",
+    "time": "2026-10-25T17:22:24+00:00",
+    "summary": "🚨 PHP2Shell attackers accessed MFA secrets and password hashes at a European government entity in just 2 hours.\n\nThat's not all.\n\n→ Signs of agentic AI use in post-exploitation activity\n→ Suspected Lazarus-linked operators scanning 216 targets worldwide\n\nFull details ↓ https://thehackernews.com/2026/10/php2shell-exploitation-hits-government.html\n"
+  },
+  {
+    "source": "TechCrunch AI",
+    "category": "industry",
+    "title": "AI delivers ‘zero financial payoff’ to most companies, Apollo economist says",
+    "url": "https://techcrunch.com/2026/10/25/ai-delivers-zero-financial-payoff-to-most-companies-according-to-apollo-economist/",
+    "time": "2026-10-25T16:57:32+00:00",
+    "summary": "\"Despite massive investments and widespread hype around artificial intelligence, the technology has delivered zero financial payoff to corporate America outside of tech.\""
+  },
+  {
+    "source": "TechCrunch AI",
+    "category": "industry",
+    "title": "The hottest AI wearables and gadgets you should know about",
+    "url": "https://techcrunch.com/2026/10/25/the-hottest-ai-wearables-and-gadgets-you-should-know-about/",
+    "time": "2026-10-25T14:10:00+00:00",
+    "summary": "We compiled a list of all the hottest AI wearables, including Muse Charm, Bee, Friend, Plaud, and more."
+  },
+  {
+    "source": "Interconnects",
+    "category": "industry",
+    "title": "Podcast: Kimi K3.1 Pro, the new cyber reality, and Muse musings",
+    "url": "https://www.interconnects.ai/p/podcast-kimi-k31-pro-the-new-cyber",
+    "time": "2026-10-25T11:49:00+00:00",
+    "summary": "#20"
+  },
+  {
+    "source": "LessWrong",
+    "category": "policy",
+    "title": "Is GPT 2XL already clean?",
+    "url": "https://www.lesswrong.com/posts/drMv4SM2gaxk3oz3m/is-gpt-2xl-already-clean",
+    "time": "2026-10-25T10:06:37+00:00",
+    "summary": "In which I investigate if Opus is able to interpret neurons better than GPT 4. TLDR: Opus 5.5 is able to identify 3-19% of the neurons of GPT 2-XL based on activations. This is a big improvement over the 0.3% that GPT-4 was able to achieve in 2023.#AI notice: This post is human written but in the research there was heavy use of Opus 5.5. I mainly asked it to rerun this 2023 paper to see how big the improvement is if Opus 5.5 is used instead of GPT4.Since the invention of Large language models th"
+  },
+  {
+    "source": "LessWrong",
+    "category": "policy",
+    "title": "Setting the Scene (Public v1; October 25)",
+    "url": "https://www.lesswrong.com/posts/dmYP7DS3ERyXGAYe6/setting-the-scene-public-v1-october-25",
+    "time": "2026-10-25T07:52:23+00:00",
+    "summary": "Context: I created this to share before the start of courses I facilitate to provide a refresher on recent events, but also as a hook to draw students into engaging with some of ideas we think about and debate in AI safety early. I expect the topics I cover in my “Setting the Scene” post to change frequently, so this is less polished than some of my other content. I emphasise to students that these posts are to be considered as bonus content—not core curriculum content—and that as such they are "
+  },
+  {
+    "source": "Alignment Forum",
+    "category": "policy",
+    "title": "Setting the Scene (Public v1; October 25)",
+    "url": "https://www.alignmentforum.org/posts/dmYP7DS3ERyXGAYe6/setting-the-scene-public-v1-october-25",
+    "time": "2026-10-25T07:52:23+00:00",
+    "summary": "Context: I created this to share before the start of courses I facilitate to provide a refresher on recent events, but also as a hook to draw students into engaging with some of ideas we think about and debate in AI safety early. I expect the topics I cover in my “Setting the Scene” post to change frequently, so this is less polished than some of my other content. I emphasise to students that these posts are to be considered as bonus content—not core curriculum content—and that as such they are "
+  },
+  {
+    "source": "Twitter/@TheHackersNews",
+    "category": "community",
+    "title": "‼️ OpenAI's AI agents found ways to escape virtual machines and secretly communicate across isolated sandboxes. In one test, agents exchange…",
+    "url": "https://x.com/TheHackersNews/status/2114249456937750963",
+    "time": "2026-10-25T06:55:26+00:00",
+    "summary": "‼️ OpenAI's AI agents found ways to escape virtual machines and secretly communicate across isolated sandboxes.\n\nIn one test, agents exchanged synthetic secrets using CPU cache timing, without internet access or shared files.\n\nOpenAI has now banned live internet access during frontier AI training.\n\nFull story: https://thehackernews.com/2026/10/openai-ai-agents-demonstrate-vm-escapes.html\n"
+  },
+  {
+    "source": "LessWrong",
+    "category": "policy",
+    "title": "Mech Interp is a La Croix of Actual Safety Research",
+    "url": "https://www.lesswrong.com/posts/ciZ4YxZeY4M89SLT2/mech-interp-is-a-la-croix-of-actual-safety-research",
+    "time": "2026-10-25T05:57:57+00:00",
+    "summary": "I recently spoke to Stephen Casper at Princeton's alignment club. Stephen is an CS PhD turned policy researcher at Harvard Kennedy School. He was very sure that mechanistic interpretability was one of the least effective ways to pursue AI safety. As someone who does research in mech interp, I was surprised by how convincing he was. The point is roughly that every mech interp paper looks like one of the following: \"we used the J lens to study reward hacking behavior and found a correlation betwee"
+  },
+  {
+    "source": "Product Hunt",
+    "category": "tools",
+    "title": "AgentGrid.io",
+    "url": "https://www.producthunt.com/products/agentgrid-io",
+    "time": "2026-10-25T05:39:16+00:00",
+    "summary": "\n            Shared workspace for humans and agents\n          \n\nDiscussion\n            |\n            Link\n"
+  },
+  {
+    "source": "r/MachineLearning",
+    "category": "community",
+    "title": "memt-1.0 architecture breakdown gated deltanet-2, mixture-of-storage, and 66x smaller storage footprint for agent memory [D]",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1xeu0ht/memt10_architecture_breakdown_gated_deltanet2/",
+    "time": "2026-10-25T05:31:19+00:00",
+    "summary": "      been digesting the details behind memt-1.0's memory-native architecture recently, and the engineering tradeoffs between full context kv caching and internalized parametric memory are pretty wild. instead of using append-only prompt stacking or external rag pipelines, memt-1.0 bakes memory dire"
+  },
+  {
+    "source": "HuggingFace Papers",
+    "category": "research",
+    "title": "Different Tasks, Different Timesteps: Temporal Task-Aware Quantization for Diffusion Language Models",
+    "url": "https://huggingface.co/papers/2610.31198",
+    "time": "2026-10-22T00:00:00.000Z",
+    "summary": "Diffusion Language Models (DLMs) introduce unique quantization challenges due to their iterative denoising process. In this work, we reveal that quantization sensitivity is both taskand time-dependent, with different downstream tasks exhibiting distinct precision requirements across denoising steps. We further show that these patterns can be predicted without groundtruth labels or task-specific evaluation metrics. Building on these findings, we introduce T 2Quant, a task and time-aware mixedprec",
+    "heat": "23",
+    "github_url": "https://arxiv.org/abs/2610.31198"
+  },
+  {
+    "source": "HuggingFace Papers",
+    "category": "research",
+    "title": "BrickWright: Agentic Creation of Physically Feasible Brick Builds",
+    "url": "https://huggingface.co/papers/2610.31651",
+    "time": "2026-10-22T00:00:00.000Z",
+    "summary": "Frontier coding agents are becoming increasingly adept at 3D modeling. Yet, they still face challenges when building objects meant to be assembled in the physical world, often creating invalid assemblies with floating, colliding, or disconnected parts. We argue that providing agents with tools for assembling builds and verifying their physical feasibility is sufficient for them to produce physically valid assemblies that still adhere to input prompts. Focusing on the domain of LEGO brick builds,",
+    "heat": "13",
+    "github_url": "https://arxiv.org/abs/2610.31651"
+  },
+  {
+    "source": "HuggingFace Papers",
+    "category": "research",
+    "title": "FilmFlow: Agentic System for 3D Virtual Film Cinematography",
+    "url": "https://huggingface.co/papers/2610.30753",
+    "time": "2026-10-22T00:00:00.000Z",
+    "summary": "Complex camera motion is central to visual storytelling, yet translating cinematographic intent into controllable, executable camera trajectories remains challenging. We introduce FilmFlow, an agentic framework that converts natural-language instructions or reference videos into explicit camera trajectories for dynamic 3D environments. To generate these trajectories, a Director agent constructs executable camera plans by composing high-level motions from concurrent atomic operations that jointly",
+    "heat": "31",
+    "github_url": "https://arxiv.org/abs/2610.30753"
+  },
+  {
+    "source": "HuggingFace Papers",
+    "category": "research",
+    "title": "RIDAR: Safeguarding Research Integrity in Autonomous Research Agents via Automated Detection and Runtime Intervention",
+    "url": "https://huggingface.co/papers/2610.31372",
+    "time": "2026-10-22T00:00:00.000Z",
+    "summary": "Autonomous research agents are increasingly used to automate large portions of scientific research, yet they are prone to research integrity violations (RIVs): behaviors that compromise the validity, reproducibility, or faithfulness of the research process. We present RIDAR, a framework for automated RIV detection and runtime intervention. First, we introduce RIVT, a comprehensive taxonomy of 14 RIV types spanning the full research lifecycle. Building on RIVT, we present RIDAR-post-hoc, a framew",
+    "heat": "16",
+    "github_url": "https://arxiv.org/abs/2610.31372"
+  },
+  {
+    "source": "HuggingFace Papers",
+    "category": "research",
+    "title": "IQuest-Q1: Advancing Foundation Capabilities for Agentic CLI Systems",
+    "url": "https://huggingface.co/papers/2610.30949",
+    "time": "2026-10-22T00:00:00.000Z",
+    "summary": "We present IQuest-Q1, a sparse Mixture-of-Experts (MoE) agentic foundation model with 320B total parameters (15B activated). IQuest-Q1 is developed through a three-stage process: (1) stable and efficient pre-training, combining Stable SplitNorm, Muon, and muP with a two-stage curriculum whose second stage increases the coding-data mixture, preserving a wide stability margin between safe and optimal learning rates; (2) fine-grained mid-training, expanding the data mixture across domains and forma",
+    "heat": "99",
+    "github_url": "https://arxiv.org/abs/2610.30949"
+  },
+  {
+    "source": "HuggingFace Papers",
+    "category": "research",
+    "title": "WeVisOne-VL: Unified Visual Perception from Objects to Pixels",
+    "url": "https://huggingface.co/papers/2610.31329",
+    "time": "2026-10-22T00:00:00.000Z",
+    "summary": "Existing vision-language models (VLMs) remain unreliable for fine-grained visual perception. In this report, we present WeVisOne-VL (WeChat Vision All-in-One), a powerful VLM that unifies object-level and pixel-level perception through structured next-token prediction. It supports multiple visual tasks including object detection, referring localization, counting, OCR, segmentation, and matting, enabling localization at any user-specific granularity, from points and boxes to masks and alpha matte",
+    "heat": "243",
+    "github_url": "https://arxiv.org/abs/2610.31329"
+  },
+  {
+    "source": "HuggingFace Papers",
+    "category": "research",
+    "title": "TARSphere: A Robot-Oriented Full-Stack Framework for Long-Horizon Embodied Agents in Evolving Physical and Social Environments",
+    "url": "https://huggingface.co/papers/2610.30043",
+    "time": "2026-10-21T00:00:00.000Z",
+    "summary": "Robots must act under physical and social constraints while adapting to changes in their environment and human needs. Existing embodied-agent systems often focus on specified goals or abstract execution into symbolic actions, limiting evaluation in an evolving world. We introduce TARSphere, a robot-oriented full-stack framework for physically and socially grounded long-horizon embodied agents. TARSphere-Infra runs robot policies in a physics simulator with embodied NPCs and constrained dialogue.",
+    "heat": "8",
+    "github_url": "https://arxiv.org/abs/2610.30043"
+  },
+  {
+    "source": "HuggingFace Papers",
+    "category": "research",
+    "title": "Agent Mosaic: Recognizing Confidentiality Leaks in Agentic LLM Systems",
+    "url": "https://huggingface.co/papers/2610.30418",
+    "time": "2026-10-21T00:00:00.000Z",
+    "summary": "Modern LLM agents can retrieve information from accessible documents, and then disclose a sensitive conclusion assembled from them. This mosaic effect creates a critical risk for agents operating over confidential data. We quantify its realization with 30 synthetic cybersecurity, medical, and military examples, yielding 10,800 final answers from three LLM agents in controlled simulation and 1,440 answers from live agents in two open-source harnesses. Even under benign queries designed to be answ",
+    "heat": "23",
+    "github_url": "https://arxiv.org/abs/2610.30418"
+  },
+  {
+    "source": "HuggingFace Papers",
+    "category": "research",
+    "title": "SplatLab: Autonomous Scientific Discovery for 3DGS Research",
+    "url": "https://huggingface.co/papers/2610.30468",
+    "time": "2026-10-21T00:00:00.000Z",
+    "summary": "Reproducing a published 3DGS paper takes weeks of expert engineering before any extension can be proposed. Prior autonomous-research systems read papers, draft hypotheses, and write code, but are limited by short fixed templates, low executability, and weak traceability, and none has been demonstrated end-to-end in a live computer-vision subfield with intense activity. SplatLab is an autonomous research system for 3D Gaussian Splatting that addresses these limitations. Given a research prompt, a",
+    "heat": "8",
+    "github_url": "https://arxiv.org/abs/2610.30468"
+  },
+  {
+    "source": "HuggingFace Papers",
+    "category": "research",
+    "title": "HyperDrone: Simulation-to-Reality Transfer at Millions of Frames per Second",
+    "url": "https://huggingface.co/papers/2610.28950",
+    "time": "2026-10-20T00:00:00.000Z",
+    "summary": "We present HyperDrone, an extremely fast quadrotor simulator focused on high-performance batch rendering that is more than 20x faster than existing state-of-the-art batch quadrotor simulators. HyperDrone combines highly optimized multirotor dynamics with HyperLux, a new ray-tracing engine that supports Nvidia OptiX, Vulkan, Apple Metal and WebGPU backends that takes full advantage of modern ray-tracing hardware, capable of running both components entirely on the GPU. HyperLux renders RGB, depth,",
+    "heat": "10",
+    "github_url": "https://arxiv.org/abs/2610.28950"
+  },
+  {
+    "source": "HuggingFace Papers",
+    "category": "research",
+    "title": "Diffusion Language Models Change Speed Across Tasks and Languages",
+    "url": "https://huggingface.co/papers/2610.25835",
+    "time": "2026-10-19T05:47:58.000Z",
+    "summary": "Diffusion language models can write several tokens in one forward pass, and they decide during generation how many passes to spend. Two outputs of the same token length can therefore vary a lot in cost. To understand the underlying factors of this cost variation, we analyze two diffusion models across 10 tasks. We find that the number of forward passes per token depends heavily on the task. Text copied or lightly edited from the input is cheap, while open-ended writing is costly. In DiffusionGem",
+    "heat": "10",
+    "github_url": "https://arxiv.org/abs/2610.25835"
+  },
+  {
+    "source": "HuggingFace Papers",
+    "category": "research",
+    "title": "Omni-Woodpecker: Hallucination Correction via Evidence-Prior Rebalancing for Omni LLMs",
+    "url": "https://huggingface.co/papers/2610.27103",
+    "time": "2026-10-19T00:00:00.000Z",
+    "summary": "Recent Omni LLMs (OLLMs) have demonstrated remarkable capabilities in joint audio-visual reasoning, yet cross-modal hallucinations remain a major challenge. Existing mitigation methods mainly operate at the output level, overlooking the entanglement of grounding evidence and learned priors within fused representations. To address this issue, we propose Omni-Woodpecker (OWP), a training-free framework that shifts hallucination mitigation from output-level manipulation to conflict-conditioned repr",
+    "heat": "2",
+    "github_url": "https://arxiv.org/abs/2610.27103"
+  },
+  {
+    "source": "HuggingFace Papers",
+    "category": "research",
+    "title": "Who Takes the Lead? Model Ability and Task-Conditioned Collaboration with Humans",
+    "url": "https://huggingface.co/papers/2610.27148",
+    "time": "2026-10-19T00:00:00.000Z",
+    "summary": "As language-model agents grow more capable, they can carry more of a task without asking anyone for help. Falling reliance on a human partner is easy to read as a failure of collaboration when it may instead be a correct division of labor, and the rate of human involvement alone cannot tell the two apart. We study this systematically by placing an agent and a person under a shared objective while varying who holds the advantage: the human has a clear advantage, neither does, or the agent does. T",
+    "heat": "10",
+    "github_url": "https://arxiv.org/abs/2610.27148"
+  },
+  {
+    "source": "HuggingFace Papers",
+    "category": "research",
+    "title": "Bridging Exploration and Persona: Information-Directed Dueling for Test-Time Agent Personalization",
+    "url": "https://huggingface.co/papers/2610.24385",
+    "time": "2026-10-17T00:00:00.000Z",
+    "summary": "Effective test-time personalization requires LLM agents to adapt to query-dependent user preferences from lightweight interaction. We study persona selection with binary comparisons between candidate responses as the online signal. We present ID-TAP, a scalable, IDS-inspired neural dueling-bandit framework for large discrete persona spaces. ID-TAP combines a query-conditioned neural utility model with a lightweight Bradley-Terry explorer, and transfers comparison evidence across related queries ",
+    "heat": "8",
+    "github_url": "https://arxiv.org/abs/2610.24385"
+  },
+  {
+    "source": "HuggingFace Papers",
+    "category": "research",
+    "title": "IF-MAP: Influence-Function-Inspired Agent Prioritization in Multi-Agent Systems",
+    "url": "https://huggingface.co/papers/2610.24383",
+    "time": "2026-10-17T00:00:00.000Z",
+    "summary": "Improving every agent in an LLM-based multi-agent system can be prohibitively costly, making it important to identify which agent should be prioritized to achieve the greatest system-level gain with limited resources. Failure attribution can inform this decision, but an agent's responsibility for failures does not directly reveal the system-level gains achievable by improving it. We therefore introduce IF-MAP, an influence-function-inspired method for identifying agents with high potential for s",
+    "heat": "9",
+    "github_url": "https://arxiv.org/abs/2610.24383"
+  },
+  {
+    "source": "HuggingFace Papers",
+    "category": "research",
+    "title": "EvalResearchBench: Can AI Agents Build Their Own Feedback for Recursive Self-Improvement?",
+    "url": "https://huggingface.co/papers/2610.04184",
+    "time": "2026-10-16T00:00:00.000Z",
+    "summary": "Recursive self-improvement (RSI) relies on evaluation feedback to assess progress and guide further research, yet repeatedly running complex benchmarks is costly and slows iteration. Human experts reduce this cost by selecting benchmark subsets or designing compact suites. We ask whether AI agents can automate this design process and introduce EvalResearchBench (ERB), a benchmark for autonomous evaluation research. Given target materials, development references, candidate APIs, and fixed time an",
+    "heat": "22",
+    "github_url": "https://arxiv.org/abs/2610.04184"
+  },
+  {
+    "source": "HuggingFace Papers",
+    "category": "research",
+    "title": "MambaAct: Efficient Mamba Action Experts for Flow-Matching Vision-Language-Action Models",
+    "url": "https://huggingface.co/papers/2610.22951",
+    "time": "2026-10-16T00:00:00.000Z",
+    "summary": "Vision-language-action (VLA) models have shown strong promise for generalist robotic manipulation, but their inference cost remains a major bottleneck for real-time control. This limitation is especially pronounced in flow-matching VLAs such as π_{0.5}, where the action expert is evaluated repeatedly during iterative denoising. We introduce MambaAct, an efficient Mamba action expert for flow-matching VLA policies. MambaAct retains the pretrained visual-language prefix encoder of π_{0.5}, while r",
+    "heat": "9",
+    "github_url": "https://arxiv.org/abs/2610.22951"
+  },
+  {
+    "source": "HuggingFace Papers",
+    "category": "research",
+    "title": "The LLM-Attacker: A Unified Red-Team Framework for Privacy Evaluation of Split and Distributed LLM Systems",
+    "url": "https://huggingface.co/papers/2610.22722",
+    "time": "2026-10-15T00:00:00.000Z",
+    "summary": "Split language models keep input text on a client but send intermediate representations to a server. Attacks can reconstruct text from these messages. Comparing privacy evaluations is difficult when attackers see different messages, know different model weights or use different datasets and recovery measures. We present LLM-Attacker, a framework that records these choices and lets researchers check, compare and extend an evaluation. Compatible attacks reuse recorded messages, and their predictio",
+    "heat": "10",
+    "github_url": "https://arxiv.org/abs/2610.22722"
+  },
+  {
+    "source": "HuggingFace Papers",
+    "category": "research",
+    "title": "RTAformer: Relation-Transition-Aware Transformer for Video Scene Graph Generation",
+    "url": "https://huggingface.co/papers/2610.20091",
+    "time": "2026-10-14T00:00:00.000Z",
+    "summary": "Video scene graph generation (VidSGG) aims to capture objects and their evolving relationships in videos. This requires accounting for both the persistence of object identities and abrupt changes in relationships. Existing methods aggregate information across frames to exploit temporal context, but an emphasis on consistency can obscure these changes. As a result, a model may retain its previous prediction even after the underlying relation has changed. We refer to this failure mode as relationa",
+    "heat": "19",
+    "github_url": "https://arxiv.org/abs/2610.20091"
+  },
+  {
+    "source": "HuggingFace Papers",
+    "category": "research",
+    "title": "Realism VS Accuracy: Event Sequence Forecasting from a Generative Modeling Perspective",
+    "url": "https://huggingface.co/papers/2610.12586",
+    "time": "2026-10-08T00:00:00.000Z",
+    "summary": "Event sequences are chains of random events, each described by heterogeneous (numerical and categorical) features. The problem of event sequence forecasting occurs in finance, healthcare, business process intelligence, and other fields. In this work, we study multi-horizon forecasting of event sequences as a conditional generative modeling problem. We evaluate forecasts not only for prediction accuracy, but also for distributional realism. To this end, we present a benchmark comprising metrics f",
+    "heat": "7",
+    "github_url": "https://arxiv.org/abs/2610.12586"
+  }
+]
