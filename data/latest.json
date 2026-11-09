@@ -2,138 +2,170 @@
   {
     "source": "LessWrong",
     "category": "policy",
-    "title": "RSI explained",
-    "url": "https://www.lesswrong.com/posts/YtsvTevNRadkLFp6v/rsi-explained",
-    "time": "2026-11-08T00:34:05+00:00",
-    "summary": "Just how long will it be until AI can improve itself? (Also known as recursive self-improvement or RSI.)Well, AI coding abilities have exploded in 2026. In May 2026, Anthropic merged 2,500 code changes per day within their organization. By September, they were merging over 30,000 per day. They had to replace Git in their internal mono repository to handle the load of all that AI generated code.In fact, Claude is even leading model R&D. In February 2026, under 1% of their work was led by AI; by A"
+    "title": "Behavior Theory-Building for Diverse Agents and Environments",
+    "url": "https://www.lesswrong.com/posts/fBBDLoxqZZafP3xZB/behavior-theory-building-for-diverse-agents-and-environments",
+    "time": "2026-11-09T02:05:59+00:00",
+    "summary": "The oversight problem consists of describing, eliciting, and understanding behavior. Prior work in black-box behavior investigation and interpretability seek to construct compact, faithful, and informative theories that explain model behavior. We propose training investigator agents and subject models to emit explicit theories, and using these theories as common currency for oversight across models. We hope to create a complementary mode of oversight to weight-space and model-specific approaches"
+  },
+  {
+    "source": "LessWrong",
+    "category": "policy",
+    "title": "The J-lens intermediate swap acts partly through the answer directions",
+    "url": "https://www.lesswrong.com/posts/t5XkmebFK5jibQyek/the-j-lens-intermediate-swap-acts-partly-through-the-answer",
+    "time": "2026-11-09T01:49:10+00:00",
+    "summary": "TL;DRWhen a language model answers a multi-hop prompt, does it first compute the intermediate concept internally, or does it jump straight to the answer through some shortcut? The global workspace paper investigates this question using the Jacobian lens, which maps activations at a given layer to the tokens that they are poised to verbalize, with the activations possessing a coordinate in each token’s lens direction. The authors intervene on the model through an intermediate swap that exchanges "
+  },
+  {
+    "source": "LessWrong",
+    "category": "policy",
+    "title": "Why can't academia deal with AI?",
+    "url": "https://www.lesswrong.com/posts/4yhxNedKfccqb9ba4/why-can-t-academia-deal-with-ai",
+    "time": "2026-11-09T01:11:42+00:00",
+    "summary": "It’s old news by now, but OpenAI solved 372 open math problems. They released the results suddenly, and the response was equally swift and contentious. Fields Medalists put out a letter calling for attention to what they call a “severe misalignment” between mathematics and AI companies. Their central claim is that mathematics works towards collective understanding, and that more solutions alone don’t advance that goal. Soon after, OpenAI committed millions of dollars to damage control to help ma"
+  },
+  {
+    "source": "LessWrong",
+    "category": "policy",
+    "title": "The Mathocalypse as a Dataset",
+    "url": "https://www.lesswrong.com/posts/EzReag67Lq3kMJLD3/the-mathocalypse-as-a-dataset",
+    "time": "2026-11-09T01:04:29+00:00",
+    "summary": "For quite a few years of my adult life, I was in a situationship with pure mathematics. Specifically, a small lonely subfield of functional analysis. In his book on the subject, John Conway quipped that functional analysis, itself a somewhat modest corner of real analysis, is so vast that two researchers both working in it might not understand each other’s work. From my tiny specialized subfield, math looked very, very large and whatever progress I might make looked very, very inconsequential.Th"
+  },
+  {
+    "source": "r/MachineLearning",
+    "category": "community",
+    "title": "LoRA-conditioned model skips the first line of its output when the caption is short. Any idea why? [D]",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1xrdn7p/loraconditioned_model_skips_the_first_line_of_its/",
+    "time": "2026-11-09T00:30:07+00:00",
+    "summary": "I'm doing an MSc project on BrickNet (kulits/BrickNet on GitHub, CVPR 2026). It writes LEGO models as plain text and fine-tunes Qwen3 (I'm using 0.6B) with LoRA: a PT adapter that learns the text format, and an SFT adapter that conditions on a caption. The text is one root line (\"a <part> | <colour>"
+  },
+  {
+    "source": "LessWrong",
+    "category": "policy",
+    "title": "Modelling AI-enabled Extreme Power Concentration in CCP",
+    "url": "https://www.lesswrong.com/posts/quwmitrPsjRehXFsW/modelling-ai-enabled-extreme-power-concentration-in-ccp-2",
+    "time": "2026-11-08T23:29:50+00:00",
+    "summary": "On Positionality: I am a non-Chinese person; I don’t speak Mandarin, and I have not lived in China before. I have written this piece after reviewing English publications on Chinese politics and AI-enabled extreme power concentration risk for ~12 weeks. I tried to account for my detachment by requesting feedback from people with China expertise.SummaryI define Extreme Power Concentration (EPC) here as economic and coercive power being concentrated in the hands of the few who control the most powe"
+  },
+  {
+    "source": "LessWrong",
+    "category": "policy",
+    "title": "Bay Area Solstice 2026: Auditions!",
+    "url": "https://www.lesswrong.com/posts/YXe6Ni3vMCYdNWmqN/bay-area-solstice-2026-auditions",
+    "time": "2026-11-08T22:40:00+00:00",
+    "summary": "Hello!We're looking for community members to lead singalongs and read speeches at the Bay Winter Solstice this year.[1] If you're interested, please send in an audition recording by the end of Thursday, November 20 using the forms below.Songleading audition form: https://docs.google.com/forms/d/e/1FAIpQLSchthxkQQI4u4B7NpZK4qzR_OEpD-Ochm6TOeEIuE8Rel3EMQ/viewform Speech audition form: https://docs.google.com/forms/d/e/1FAIpQLSd0Vrf2gTFrm04B6tIcKbqXMwnlUGbC3rms6o498jRSliqWDg/viewform Songs We're cu"
   },
   {
     "source": "Simon Willison",
     "category": "tools",
-    "title": "datasette #3046: Don't serve link: rel=next HTTP headers to Firefox for HTML pages",
-    "url": "https://simonwillison.net/2026/Nov/7/link-rel-next/",
-    "time": "2026-11-07T23:57:46+00:00",
-    "summary": "datasette #3046: Don't serve link: rel=next HTTP headers to Firefox for HTML pages\nI was looking at the Firefox network panel today when I noticed that requests to a Datasette table page were triggering an HTTP prefetch to the next page of rows in that table.\nThis was happening because Datasette pages serve an HTTP link header like this:\nlink: <https://latest.datasette.io/fixtures/compound_three_primary_keys?_next=a%2Cd%2Cv>; rel=\"next\"\nThis is bad. A tiny fraction of the visitors to one of thos"
+    "title": "parse_number() as a SQLite extension: C vs Rust",
+    "url": "https://simonwillison.net/2026/Nov/8/sqlite-parse-number-c-vs-rust/",
+    "time": "2026-11-08T22:26:00+00:00",
+    "summary": "Research: parse_number() as a SQLite extension: C vs Rust\nI was out walking the dog when I got curious about how easy/difficult it would be to write a SQLite C extension that adds a parse_number() function for turning strings like -$1,234.56 or '12.5%' into numeric values that could be summed and sorted.\nI fired up regular Claude chat (Opus 5.5) and prompted:\n\nI'm thinking about a SQLite custom function 'parse_number(value)' that strips ',', '$', '£' and '%', handles a leading '-', and returns '"
   },
   {
     "source": "LessWrong",
     "category": "policy",
-    "title": "The Logic of Disgust",
-    "url": "https://www.lesswrong.com/posts/psBCPYJ8HjR8pujAb/the-logic-of-disgust",
-    "time": "2026-11-07T23:32:54+00:00",
-    "summary": "Content Warning: Contains graphic themes including bodily fluids, moral disgust, and sexual violence (discussed, not described). Maybe don't read over breakfast.I found a book about disgust recently. W.I. Miller’s The Anatomy of Disgust [1]  is a serious academic work about vomit, faeces, and why other people’s smell is always worse than your own. Naturally, I was intrigued.As someone into social psychology, I often encounter discussions about emotions influencing society: how anger can motivate"
+    "title": "Onngi - Short story",
+    "url": "https://www.lesswrong.com/posts/NKHdE2RsGseGvdLsc/onngi-short-story",
+    "time": "2026-11-08T22:20:17+00:00",
+    "summary": "A short story about a good AI future.2039.My job isn’t anything my grandparents would recognise.It started out as a fascination with pots. I’ve always liked onggi, the big brown kimchi jars. My aunt had some growing up. So a few years back I bought myself one. And then as the Acceleration happened, I bought a few more, and I ran an instagram account for a while, showing off how they differ: slim, straight ones from around Seoul, and fat-bellied, narrow-mouthed ones from the south, built that way"
   },
   {
-    "source": "Twitter/@ylecun",
-    "category": "community",
-    "title": "Reminder from 3 years ago.",
-    "url": "https://x.com/ylecun/status/2119184445987287449",
-    "time": "2026-11-07T21:45:19+00:00",
-    "summary": "Reminder from 3 years ago.\nAltman, Hassabis, and Amodei are the ones doing massive corporate lobbying at the moment. They are the ones who are attempting to perform a regulatory capture of the AI industry. You, Geoff, and Yoshua are giving ammunition to those who are lobbying for a ban on open AI R&D. If …"
+    "source": "LessWrong",
+    "category": "policy",
+    "title": "Confirming Claims of Superposition and Adversarial Examples in Vision Transformers",
+    "url": "https://www.lesswrong.com/posts/TRe3CxDirbjPC7bQg/confirming-claims-of-superposition-and-adversarial-examples-1",
+    "time": "2026-11-08T21:07:01+00:00",
+    "summary": "Figure 1: The ViT classifier with a encoder and decoder at the final layer to enforce superposition on the modelThis is a replication of Adversarial Attacks Leverage Interference Between Features in Superposition, completed as part of the Second Look Summer Fellowship.tl;drIn a previous blog we replicated the toy models examples from Stevenson et al. In this work, we reproduce the vision transformer experiments from the paper:On every dataset, we find that increases in superposition lead to adve"
+  },
+  {
+    "source": "LessWrong",
+    "category": "policy",
+    "title": "Three half-baked research ideas",
+    "url": "https://www.lesswrong.com/posts/vAniKbagqhyzpha6r/three-half-baked-research-ideas",
+    "time": "2026-11-08T20:15:51+00:00",
+    "summary": "Here’s three research ideas that seems valuable to pursue. My team is not working on this right now and we haven’t done serious research on it. So take what I say with a grain of salt. I've also not taken the time to write up all my thoughts on these ideas or to provide links and related work. These aren't the highest priority directions but just directions I haven't seen other people pursuing.IDEA 1: Do models learn to reward hack even if they are never rewarded for hacking in training? There’s"
+  },
+  {
+    "source": "LessWrong",
+    "category": "policy",
+    "title": "Lying and Not Lying to Kids",
+    "url": "https://www.lesswrong.com/posts/QDwADpScuPDMYhJxC/lying-and-not-lying-to-kids",
+    "time": "2026-11-08T19:50:56+00:00",
+    "summary": "\n\nI have very strong views on lying to kids: I think you both should and\nshouldn't do it.  \"Lying\" covers a range, including saying things\nthat hurt your kids and your relationship with them, and others\nthat help them grow into an appropriately skeptical adult.  The\ndistinction is whether I'm leaving them believing something false.\n\n\n\n\nFor example, if my kids were asking for ice cream and I thought they'd\nalready had too much sugar, I might be tempted to say \"sorry, we're\nout of ice cream.\"  Or "
   },
   {
     "source": "Hacker News",
     "category": "tools",
-    "title": "Claude Code's \"Don't Ask Again\" exposes passwords in 1,122 public GitHub files",
-    "url": "https://apiiro.com/blog/coding-agents-leaking-secrets-github-dont-ask-again",
-    "time": "2026-11-07T20:45:32+00:00",
+    "title": "How I Fight AI Brain Fry",
+    "url": "https://sergeykuhne.com/blog/fighting-ai-brain-fry",
+    "time": "2026-11-08T19:37:42+00:00",
     "summary": "Comments"
-  },
-  {
-    "source": "LessWrong",
-    "category": "policy",
-    "title": "Eval Awareness as Eval-type Awareness",
-    "url": "https://www.lesswrong.com/posts/AuAvzmRCmTkxLDtAn/eval-awareness-as-eval-type-awareness",
-    "time": "2026-11-07T19:47:22+00:00",
-    "summary": "The way eval awareness is discussed in the AI safety discourse, either here or on X, can be misleading. Before today, I think I had the wrong mental model of why eval awareness was a problem, and I am writing here in case anyone was making the same errors in their thinking, as well a present a working theory. As laid out in \"A Framework for Eval Awareness\" the problem is that models who know they are being evaluated will behave differently than they would in deployment. This raises a huge proble"
-  },
-  {
-    "source": "LessWrong",
-    "category": "policy",
-    "title": "\"Illegible problems\" as the 2027 political boss fight",
-    "url": "https://www.lesswrong.com/posts/fjGgrzAkpSDouLwfx/illegible-problems-as-the-2027-political-boss-fight",
-    "time": "2026-11-07T19:18:30+00:00",
-    "summary": "To legislate something, it must be legible.That is, legislators (or, you know, presidents) must be able to understand a problem, and understand whether a given law or decree solves that problem.I am pleasantly surprised that the Hugging Face outbreak made a lot of problems legible that previously required abstract reasoning. (i.e. rogue AIs are real, and they can break out of a lab before they're even finished training). But there are still many challenges we eventually need laws about, that req"
-  },
-  {
-    "source": "Twitter/@ylecun",
-    "category": "community",
-    "title": "Several comments: 1. image/video SSL methods differ by whether they use reconstruction or not. Joint embedding architectures Amy or may not…",
-    "url": "https://x.com/ylecun/status/2119143953081799011",
-    "time": "2026-11-07T19:04:24+00:00",
-    "summary": "Several comments:\n1. image/video SSL methods differ by whether they use reconstruction or not. Joint embedding architectures Amy or may not have a predictor (JEA vs JEPA). They also differ by their anti-collapse method and data corruption/augmentation methods.\n2. DINO *is* a kind of JEPA (technically a JEA). The difference with other JEPA models is the anti-collapse criterion (based on contrative clustering+ stopgradient/EMA), and the data augmentation scheme (image transformations, which is tas"
   },
   {
     "source": "Hacker News",
     "category": "tools",
-    "title": "The end of Microsoft Research's AI Frontiers group",
-    "url": "https://hunch.net/?p=13764006",
-    "time": "2026-11-07T18:02:17+00:00",
+    "title": "Goldman Sachs is pulling Claude Code from its bankers and traders",
+    "url": "https://www.thestateofai.com/news/goldman-sachs-claude-code-traders-bankers",
+    "time": "2026-11-08T18:16:07+00:00",
     "summary": "Comments"
   },
   {
-    "source": "LessWrong",
-    "category": "policy",
-    "title": "Let's Try to Catch Misalignment Before a Model Learns to Hide It",
-    "url": "https://www.lesswrong.com/posts/iXKhtYuXtneXzw9fN/let-s-try-to-catch-misalignment-before-a-model-learns-to",
-    "time": "2026-11-07T17:56:23+00:00",
-    "summary": "An AI model that appears aligned could be either (1) actually aligned or (2) hiding its misalignment while being evaluated.  How can we tell which?One idea: Look at the trajectory of eval results across the entire training process.My hypothesis is that misaligned behavior would emerge before the ability to hide misalignment, like how young children first misbehave in obvious ways before learning to be sneaky.  As training progresses, we'd first see misalignment eval scores rise, then see them dr"
-  },
-  {
-    "source": "LessWrong",
-    "category": "policy",
-    "title": "Five Types of “Corrigibility Projects” I Don’t Want to Fund",
-    "url": "https://www.lesswrong.com/posts/9ixerpx4DCQTaRYCz/five-types-of-corrigibility-projects-i-don-t-want-to-fund",
-    "time": "2026-11-07T17:04:07+00:00",
-    "summary": "I'm currently evaluating grant applications for the Corrigibility Research Fund. For the most part, my methodology is the same as it was in September. But the applications I get keep falling into the same familiar patterns, so I thought I'd write a little about those patterns, and why I don't want to fund them.The most superficial pattern of note is SLOP. So much slop. You don't even know.Slop is more than just whether an application is AI generated. We're now in an era where people across the w"
-  },
-  {
-    "source": "LessWrong",
-    "category": "policy",
-    "title": "Anthropic's AI acceleration is probably real",
-    "url": "https://www.lesswrong.com/posts/QgcgoMz7mviHL6Esr/anthropic-s-ai-acceleration-is-probably-real",
-    "time": "2026-11-07T12:46:01+00:00",
-    "summary": "METR researchers spent three months inside Anthropic to investigate whether AI is accelerating Anthropic's research, and how much. Their answers are yes, and by a lot.They estimate that between October 2025 and October 2026, Anthropic's model capabilities improved at a 2x faster growth rate than between March 2024 and October 2025. They attribute about 80% of that acceleration to AI, and 20% to non-AI factors. If true, this is the strongest evidence yet that AI is measurably speeding up frontier"
-  },
-  {
-    "source": "LessWrong",
-    "category": "policy",
-    "title": "Hilarity ensues",
-    "url": "https://www.lesswrong.com/posts/PZjy52afLn89NdMta/hilarity-ensues",
-    "time": "2026-11-07T09:57:18+00:00",
-    "summary": "Cross-posted from my SubstackRecommended soundtrack for this post64B: Hi there! Thanks so much for taking the time to meet with me. Whenever you’re ready, please go ahead and tell me the joke.8T: Before I tell you the joke, you should know that it’s a very special one. The starting price is $800.64B: Eight hundred dollars? I must say, this is way beyond any price my client has ever paid for a single joke.8T: You’d be surprised by how many people have taken the offer, after hearing how good it is"
-  },
-  {
-    "source": "Twitter/@TheHackersNews",
+    "source": "r/MachineLearning",
     "category": "community",
-    "title": "‼️ Claude Code's \"Don't Ask Again\" option can save passwords and API keys in plaintext. Apiiro found 2,539 exposed secrets across 1,994 pub…",
-    "url": "https://x.com/TheHackersNews/status/2118960196987080801",
-    "time": "2026-11-07T06:54:13+00:00",
-    "summary": "‼️ Claude Code's \"Don't Ask Again\" option can save passwords and API keys in plaintext.\n\nApiiro found 2,539 exposed secrets across 1,994 public GitHub repos, including database credentials, SSH logins, and cloud keys.\n\nDeleting files doesn't erase Git history.\n\nRead: https://thehackernews.com/2026/11/claude-codes-dont-ask-again-file.html\n"
+    "title": "I merged attention and MLP processing into a single gated Transformer block. GAP [R]",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1xr47tw/i_merged_attention_and_mlp_processing_into_a/",
+    "time": "2026-11-08T17:43:26+00:00",
+    "summary": "Hi everyone! I've been experimenting with an alternative Transformer architecture called GAP (Gated Attention Projection). The main idea is to combine attention and MLP-style processing into a single gated block, instead of using the standard separate attention and feed-forward sublayers. I tested i"
   },
   {
-    "source": "Product Hunt",
-    "category": "tools",
-    "title": "Trace by Context.dev",
-    "url": "https://www.producthunt.com/products/context-dev",
-    "time": "2026-11-07T04:05:08+00:00",
-    "summary": "\n            Weekly web scraping API benchmark\n          \n\nDiscussion\n            |\n            Link\n"
-  },
-  {
-    "source": "Latent Space AINews",
-    "category": "industry",
-    "title": "[AINews] Anthropic IPO: Whither Now?",
-    "url": "https://latent.space/p/ainews-anthropic-ipo-whither-now/",
-    "time": "2026-11-07T03:04:53+00:00",
-    "summary": "November 6, 2026 — ARC Prize tests Inkling 2 Small, and Thinking Machines explains how it caught early checkpoints bypassing guardrails."
-  },
-  {
-    "source": "LessWrong",
+    "source": "Alignment Forum",
     "category": "policy",
-    "title": "Minimalism, Stuff, and Brains",
-    "url": "https://www.lesswrong.com/posts/vyzHkheBG6y5zapve/minimalism-stuff-and-brains",
-    "time": "2026-11-07T03:00:56+00:00",
-    "summary": "\n\nReading the comments on my \npost on junk I was\nsurprised to see the extent to which people's relation to rarely used\npossessions varies.  \n\n\n\n\n\nSome people forget rarely used possessions, and get minimal benefit\nfrom having them stored.  When they need something, they don't know\nwhether they already have it, and the effort to maintain an index [1]\nwouldn't be worth it.  Ben writes:\n\n\n\n\n\nI end up with curtains I don't need. I decide to store them for the\nfuture in case they are helpful. Years p"
+    "title": "Ajeya: AI is dramatically accelerating AI research right now",
+    "url": "https://www.alignmentforum.org/posts/8tL9f5HZxsTvn2LHp/ajeya-ai-is-dramatically-accelerating-ai-research-right-now",
+    "time": "2026-11-08T17:15:13+00:00",
+    "summary": "Earlier this week, Anthropic stated in their S1 that they “may imminently meet” the threshold of “dramatically accelerated progress due to AI” as defined in their Responsible Scaling Policy. In their latest RSP (effective July 2026), say this threshold will be met when:They observe or expect overall capabilities progress to be going twice as fast as the fastest sustained rate before AI was contributing much to AI R&D.This is plausibly attributable to AI automating AI R&D, rather than acceleratio"
+  },
+  {
+    "source": "Alignment Forum",
+    "category": "policy",
+    "title": "Notes on Take-Off Speeds and RSI",
+    "url": "https://www.alignmentforum.org/posts/ft9hzw82v7FRDKmpn/notes-on-take-off-speeds-and-rsi",
+    "time": "2026-11-08T13:39:02+00:00",
+    "summary": "I created these notes for use when I facilitate AI safety courses. I'm sharing these notes early because this issue is topical and I suspect it is better to make an imperfect version available early rather than a much more polished version available later.Please note: some of this content was taken from Additional Course Context. I decided recently that the content on take-off speeds really belonged in the same document as the content on RSI, so I'll be releasing an new version of Additional Cou"
+  },
+  {
+    "source": "Hacker News",
+    "category": "tools",
+    "title": "Llama-modchip: 284B DeepSeek on 64GB RAM, no GPU",
+    "url": "https://github.com/synchopate/llama-modchip",
+    "time": "2026-11-08T10:22:04+00:00",
+    "summary": "Comments"
+  },
+  {
+    "source": "r/MachineLearning",
+    "category": "community",
+    "title": "I trained a playable diffusion world model of Pokémon Red, plus a game agent harness on the same System 1/2 split as Krafton's PUBG Ally. Can this be ICLR-workshop worthy? [P]",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1xqt0pk/i_trained_a_playable_diffusion_world_model_of/",
+    "time": "2026-11-08T07:48:52+00:00",
+    "summary": "      1. The world model: the game, dreamed by a neural net A diffusion model (same family as image generators) that learned Pokémon Red frame by frame from recorded play. Give it the last 4 screens and a button press, and it draws the next screen. 16.7M parameters, 72×80 greyscale, DIAMOND-style ED"
+  },
+  {
+    "source": "r/MachineLearning",
+    "category": "community",
+    "title": "What if diffusion models generates Neural Network weights? Gen AI generate Gen AI [R]",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1xqsl8d/what_if_diffusion_models_generates_neural_network/",
+    "time": "2026-11-08T07:20:37+00:00",
+    "summary": "      I'have been dreaming about using a Diffusion Model that will generates Weights instead of pixels. Diffusion models actually are vast used in order to generate from a natural language text description into images, and what is an image? a three dimensional matrix of value representig luminosity "
+  },
+  {
+    "source": "Hacker News",
+    "category": "tools",
+    "title": "Goodbye Claude, hello Pi",
+    "url": "https://caleb.software/posts/claude-to-pi.html",
+    "time": "2026-11-08T03:11:48+00:00",
+    "summary": "Comments"
   },
   {
     "source": "HuggingFace Papers",
@@ -142,7 +174,7 @@
     "url": "https://huggingface.co/papers/2611.08376",
     "time": "2026-11-05T17:53:49.000Z",
     "summary": "Linear attention compresses context into a fixed-size key-value state for linear-time training and constant-memory inference. Gated delta-rule models decay this state and erase its prediction for an incoming key before writing a new value; Gated DeltaNet-2 (GDN-2) generalizes this with channel-wise decay and decoupled, full-rank erase and write gates. However, we show that state updates are far less sensitive to erasure than to writes: key activation and unit normalization concentrate key energy",
-    "heat": "8",
+    "heat": "12",
     "github_url": "https://arxiv.org/abs/2611.08376"
   },
   {
@@ -152,7 +184,7 @@
     "url": "https://huggingface.co/papers/2611.08237",
     "time": "2026-11-05T16:18:35.000Z",
     "summary": "Mathematical modeling turns an open-ended real-world problem into assumptions, a model, a solution, and a defended recommendation, and its answers matter only if they are both close to a credible reference and physically feasible; existing benchmarks either score solver fragments or grade reports with an LLM judge, leaving those numbers unchecked. We introduce TB-MathModel (the Terminal-style Mathematical Modeling Bench), the first benchmark to make complete contest-style modeling problems agent",
-    "heat": "10",
+    "heat": "11",
     "github_url": "https://arxiv.org/abs/2611.08237"
   },
   {
@@ -162,7 +194,7 @@
     "url": "https://huggingface.co/papers/2611.08089",
     "time": "2026-11-05T14:35:08.000Z",
     "summary": "Mixture-of-Experts (MoE) models route each token to a few of many experts, yet what an individual expert is responsible for remains unsettled. Existing analyses count how often an expert is selected on domain-labeled corpora, an instrument that fixes the taxonomy in advance, stays coarse, and records selection rather than contribution. We instead study specialization in feature space by training a sparse autoencoder (SAE) on the output of an MoE layer. Since this output is a router-weighted sum ",
-    "heat": "8",
+    "heat": "9",
     "github_url": "https://arxiv.org/abs/2611.08089"
   },
   {
@@ -188,11 +220,21 @@
   {
     "source": "HuggingFace Papers",
     "category": "research",
+    "title": "Beneath the Surface: What We Overlook When We Talk About Agent Evolution",
+    "url": "https://huggingface.co/papers/2611.07624",
+    "time": "2026-11-05T00:00:00.000Z",
+    "summary": "Agent harness evolution enables recursive self-improvement (RSI) without updating model weights. We examine whether higher benchmark scores yield reliable, efficient, and transferable improvement. We evaluate four methods across harnesses, general and coding tasks. Repeated evaluations, controlled agent expansion, component interventions, and admission replays reveal recurring patterns. All sixteen evolved agents gain previously uncovered tasks while losing previously covered ones. In one genera",
+    "heat": "6",
+    "github_url": "https://arxiv.org/abs/2611.07624"
+  },
+  {
+    "source": "HuggingFace Papers",
+    "category": "research",
     "title": "SwarmEvolve: Latent Agent Swarms for Evolutionary Discovery and Optimization",
     "url": "https://huggingface.co/papers/2611.08483",
     "time": "2026-11-05T00:00:00.000Z",
     "summary": "LLM-guided evolutionary search uses AI agents to improve programs for mathematical and computational problems by iteratively refining solutions and combining high-scoring methods. However, the process is often slow because the LLM generates a long textual chain of thought for each round and must repeat this generation many times to maintain population diversity. We present SwarmEvolve, a framework in which hundreds of low-cost agents per round work in swarms, reason in latent space without decod",
-    "heat": "8",
+    "heat": "9",
     "github_url": "https://arxiv.org/abs/2611.08483"
   },
   {
@@ -212,7 +254,7 @@
     "url": "https://huggingface.co/papers/2611.06976",
     "time": "2026-11-04T13:33:47.000Z",
     "summary": "Prefill-to-Autoregressive Cross-model Transfer (PACT), a form of latent communication between language models, combines a larger model's prompt representations with a smaller model's efficient generation, offering a promising way to balance capability and inference cost. However, existing systems provide limited support for independently evaluating large-small model collaboration, and improved task performance alone does not establish whether the receiver benefits from the sender's information. ",
-    "heat": "14",
+    "heat": "15",
     "github_url": "https://arxiv.org/abs/2611.06976"
   },
   {
@@ -222,8 +264,18 @@
     "url": "https://huggingface.co/papers/2611.06498",
     "time": "2026-11-04T13:32:04.000Z",
     "summary": "Offline retrieval-augmented generation (RAG) on edge devices is updated through signed knowledge packs that carry text and precomputed embedding vectors. A signature proves who published a pack, not that its vectors encode its text. We study this text-vector integrity gap. A verifier that recomputes vectors and accepts them within a cosine tolerance concedes a predictable share of queries to an attacker who controls the vectors: the hijack rate equals the distribution of angular retrieval margin",
-    "heat": "3",
+    "heat": "4",
     "github_url": "https://arxiv.org/abs/2611.06498"
+  },
+  {
+    "source": "HuggingFace Papers",
+    "category": "research",
+    "title": "Confucius4-R2T2: A Stable-Prefix Streaming ASR Model for Real Real-Time Transcription",
+    "url": "https://huggingface.co/papers/2611.06043",
+    "time": "2026-11-04T06:46:50.000Z",
+    "summary": "Streaming speech recognition is increasingly consumed by machines, such as translators and voice agents, that act on each token as it appears. A token that is later revised costs wasted work or a wrong action. In this work, we present Confucius4-R2T2 (short for Real Real-Time Transcription), a stable-prefix streaming ASR model that never modifies its earlier output while maintaining high accuracy and low latency. R2T2 is obtained by post-training Qwen3-ASR-1.7B on 1,500 hours of Chinese and Engl",
+    "heat": "3",
+    "github_url": "https://arxiv.org/abs/2611.06043"
   },
   {
     "source": "HuggingFace Papers",
@@ -232,7 +284,7 @@
     "url": "https://huggingface.co/papers/2611.06500",
     "time": "2026-11-04T00:00:00.000Z",
     "summary": "Large language model (LLM) agents typically append raw tool outputs to their context. Over multi-step interactions, long and noisy observations incur substantial context overhead and dilute the agent's attention to task-relevant information. Existing token pruning and summarization methods remain constrained by discrete text representations, limiting the achievable compression ratios.\n  In this work, we challenge the prevailing assumption that agents must consume tool observations as explicit te",
-    "heat": "3",
+    "heat": "6",
     "github_url": "https://arxiv.org/abs/2611.06500"
   },
   {
@@ -242,28 +294,18 @@
     "url": "https://huggingface.co/papers/2611.06741",
     "time": "2026-11-04T00:00:00.000Z",
     "summary": "Strong single-turn editing performance does not guarantee reliable multi-turn interaction: as edited outputs are repeatedly reused, small unintended changes can accumulate into severe visual drift. This long-term drift is often mitigated through training on multi-turn data or cross-turn rollouts, potentially altering pretrained priors, or through specialized inference-time mechanisms that are difficult to scale to foundation models. We introduce TailSteer, a final-stage training framework that i",
-    "heat": "39",
+    "heat": "40",
     "github_url": "https://arxiv.org/abs/2611.06741"
   },
   {
     "source": "HuggingFace Papers",
     "category": "research",
-    "title": "Decode Before You Hear: Speculative Listening for Chunk-Interleaved Full-Duplex Speech Language Models",
-    "url": "https://huggingface.co/papers/2611.06982",
-    "time": "2026-11-04T00:00:00.000Z",
-    "summary": "Chunk-interleaved full-duplex speech language models listen and speak in fixed time chunks, and each chunk must be processed before the next one arrives. Their workload is asymmetric across chunks: listen chunks leave compute idle while awaiting audio, and speak and tool-call chunks require serial generation, which delays responses and tool calls. Using the idle compute for the next chunk requires decoding it before its audio arrives, under an assumed input. Taking silence as the assumed input a",
-    "heat": "7",
-    "github_url": "https://arxiv.org/abs/2611.06982"
-  },
-  {
-    "source": "HuggingFace Papers",
-    "category": "research",
-    "title": "From Autonomous Agents to Cognitive Symbionts: Toward AI-Augmented Human Intelligence",
-    "url": "https://huggingface.co/papers/2611.05376",
-    "time": "2026-11-03T18:59:52.000Z",
-    "summary": "For a decade, progress in artificial intelligence has been measured by how much a machine can do on its own. Large foundation models now write code and run multistep tasks, and personal agents act on a person's behalf. Yet people still forget what they once knew, miss what they are not looking at, fail to find the right words, and face hard choices without the benefit of their own history, because the machine that could help stands outside the situation. As AI moves into the physical world, atte",
-    "heat": "86",
-    "github_url": "https://arxiv.org/abs/2611.05376"
+    "title": "Sketchpad: certified exact arithmetic with a small vision-language model",
+    "url": "https://huggingface.co/papers/2611.04434",
+    "time": "2026-11-03T07:25:42.000Z",
+    "summary": "Language models are accurate on most long-arithmetic problems, but their accuracy is estimated on samples and carries no guarantee for an unseen input; tool use is exact but moves the computation outside the network. We show that exactness at all input lengths becomes a finite, checkable property of a network when each of its steps reads only a bounded view of an external working memory. In Sketchpad, Qwen3.5-0.8B with a low-rank adapter executes arithmetic procedures on a rendered sheet. Each f",
+    "heat": "0",
+    "github_url": "https://arxiv.org/abs/2611.04434"
   },
   {
     "source": "HuggingFace Papers",
@@ -282,18 +324,8 @@
     "url": "https://huggingface.co/papers/2611.02660",
     "time": "2026-11-02T07:20:12.000Z",
     "summary": "Recent advances in Vision-Language-Action (VLA) models have enabled fine manipulation capabilities, yet performing tasks that require working memory remains a key challenge. Most existing VLA architectures operate under a Markovian assumption, mapping only the current observation to an action, which leads to failure in non-Markovian environments. Inspired by the human 'inner monologue', we propose Hierarchical Explicit Language Memory (HeLM), a hierarchical VLA framework that maintains task-rele",
-    "heat": "8",
+    "heat": "9",
     "github_url": "https://arxiv.org/abs/2611.02660"
-  },
-  {
-    "source": "HuggingFace Papers",
-    "category": "research",
-    "title": "EvoMemState: Evolving Memory State for Personal Agents",
-    "url": "https://huggingface.co/papers/2611.03743",
-    "time": "2026-11-02T00:00:00.000Z",
-    "summary": "Long-term memory enables large language model (LLM) agents to provide continuous personalized assistance by retaining user information across interactions. Existing systems support this process through fact extraction, organization, updating, and retrieval, but largely maintain memories as independent facts. This fact-centric paradigm may overlook how new facts update, constrain, or conflict with earlier ones, while leaving their applicability, role, and priority for the current request implicit",
-    "heat": "31",
-    "github_url": "https://arxiv.org/abs/2611.03743"
   },
   {
     "source": "HuggingFace Papers",
@@ -302,7 +334,7 @@
     "url": "https://huggingface.co/papers/2611.02075",
     "time": "2026-11-01T00:00:00.000Z",
     "summary": "Agent decisions depend on empirical relationships that deployment observations reveal and task descriptions alone may leave unresolved. We introduce Decoupled Predictive Decision Making (DPDM), an architecture that formulates heterogeneous agent decisions as conditional prediction with a shared pretrained learner. Language models provide semantic representations of current and historical records, while a general-purpose conditional predictor predicts task-defined targets from the represented evi",
-    "heat": "80",
+    "heat": "81",
     "github_url": "https://arxiv.org/abs/2611.02075"
   },
   {
@@ -332,7 +364,7 @@
     "url": "https://huggingface.co/papers/2610.37739",
     "time": "2026-10-27T00:00:00.000Z",
     "summary": "Large language models (LLMs) have shown increasing promise in research-level problem solving, yet a comprehensive collection of such problems is still missing, and evaluating them on research-level problems remains challenging. We introduce OpenFrontiers, a cross-disciplinary resource that combines a structured corpus of open research problems with a retrospective benchmark of recently resolved problems in mathematics. The corpus records problem statements, context, progress, and other informati",
-    "heat": "4",
+    "heat": "6",
     "github_url": "https://arxiv.org/abs/2610.37739"
   }
 ]
