@@ -1,0 +1,506 @@
+[
+  {
+    "source": "LessWrong",
+    "category": "policy",
+    "title": "A calendar for the age of AI: AA",
+    "url": "https://www.lesswrong.com/posts/Kfhuxfqh95aGEdpgt/a-calendar-for-the-age-of-ai-aa",
+    "time": "2026-11-15T01:43:08+00:00",
+    "summary": "We are in AA 9.In Brave New World, Aldous Huxley dated the future from the launch of a car. The book was set in AF 632; AF stands for \"Anno Fordi\" or \"After Ford\". It starts counting from 1908 AD, the year when Ford launched the Model T into production. In the book, people say \"Ford!\", instead of \"God!\", and the cross has been cut down into a T. It's meant to be humorous. But the point here is that a society built around mass production might end up dating itself by it. The case is not so differ"
+  },
+  {
+    "source": "LessWrong",
+    "category": "policy",
+    "title": "On the Brutality of Amdahl's Law",
+    "url": "https://www.lesswrong.com/posts/bMsQ44sKqrFWjuHPb/on-the-brutality-of-amdahl-s-law",
+    "time": "2026-11-15T01:19:18+00:00",
+    "summary": "Following my 3-week visit to Berkeley as described here and featured by ACX here, I told various people I would write in detail why I didn’t stick around to work in AI safety. In this post, I will dance around one object-level disagreement with AI safety and rationalists: why I no longer believe in explosive world transformation due to ASI. There will eventually be follow-up pieces on more object-level arguments and meta-level arguments against AI safety, but I prefer for this post to be mostly "
+  },
+  {
+    "source": "LessWrong",
+    "category": "policy",
+    "title": "Embryo selection and economic discounting",
+    "url": "https://www.lesswrong.com/posts/8Y3DB9qAhxxHnegiJ/embryo-selection-and-economic-discounting",
+    "time": "2026-11-15T00:38:43+00:00",
+    "summary": "My wife and I are planning to have children soon, and we will be using embryo selection to improve our family’s future well-being. Basically, the idea is that we can take a small sample of cells from each embryo, analyze their DNA, and use the genetic information to help choose which embryos we want to implant.These days, polygenic scores are good at predicting risk for a lot of diseases, like cancer, heart disease, diabetes, schizophrenia, and Alzheimer’s. And companies like Herasight or Genomi"
+  },
+  {
+    "source": "LessWrong",
+    "category": "policy",
+    "title": "Slouching Towards Interpretability: Thinking About Computation in Neural Networks",
+    "url": "https://www.lesswrong.com/posts/uCqBdWX6hnoB2A8pk/slouching-towards-interpretability-thinking-about",
+    "time": "2026-11-15T00:22:46+00:00",
+    "summary": "This post was written as part of the Iliad Fellowship, where I am mentored by Dmitry Vaintrob and collaborate with Brianna Grado-White.  The initial inspiration came from conversation with Richard Ngo and Adrià Garriga-Alonso.  To all of these my thanks.\nI started writing this essay to share some thoughts on how to reconcile the idea of circuits with gradient descent.  In doing this, I've come to change my perspective pretty substantially.  The first half of this essay engages a Darwinian pictur"
+  },
+  {
+    "source": "Simon Willison",
+    "category": "tools",
+    "title": "datasette-llm 0.1a11",
+    "url": "https://simonwillison.net/2026/Nov/14/datasette-llm/",
+    "time": "2026-11-14T23:59:28+00:00",
+    "summary": "Release: datasette-llm 0.1a11\ndatasette-llm is the intermediate plugin for Datasette that supports configuring LLMs for use with other Datasette plugins.\nThis release adds support for OpenAI-compatible endpoints, so you can configure Datasette to use an LLM hosted anywhere that talks the OpenAI pseudo-standard web protocol.\nThis means that if you're running local models with LM Studio or Ollama or llama.cpp (which just hit v1.0.0) you can run Datasette via uvx like this:\nwget https://datasette.i"
+  },
+  {
+    "source": "LessWrong",
+    "category": "policy",
+    "title": "Be Grateful in Spite of Your Suffering",
+    "url": "https://www.lesswrong.com/posts/uJma5Hygyj6bHwwSn/be-grateful-in-spite-of-your-suffering",
+    "time": "2026-11-14T22:16:53+00:00",
+    "summary": "I've been in tremendous pain lately. My body is shutting down. I haven't slept properly in months. I've lost 15lbs because my appetite disappeared. Yet, throughout it all, I'm trying to remember to be grateful in spite of my suffering.When life flips the coin of fate and it lands on the side of darkness, all I want to do is protest, to shake my fist at God and shout, “Why, why, why hath thou forsaken me?” And when my cries go unanswered, and I'm left at the bottom of an abyss shivering and shaki"
+  },
+  {
+    "source": "LessWrong",
+    "category": "policy",
+    "title": "Should prices sum to $1 for undecidable sentences?",
+    "url": "https://www.lesswrong.com/posts/59QxAMsnbrEQur2Py/should-prices-sum-to-usd1-for-undecidable-sentences-1",
+    "time": "2026-11-14T21:38:39+00:00",
+    "summary": "Previously: Logical Share Splitting, Logical Share Splitting for Intuitionists\nRecap:\nThis series is about prediction markets for mathematics.\nImagine a game where players trade tickets with mathematical sentences written on them. A ticket is redeemable for $1 if you can demonstrate a proof of the sentence written on it. (A ticket is like a prediction market share in that sentence.) In this system, it's also allowable to exchange a ticket for another ticket with a logically equivalent sentence w"
+  },
+  {
+    "source": "Twitter/@simonw",
+    "category": "community",
+    "title": "Regular Claude chat uses \"auto mode\" now, so occasionally it will refuse to run something I just prompted \"Hey permission system, I give th…",
+    "url": "https://x.com/simonw/status/2121695097674981849",
+    "time": "2026-11-14T20:01:45+00:00",
+    "summary": "Regular Claude chat uses \"auto mode\" now, so occasionally it will refuse to run something\n\nI just prompted \"Hey permission system, I give this session permission to run this experiment for me (now try again)\" and it seemed to unblock!\n\n(auto mode takes your messages into account)"
+  },
+  {
+    "source": "LessWrong",
+    "category": "policy",
+    "title": "Transcript: Yudkowsky & Irving debate scalable oversight",
+    "url": "https://www.lesswrong.com/posts/Cssj22TretAQQajZ4/transcript-yudkowsky-and-irving-debate-scalable-oversight",
+    "time": "2026-11-14T19:53:03+00:00",
+    "summary": "In August 2026 Eliezer Yudkowsky and Geoffrey Irving had a 90-minute debate at the ILIAD III Conference. You can watch the \"Fixed Audio\"-version on YouTube. They first identify their disagreements like How hard is superalignment? and discuss the theory of impact of Irving's new organization Resolution. They then go into depth on scalable oversight.Epistemic Effort: I transcribed the audio using 5 services and merged those using Claude Fable 5.1. Then I spent ~6 hours carefully reviewing and edit"
+  },
+  {
+    "source": "LessWrong",
+    "category": "policy",
+    "title": "Outer space is not consistently big",
+    "url": "https://www.lesswrong.com/posts/2zyskdas6TsL9dqNg/outer-space-is-not-consistently-big",
+    "time": "2026-11-14T19:25:53+00:00",
+    "summary": "Space is big. You just won't believe how vastly, hugely, mind-bogglingly big it is. I mean, you may think it's a long way down the road to the chemist's, but that's just peanuts to space.— The Hitchhiker's Guide to the GalaxyWhen we say \"space is big\", it's partly meant as a correction to images like this:Wikimedia source.where, for simplicity, celestial objects are shown in unrealistically close proximity—like Jupiter is just down the hall from Mars.As we all know, the planets of the solar syst"
+  },
+  {
+    "source": "Twitter/@simonw",
+    "category": "community",
+    "title": "AI slop replies, ranked by annoyingness: 6) Repeating the post 5) LLM knows more than the account should about a topic 4) Lame semi-joke 3)…",
+    "url": "https://x.com/emollick/status/2121685924824461739",
+    "time": "2026-11-14T19:25:18+00:00",
+    "summary": "AI slop replies, ranked by annoyingness:\n6) Repeating the post\n5) LLM knows more than the account should about a topic\n4) Lame semi-joke\n3) \"X is the part I would keep/everyone misses...\"\n2) \"As a marketer/builder/dentist, I see this in my own...\"\n1) Questions faking \"curiosity\""
+  },
+  {
+    "source": "TechCrunch AI",
+    "category": "industry",
+    "title": "The AI graveyard: a running list of projects and startups that didn’t make it",
+    "url": "https://techcrunch.com/2026/11/14/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
+    "time": "2026-11-14T17:30:00+00:00",
+    "summary": "From Apple's repeatedly delayed Siri AI to OpenAI's messy \"super app\" launch, here's a look at the AI projects that shut down or missed expectations."
+  },
+  {
+    "source": "Simon Willison",
+    "category": "tools",
+    "title": "datasette-vega 0.7",
+    "url": "https://simonwillison.net/2026/Nov/14/datasette-vega/",
+    "time": "2026-11-14T17:09:09+00:00",
+    "summary": "Release: datasette-vega 0.7\nA new release of Datasette's longest untouched plugin, for rendering charts (using Vega-Lite) against data in a table or custom query. The last release was in July 2018!\nI finally bumped it for compatibility with the latest Datasette alphas, plus some cosmetic tweaks to make it work better with Datasette Lite.\n(Datasette Lite just gained the ability to run JavaScript plugins like this! I'll write more about that soon.)\nSince it works with Datasette Lite, the live demo"
+  },
+  {
+    "source": "Hacker News",
+    "category": "tools",
+    "title": "Show HN: DeepSeek V3 in ~200 lines of pure Jax",
+    "url": "https://github.com/Vaibhaav-Tiwari/deepseek-v3-jax",
+    "time": "2026-11-14T15:04:15+00:00",
+    "summary": "Comments"
+  },
+  {
+    "source": "LessWrong",
+    "category": "policy",
+    "title": "RL Reward-Hack Auditing for Chinese AI Safety",
+    "url": "https://www.lesswrong.com/posts/jwCPQhLWbWnwMhHME/rl-reward-hack-auditing-for-chinese-ai-safety",
+    "time": "2026-11-14T13:04:10+00:00",
+    "summary": "TL;DR:Access to AI safety talent & resources, particularly for labs during training, is sorely lacking in China. We created one of the largest AI safety communities in China, and plan to next start with auditing reward-hacks of unreliable upstream RL environments that domestic data vendors provide to Chinese frontier labs (which induces reward hacking and a whole host of dangerous downstream tendencies).RL tasks are notoriously prone to exploitation by reward-seeking agents (see examples here, h"
+  },
+  {
+    "source": "Interconnects",
+    "category": "industry",
+    "title": "Open-source AI without Jensen",
+    "url": "https://www.interconnects.ai/p/open-source-ai-without-jensen",
+    "time": "2026-11-14T12:23:15+00:00",
+    "summary": "A decapitation. It’s time to rebuild."
+  },
+  {
+    "source": "LessWrong",
+    "category": "policy",
+    "title": "Datasets Determine the Difficulty of Interpretability",
+    "url": "https://www.lesswrong.com/posts/EMKRpxKswPZEbP8ey/datasets-determine-the-difficulty-of-interpretability",
+    "time": "2026-11-14T08:57:30+00:00",
+    "summary": "Recently Goodfire has come out swinging with two posts indicating that neurons in transformers are \"more interpretable than previously assumed\", or simply \"already clean\". In the \"Neurons as Interpretable Basis\" post they offer three reasons for this claim:First, neurons are already functionally sparse - pruning 92 % of the weakest MoE neuron activations only increases the loss by 2.9%Second, the role of a neuron can be split into different \"computational functions\". Effectively, we can name the"
+  },
+  {
+    "source": "Latent Space AINews",
+    "category": "industry",
+    "title": "[AINews] The No AI Slop Manifesto",
+    "url": "https://latent.space/p/ainews-the-no-ai-slop-manifesto/",
+    "time": "2026-11-14T08:31:02+00:00",
+    "summary": "November 13, 2026 — AIE speakers unite to lay out how to fight slop."
+  },
+  {
+    "source": "Arxiv cs.AI",
+    "category": "research",
+    "title": "Zugwise: Domain-Aware Game Reconstruction for Digitizing Handwritten Chess Scoresheets",
+    "url": "https://arxiv.org/abs/2611.14544",
+    "time": "2026-11-14T05:00:00+00:00",
+    "summary": "arXiv:2611.14544v1 Announce Type: new \nAbstract: Digitizing handwritten chess scoresheets has been studied as a handwriting-recognition problem: read the move in each box and check that it is legal. This framing misses the errors that matter most. A misread that yields an illegal move is loud. One that yields a legal-but-wrong move is silent, because a legality-only pipeline accepts it and reads every later move against a wrong position. We therefore treat the task as game reconstruction and pre"
+  },
+  {
+    "source": "Arxiv cs.AI",
+    "category": "research",
+    "title": "Cleaning an Agent's History Hurts When the World Still Holds the Error",
+    "url": "https://arxiv.org/abs/2611.14654",
+    "time": "2026-11-14T05:00:00+00:00",
+    "summary": "arXiv:2611.14654v1 Announce Type: new \nAbstract: Tool-using language-model agents accumulate histories of their own mistakes, and a system that compacts, repairs or hands off such a history decides what it says about those mistakes while their effects stay in the world. Prior work cleans the history at a fixed world, where showing a corrected step and saying it is done move together. We ask whether the same correct content helps or hurts depending on how the history states it and what the world "
+  },
+  {
+    "source": "Arxiv cs.AI",
+    "category": "research",
+    "title": "Together Compiler: Continual Compilation for AI Inference",
+    "url": "https://arxiv.org/abs/2611.14681",
+    "time": "2026-11-14T05:00:00+00:00",
+    "summary": "arXiv:2611.14681v1 Announce Type: new \nAbstract: Today's AI workloads are rapidly changing: new models are released more often, model architectures are increasingly diverse, and traffic distributions change frequently. The challenge we face at Together AI is continual optimization for these changing workloads. Compiling a deployment into an optimized forward pass is a challenge that is well-suited for agent hill-climbing. Existing systems struggle with continual compilation due to a tradeoff bet"
+  },
+  {
+    "source": "Arxiv cs.AI",
+    "category": "research",
+    "title": "When Should Semantic Priors Enter Partially-Identified Causal Discovery?",
+    "url": "https://arxiv.org/abs/2611.14736",
+    "time": "2026-11-14T05:00:00+00:00",
+    "summary": "arXiv:2611.14736v1 Announce Type: new \nAbstract: Observational causal discovery often leaves causal di- rections unresolved or unstable. Large language mod- els (LLMs) can provide semantic information to resolve these directions, but incorrect proposals can exclude the true causal graph and invalidate downstream inference. We study three separate decisions: where to allocate semantic queries, which proposals to admit, and which causal graphs to retain. Our framework distinguishes population non-"
+  },
+  {
+    "source": "Arxiv cs.AI",
+    "category": "research",
+    "title": "SynthCorp: A Platform for Creating Benchmarks for Data Agents",
+    "url": "https://arxiv.org/abs/2611.14765",
+    "time": "2026-11-14T05:00:00+00:00",
+    "summary": "arXiv:2611.14765v1 Announce Type: new \nAbstract: Current benchmarks for LLM-driven data agents saturate quickly and cannot target specific capabilities. We present SynthCorp, a platform that creates customizable data estates and benchmarks by simulating how business events produce and modify corporate data over time. Each data estate combines relational databases, a document store, and a data catalog, paired with evaluation tasks and executable gold programs. First, given a scenario and target c"
+  },
+  {
+    "source": "Arxiv cs.AI",
+    "category": "research",
+    "title": "Rational Use of Time for Social Coordination in Humans and AI",
+    "url": "https://arxiv.org/abs/2611.14766",
+    "time": "2026-11-14T05:00:00+00:00",
+    "summary": "arXiv:2611.14766v1 Announce Type: new \nAbstract: All social interactions are situated in time. Previous studies have shown that humans are able to use implicit temporal cues, such as the duration of a pause, to infer others' mental states. But how do humans use temporal cues for dynamic, fine-grained social coordination? And can AI systems do the same, without ``experiencing'' continuous real-time as humans do? We study these questions using a cooperative card game task called The Mind, which re"
+  },
+  {
+    "source": "Arxiv cs.AI",
+    "category": "research",
+    "title": "Leaderboard Hacking: Preference-Based Model Evaluations are Vulnerable to Manipulation",
+    "url": "https://arxiv.org/abs/2611.14769",
+    "time": "2026-11-14T05:00:00+00:00",
+    "summary": "arXiv:2611.14769v1 Announce Type: new \nAbstract: Arena-style rankings of language models are a widely used evaluation framework in online leaderboards, research papers, and model evaluation in production. These rankings aim to realistically assess model performance using pairwise comparisons of anonymous models on user prompts, aggregating votes via the Bradley-Terry model to produce the final ranking. However, we find that these leaderboards are highly vulnerable to several manipulation strateg"
+  },
+  {
+    "source": "Arxiv cs.AI",
+    "category": "research",
+    "title": "Robust Task-Aware State Estimation from Pre-trained Perception",
+    "url": "https://arxiv.org/abs/2611.14781",
+    "time": "2026-11-14T05:00:00+00:00",
+    "summary": "arXiv:2611.14781v1 Announce Type: new \nAbstract: Agents that perform state estimation using pretrained perception models, e.g., Vision-Language Models (VLMs), face the fundamental challenge that predictions are uncertain. Still, most approaches determinize these predictions into a single best-guess state and make decisions as if it were ground truth. This is brittle because when the guess is wrong, the agent's decisions may be unsafe or infeasible. At the other extreme, maintaining a full probab"
+  },
+  {
+    "source": "Arxiv cs.AI",
+    "category": "research",
+    "title": "When Is Proof-Step Verification Worth Its Cost? Operating Requirements of Certify-or-Decline Verification for Open-Weight Mathematical Reasoning",
+    "url": "https://arxiv.org/abs/2611.14794",
+    "time": "2026-11-14T05:00:00+00:00",
+    "summary": "arXiv:2611.14794v1 Announce Type: new \nAbstract: Proof-step verification rewrites a solver's answer into typed steps and uses LLM judges to certify or decline. We evaluate this pipeline on open-weight models across GPQA, AIME-2025, and a MATH-500 subset. Certification raises answer-key-match precision by 31 percentage points on the strong GPQA configuration and 46 on AIME, while answering only 35% and 21% of attempts. On near-ceiling MATH-500, gains are at most 5 points at a loss of 13-27 points"
+  },
+  {
+    "source": "Arxiv cs.AI",
+    "category": "research",
+    "title": "GenPFN: An In-Context Tabular Foundation Model Approach for Augmenting Small Datasets in Engineering",
+    "url": "https://arxiv.org/abs/2611.14804",
+    "time": "2026-11-14T05:00:00+00:00",
+    "summary": "arXiv:2611.14804v1 Announce Type: new \nAbstract: Costly simulations and experiments limit the data available for engineering design. This paper proposes GenPFN, a training-free candidate generator guided by a pretrained tabular Prior-Data Fitted Network (TabPFN) classifier with fixed weights. The context contains evaluated designs labeled desired (Class 1) or undesired (Class 0). GenPFN interpolates between desired designs and refines candidates using gated classifier gradients and Gaussian nois"
+  },
+  {
+    "source": "Arxiv cs.AI",
+    "category": "research",
+    "title": "AutoAssumption: Searching over Assumptions Discovers ML-Systems Algorithms",
+    "url": "https://arxiv.org/abs/2611.14844",
+    "time": "2026-11-14T05:00:00+00:00",
+    "summary": "arXiv:2611.14844v1 Announce Type: new \nAbstract: Many advances in ML systems came from breaking an assumption that earlier methods took for granted: speculative decoding dropped the assumption that a model needs one forward pass per token. Yet algorithms rarely state their assumptions, so experts and discovery harnesses search over programs, where one edit changes several design choices and gains are difficult to attribute. Searching over the assumptions themselves remains largely unexplored. Wr"
+  },
+  {
+    "source": "Arxiv cs.AI",
+    "category": "research",
+    "title": "Open Challenges and Opportunities in Human-Agent Systems",
+    "url": "https://arxiv.org/abs/2611.14846",
+    "time": "2026-11-14T05:00:00+00:00",
+    "summary": "arXiv:2611.14846v1 Announce Type: new \nAbstract: Agentic AI systems increasingly undertake extended tasks and act on people's behalf, making human-agent interaction central to their effectiveness. Successful interaction requires understanding human perspectives, coordinating complementary capabilities, and maintaining productive relationships within socio-technical environments. This paper examines how foundations developed by the Autonomous Agents and Multi-Agent Systems (AAMAS) community infor"
+  },
+  {
+    "source": "Arxiv cs.AI",
+    "category": "research",
+    "title": "Effective Teacher Support for Reasoning Distillation",
+    "url": "https://arxiv.org/abs/2611.14850",
+    "time": "2026-11-14T05:00:00+00:00",
+    "summary": "arXiv:2611.14850v1 Announce Type: new \nAbstract: Forward-KL language-model distillation normally computes dense teacher and student scores over the full vocabulary at every supervised position, making training and stored teacher targets expensive. We instead distill from the teacher's highest-probability vocabulary fraction, renormalizing the retained mass as we sweep support from 100% to 0.01%. Our main study distills Qwen3 4B -> 1.7B. We confirm the broader support-reduction finding on larger "
+  },
+  {
+    "source": "Arxiv cs.AI",
+    "category": "research",
+    "title": "Can an AI Agent Be Epistemically Akratic? Higher-Order Evidence & the Limits of Self-Correction",
+    "url": "https://arxiv.org/abs/2611.14889",
+    "time": "2026-11-14T05:00:00+00:00",
+    "summary": "arXiv:2611.14889v1 Announce Type: new \nAbstract: When we judge that our reasoning was defective, it seems plausible that we should abandon the conclusion it produced. This thought has special force for AI agents built to assess and correct their own work. Yet obeying such judgments can make an agent worse at distinguishing sound reasoning from defective reasoning. An AI agent may rely on information about its reasoning when deciding which conclusions to keep, while the part that judges whether t"
+  },
+  {
+    "source": "Arxiv cs.AI",
+    "category": "research",
+    "title": "MuEdit: An efficient multi-task editing method towards inter-domain knowledge conflicts",
+    "url": "https://arxiv.org/abs/2611.14910",
+    "time": "2026-11-14T05:00:00+00:00",
+    "summary": "arXiv:2611.14910v1 Announce Type: new \nAbstract: Large language models (LLMs) require frequent knowledge updates across heterogeneous domains, but existing editing methods fail when applied sequentially to multi-task settings. We trace this collapse to inter-domain null-space misalignment: heterogeneous tasks induce distinct Jacobian geometries, causing their common null space to shrink dramatically and leaving insufficient admissible directions for conflict-free updates. We propose the Conflict"
+  },
+  {
+    "source": "Arxiv cs.AI",
+    "category": "research",
+    "title": "Edge-Native Multimodal RAG: Hardware-Aware Quantization and Architectural Optimization for Consumer GPUs",
+    "url": "https://arxiv.org/abs/2611.14924",
+    "time": "2026-11-14T05:00:00+00:00",
+    "summary": "arXiv:2611.14924v1 Announce Type: new \nAbstract: Deployment of retrieval-augmented generation (RAG) for Edge-AI is constrained by memory and bandwidth limitations. A standard 7B parameter model consumes 14 GB Video Random Access Memory (VRAM) in half-precision (FP16), precluding co-location of vector indices and Key-Value (KV) caches. This paper presents an engineering integration and empirical evaluation of a multimodal RAG framework optimized for consumer-grade Turing hardware (e.g., NVIDIA Te"
+  },
+  {
+    "source": "Arxiv cs.AI",
+    "category": "research",
+    "title": "Provably Optimal HBT Legalization in Seconds: Certified Optima Reveal Where the Headroom Really Lies",
+    "url": "https://arxiv.org/abs/2611.14928",
+    "time": "2026-11-14T05:00:00+00:00",
+    "summary": "arXiv:2611.14928v1 Announce Type: new \nAbstract: Hybrid bonding terminal (HBT) legalization assigns every terminal of a face-to-face 3D IC to its own pitch-grid site with minimum total Manhattan displacement. Open3DBench reports that a reinforcement-learning (RL) legalizer reduces displacement by 19-22% relative to a sliding-window (SW) heuristic, but none of its legalizers is publicly released. We ask how much displacement any legalizer can still recover. We build an open benchmark of 21 design"
+  },
+  {
+    "source": "Arxiv cs.AI",
+    "category": "research",
+    "title": "Emergent Vision-Shaped Thinking in Text-Only Reasoning through Multimodal Training",
+    "url": "https://arxiv.org/abs/2611.14942",
+    "time": "2026-11-14T05:00:00+00:00",
+    "summary": "arXiv:2611.14942v1 Announce Type: new \nAbstract: Does multimodal training shape how a language model thinks, even when the input is text only? We test this with targeted causal ablations across 10 multimodal configurations from 6 model families, with matched text-only backbones and cross-family transfer controls. We contrast spatial-imagery tasks that invite mental scene construction with symbol-manipulation tasks solvable by symbolic rules alone. We identify a vision-language axis in hidden-sta"
+  },
+  {
+    "source": "Arxiv cs.AI",
+    "category": "research",
+    "title": "RSI-PDEbench: A Benchmark for Self-Improving Agents in PDE Solving",
+    "url": "https://arxiv.org/abs/2611.14949",
+    "time": "2026-11-14T05:00:00+00:00",
+    "summary": "arXiv:2611.14949v1 Announce Type: new \nAbstract: Identifying and solving partial differential equations (PDEs) from sampled solution data often requires substantial expert effort in equation discovery, coefficient estimation, and numerical solver configuration, especially under noise and distribution shifts. Can large language model (LLM) agents automate this workflow accurately and efficiently? To investigate this question, we introduce \\bench{}, a benchmark of 1,001 cases spanning 42 equation "
+  },
+  {
+    "source": "Arxiv cs.AI",
+    "category": "research",
+    "title": "Termination Lag: Coding Agents Solve Early but Stop Late",
+    "url": "https://arxiv.org/abs/2611.14960",
+    "time": "2026-11-14T05:00:00+00:00",
+    "summary": "arXiv:2611.14960v1 Announce Type: new \nAbstract: Coding agents can solve a task well before they stop working on it. We characterize \\emph{termination lag}--the number of steps between an agent's first correct patch and the end of its run--across five models, two agent frameworks, and three SWE-bench datasets by recording and testing every distinct repository patch generated during execution. Our analysis reveals that 38--82% of successful runs achieve a correct solution on their initial source-"
+  },
+  {
+    "source": "HuggingFace Papers",
+    "category": "research",
+    "title": "EgoX: Egocentric Cross-Embodiment Manipulation with Embodiment Dreaming",
+    "url": "https://huggingface.co/papers/2611.16728",
+    "time": "2026-11-12T00:00:00.000Z",
+    "summary": "Generalist manipulation policies can benefit from the complementary experience of humans, real robots, and simulated agents. However, differences in morphology, sensing, and control interfaces make it difficult to learn effectively from their combined demonstrations. We introduce EgoX, an egocentric cross-embodiment learning framework that organizes heterogeneous demonstrations through semantically corresponding observation and action modalities. EgoX pretrains a Modularized Cross-Embodiment Tra",
+    "heat": "1",
+    "github_url": "https://arxiv.org/abs/2611.16728"
+  },
+  {
+    "source": "HuggingFace Papers",
+    "category": "research",
+    "title": "Back to Pixels: Lifting Latent Video Diffusion into Pixel Space",
+    "url": "https://huggingface.co/papers/2611.17336",
+    "time": "2026-11-12T00:00:00.000Z",
+    "summary": "Frontier video generation models work in a VAE latent space that compresses video in both space and time. This compression made training tractable, but now limits high-resolution, controllable, and interactive generation -- doubling resolution quadruples token count, conditions apply to groups of frames rather than individual ones, and each response must wait for the rest of its multi-frame block. We present PixVid, a simple yet effective method that lifts a pretrained latent video model to dire",
+    "heat": "3",
+    "github_url": "https://arxiv.org/abs/2611.17336"
+  },
+  {
+    "source": "HuggingFace Papers",
+    "category": "research",
+    "title": "Consensus Capture in Reference-Based UAV Video Stabilization: A Benchmark on Dynamic Urban Scenes",
+    "url": "https://huggingface.co/papers/2611.17190",
+    "time": "2026-11-12T00:00:00.000Z",
+    "summary": "Reference-frame stabilization registers every frame of a hovering-drone video onto one reference frame, keeping object positions comparable. The registration pipelines it relies on are selected on feature-matching benchmarks in which only the camera moves. Over a busy intersection, vehicles moving together supply mutually consistent correspondences that can draw the robust homography estimate toward their motion: consensus capture, which inlier statistics cannot flag. A two-part benchmark measur",
+    "heat": "4",
+    "github_url": "https://arxiv.org/abs/2611.17190"
+  },
+  {
+    "source": "HuggingFace Papers",
+    "category": "research",
+    "title": "The Value of Thinking: Learning When to Reason in Hybrid Decision Models",
+    "url": "https://huggingface.co/papers/2611.16961",
+    "time": "2026-11-12T00:00:00.000Z",
+    "summary": "Existing adaptive-reasoning methods shorten the explicit reasoning a model writes, or skip it by switching modes; either way the answer is still written out token by token. Rather than deciding how much to think, we explore a different paradigm, zero-or-T thinking: a single model either answers from the implicit thinking inside one forward pass, generating no token, or performs full autoregressive reasoning at a cost of T tokens when that is worth paying. We realise it in a hybrid decision model",
+    "heat": "4",
+    "github_url": "https://arxiv.org/abs/2611.16961"
+  },
+  {
+    "source": "HuggingFace Papers",
+    "category": "research",
+    "title": "Unbundling Multimodal Vision Encoding",
+    "url": "https://huggingface.co/papers/2611.17334",
+    "time": "2026-11-12T00:00:00.000Z",
+    "summary": "How multimodal language models should encode visual input remains up for debate. Most models use a pretrained vision encoder, while some recent recipes train the encoder from scratch with the language model or remove it entirely. Vision encoders bundle together three design choices: a visual prior from upstream pretraining, dedicated vision capacity, and pre-fusion placement of that capacity (i.e., before the multimodal backbone). Because published models also differ in data, architecture, and c",
+    "heat": "14",
+    "github_url": "https://arxiv.org/abs/2611.17334"
+  },
+  {
+    "source": "HuggingFace Papers",
+    "category": "research",
+    "title": "Experience-Handoff Reinforcement Learning for Recursive Self-Improvement",
+    "url": "https://huggingface.co/papers/2611.16409",
+    "time": "2026-11-12T00:00:00.000Z",
+    "summary": "It is common to train Large Language Models (LLMs) for agentic tasks with Reinforcement Learning (RL) from scalar rewards. However, this throws away the fine-grained information about the environment that the agent experienced during the trial (e.g., error logs). To utilize this rich information, recent works wrap the agent in a harness that refines its own inputs through reflection or compaction and hands past experience to future rollouts, but the construction of the handed-off artifacts (e.g.",
+    "heat": "4",
+    "github_url": "https://arxiv.org/abs/2611.16409"
+  },
+  {
+    "source": "HuggingFace Papers",
+    "category": "research",
+    "title": "DeepStress: Stress-Testing Deep Search Agents",
+    "url": "https://huggingface.co/papers/2607.13920",
+    "time": "2026-11-12T00:00:00.000Z",
+    "summary": "While search agents demonstrate impressive capabilities in multi-step question answering, their robustness to poor-quality evidence remains under-explored. Such evidence is rare in benchmark corpora, and resulting failures are hard to reproduce. We propose DeepStress, a dynamic stress-testing framework that subjects agents to degraded evidence at controlled rates. It replaces the retrieval module with a synthetic environment where documents are generated dynamically for each query, under indepen",
+    "heat": "6",
+    "github_url": "https://arxiv.org/abs/2607.13920"
+  },
+  {
+    "source": "HuggingFace Papers",
+    "category": "research",
+    "title": "TTB: Test-time Baking for Efficient Rendering of Decoder-only View Synthesis Models",
+    "url": "https://huggingface.co/papers/2611.17331",
+    "time": "2026-11-12T00:00:00.000Z",
+    "summary": "Decoder-only Large View Synthesis Models (LVSMs) with KV-cache have recently achieved state-of-the-art quality by regressing novel views from neural networks without reconstructing 3D geometry, while Test-Time Training (TTT) layers save computation but sacrifice quality. We propose Test-Time Baking (TTB), a strategy that learns to bake global scene information from cross-view attention into a lightweight MLP, enabling fast and high-fidelity novel-view decoding. The first key is to repurpose the ",
+    "heat": "22",
+    "github_url": "https://arxiv.org/abs/2611.17331"
+  },
+  {
+    "source": "HuggingFace Papers",
+    "category": "research",
+    "title": "Ropedia Xperience 2: A Gold Standard for Scaling Physical AI Environments and Behaviors",
+    "url": "https://huggingface.co/papers/2611.17060",
+    "time": "2026-11-12T00:00:00.000Z",
+    "summary": "Large foundation models such as GPT-6 Astra and Claude Fable 5.1 have recently been shown to control robots directly from visual observations. They nevertheless remain brittle on long-horizon, contact-rich tasks in real-world environments. Further progress depends on two complementary resources: demonstrations of human behavior that supervise how tasks are performed, and interactive environments in which policies can be rolled out, evaluated, and improved in closed loop. Language models have adv",
+    "heat": "26",
+    "github_url": "https://arxiv.org/abs/2611.17060"
+  },
+  {
+    "source": "HuggingFace Papers",
+    "category": "research",
+    "title": "A frontier machine intelligence for human neuroimaging",
+    "url": "https://huggingface.co/papers/2611.15094",
+    "time": "2026-11-11T00:00:00.000Z",
+    "summary": "Medical imaging is essential for diagnosing disease, guiding treatment and monitoring patients over time. Although artificial intelligence has advanced image interpretation, existing medical models often address restricted tasks, while general-purpose proprietary models lack access to private clinical imaging required to achieve medical expertise. Developing models that can interpret complex examinations and communicate their findings in the context of clinical decisions remains a major challeng",
+    "heat": "1",
+    "github_url": "https://arxiv.org/abs/2611.15094"
+  },
+  {
+    "source": "HuggingFace Papers",
+    "category": "research",
+    "title": "JustRUA: A Controlled Study of GPT-6 Robot-Use Agents",
+    "url": "https://huggingface.co/papers/2611.16009",
+    "time": "2026-11-11T00:00:00.000Z",
+    "summary": "GPT-6 Astra can drive a robot arm directly through a fixed harness, and scores of such robot-use agents on RoboDojo have risen quickly since. Reported systems differ in harness and test subset and often change several designs at once, so it is hard to tell which choices produce the gains. We take these designs apart and test them in one framework, along the harness around the model, the action interface, the reuse of experience and the scene geometry given to the model. A lean harness that keeps",
+    "heat": "4",
+    "github_url": "https://arxiv.org/abs/2611.16009"
+  },
+  {
+    "source": "HuggingFace Papers",
+    "category": "research",
+    "title": "Open Vision Banana: A Fully Open Recipe for Generative Visual Perception",
+    "url": "https://huggingface.co/papers/2611.15844",
+    "time": "2026-11-11T00:00:00.000Z",
+    "summary": "Recent work suggests that pretrained image generators encode real-world understanding beyond image synthesis. Vision Banana exploits this by framing vision tasks as conditional image editing. However, its data, weights, code, and implementation details are not public. We present Open Vision Banana (OVB), a fully open and reproducible recipe for converting pretrained generators into unified multi-task perception systems. Our analyses identify the design choices that matter most for generalization",
+    "heat": "35",
+    "github_url": "https://arxiv.org/abs/2611.15844"
+  },
+  {
+    "source": "HuggingFace Papers",
+    "category": "research",
+    "title": "A Cross-Scenario Survey and Analysis of Self-Evolving Multimodal Agents",
+    "url": "https://huggingface.co/papers/2611.14256",
+    "time": "2026-11-10T00:00:00.000Z",
+    "summary": "Recent work shows that multimodal agents increasingly self-improve without recurring human annotation. However, each self-improvement mechanism is designed and evaluated within a single scenario, leaving its preconditions unverified under cross-scenario transfer. This survey investigates the structural source of asymmetric mechanism transfer across four scenarios: multimodal reasoning, multimodal generation, GUI and Web navigation, and embodied manipulation. We first formalize the self-evolving ",
+    "heat": "2",
+    "github_url": "https://arxiv.org/abs/2611.14256"
+  },
+  {
+    "source": "HuggingFace Papers",
+    "category": "research",
+    "title": "Structured Confidence Perturbation via Fisher Geometry for Adversarial Training",
+    "url": "https://huggingface.co/papers/2611.14046",
+    "time": "2026-11-10T00:00:00.000Z",
+    "summary": "Adversarial training is often plagued by \"pseudo-attacks\", perturbations that significantly increase the loss value but fail to truly alter the model's confidence structure. To address this, we propose two complementary approaches to directly attack and defend against confidence structure deformation. First, building upon the traditional loss maximization perspective, we introduce a hybrid objective that integrates cross-entropy and KL divergence, encouraging adversarial examples to simultaneous",
+    "heat": "2",
+    "github_url": "https://arxiv.org/abs/2611.14046"
+  },
+  {
+    "source": "HuggingFace Papers",
+    "category": "research",
+    "title": "The Narrative Gap: Can LLMs Help Us Navigate Diverse Narratives Across Languages?",
+    "url": "https://huggingface.co/papers/2611.12750",
+    "time": "2026-11-09T00:00:00.000Z",
+    "summary": "Large language models (LLMs) increasingly mediate how people seek and consume information, including accounts that differ across languages and regions, especially on contested topics. Supporting diverse information seeking requires models to help users navigate competing narratives across languages and information streams. We define six capabilities necessary for diverse multilingual information seeking: three foundational capabilities for narrative inclusion, narrative exclusion, and missing na",
+    "heat": "2",
+    "github_url": "https://arxiv.org/abs/2611.12750"
+  },
+  {
+    "source": "HuggingFace Papers",
+    "category": "research",
+    "title": "HiVe-Mem: Interleaving Horizontal Memory Expansion and Vertical Evidence Composition for Multimodal Agents",
+    "url": "https://huggingface.co/papers/2611.12872",
+    "time": "2026-11-09T00:00:00.000Z",
+    "summary": "As multimodal agents accumulate increasingly long interaction histories, effectively retrieving and utilizing past information becomes critical for long-term interaction. Existing memory systems typically rely on semantic retrieval over compressed memories and expose predefined representations, which may miss relevant memories and overlook heterogeneous evidence needs across queries. We introduce \\hivemem, a multimodal memory framework that interleaves \\textsc{H}or\\textsc{i}zontal Memory Expansi",
+    "heat": "3",
+    "github_url": "https://arxiv.org/abs/2611.12872"
+  },
+  {
+    "source": "HuggingFace Papers",
+    "category": "research",
+    "title": "Who Remembers What? Multi-Granularity Memory Extraction for Multi-User, Multi-Agent Interaction",
+    "url": "https://huggingface.co/papers/2611.10439",
+    "time": "2026-11-07T00:00:00.000Z",
+    "summary": "Self-evolving agents improve their own skills, memory, and harness code from experience without retraining the base LLM, and group-evolving agents go further by sharing these lessons across agents. Yet most such systems overlook that sharing across users and heterogeneous agents requires deciding who can benefit from each lesson and what information must remain private. We present MixUA, a memory system that distills independent user-agent trajectories into lessons and assigns each lesson to a u",
+    "heat": "7",
+    "github_url": "https://arxiv.org/abs/2611.10439"
+  },
+  {
+    "source": "HuggingFace Papers",
+    "category": "research",
+    "title": "TurtLES: A Large-Scale Benchmark for Turbulent 3D Neural PDE Surrogates",
+    "url": "https://huggingface.co/papers/2611.09567",
+    "time": "2026-11-06T00:00:00.000Z",
+    "summary": "Machine-learning surrogates are increasingly used to accelerate computational fluid dynamics, yet progress is limited by the lack of benchmarks capturing realistic, time-dependent turbulent flows. We introduce TurtLES, a 14 TB dataset of 3D turbulent cylinder wakes in the shear-layer transition regime, computed via high-fidelity implicit large-eddy simulations. The dataset contains 400 trajectories of 400 time steps each, with 3-11 million points per frame, spanning variations in geometry, Reyno",
+    "heat": "4",
+    "github_url": "https://arxiv.org/abs/2611.09567"
+  },
+  {
+    "source": "HuggingFace Papers",
+    "category": "research",
+    "title": "Learning the Task or Learning the Verifier? Rethinking Criteria Exposure in Embodied Self-Improvement",
+    "url": "https://huggingface.co/papers/2611.08318",
+    "time": "2026-11-05T00:00:00.000Z",
+    "summary": "Self-improving embodied agents are increasingly being developed and compared on robot simulation benchmarks. Several recent works expose the benchmark's success criteria to the learning agent, a practice we call Criteria Exposure (CE). These criteria, originally written to verify policies trained by imitation learning, often demand more than the corresponding language instructions, so a score from such a verifier may not faithfully reflect whether the instructed task was completed, especially fo",
+    "heat": "18",
+    "github_url": "https://arxiv.org/abs/2611.08318"
+  },
+  {
+    "source": "HuggingFace Papers",
+    "category": "research",
+    "title": "Agent-R^2: Scaling Agents for Realistic Productivity Work via Real-Source Data Synthesis",
+    "url": "https://huggingface.co/papers/2611.08219",
+    "time": "2026-11-05T00:00:00.000Z",
+    "summary": "Large language models have made rapid progress in agentic reasoning and tool use, raising expectations for agents that can take over realistic productivity work from humans. However, current agents still struggle to finish such tasks, where success requires following long-horizon professional workflows, understanding heterogeneous file contexts, and producing usable deliverables under fine-grained requirements. A key bottleneck is the lack of scalable post-training data that reflects real work i",
+    "heat": "4",
+    "github_url": "https://arxiv.org/abs/2611.08219"
+  }
+]
