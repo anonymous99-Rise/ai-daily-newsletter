@@ -1,0 +1,394 @@
+[
+  {
+    "source": "LessWrong",
+    "category": "policy",
+    "title": "The great human centipede that is Twitter",
+    "url": "https://www.lesswrong.com/posts/Ctia6zyXF69N3tzhv/the-great-human-centipede-that-is-twitter",
+    "time": "2026-11-16T02:33:55+00:00",
+    "summary": "On October 29th, 2026, the New York Times reported that Jensen Huang had a ‘close relationship’ with Alice Huang, an executive U.S. officials had concluded was a Chinese spy. The story had six reporters on the byline, and was sourced to \"people briefed on the surveillance.\" Whether or not you think Alice Huang was working for the MSS, a rational person might conclude that the \"person briefed on the surveillance\", who supplied the initial story, was a U.S. government official. After all, if you w"
+  },
+  {
+    "source": "LessWrong",
+    "category": "policy",
+    "title": "Why so many arguments about human nature?",
+    "url": "https://www.lesswrong.com/posts/JoCHxFZDQuBXZAm3t/why-so-many-arguments-about-human-nature",
+    "time": "2026-11-16T02:20:33+00:00",
+    "summary": "Leans fairly heavily on: Believing InEpistemic status: Straightforward, I think, but could use checking.People have long had heated arguments about various aspects of human nature, such asIn what ways is or isn’t it human nature to care about others?Are humans innately monogamous or polyamorous?Is it natural to us to sleep for eight hours in a block at night, or to have some particular other rhythm?and piles of others.I would like to enter these arguments soon, by arguing that in a particular se"
+  },
+  {
+    "source": "Hacker News",
+    "category": "tools",
+    "title": "\"Who is Hiring?\" postings stuck near 12-year lows as AI reaches half of all jobs",
+    "url": "https://www.hntrends.com/2026/november.html",
+    "time": "2026-11-16T01:31:30+00:00",
+    "summary": "Comments"
+  },
+  {
+    "source": "TechCrunch AI",
+    "category": "industry",
+    "title": "Apple launches new app to study how people use AI for health",
+    "url": "https://techcrunch.com/2026/11/15/apple-launches-new-app-to-study-how-people-use-ai-for-health/",
+    "time": "2026-11-16T01:30:00+00:00",
+    "summary": "Apple's new app for a study will answer everyday medical questions"
+  },
+  {
+    "source": "LessWrong",
+    "category": "policy",
+    "title": "An exploration of the mathematical implications of a 'Poincaré causal diamond model of hyperbolic static spacetime'",
+    "url": "https://www.lesswrong.com/posts/QvZ5gJSGZnmMH8YzA/an-exploration-of-the-mathematical-implications-of-a",
+    "time": "2026-11-16T01:29:40+00:00",
+    "summary": "This post follows from my previous post about this interesting '4-dimensional Carter-Penrose diagram' of a spacetime. In this one, I explore the logical consequences of the existence of horospheres, and the way they enter into the geometry of the Hyperbolic static universe, in the context of that of somewhat general spacelike surfaces and their boundary at infinity.  Concave spacelike hypersurfacesIn only 3 dimensions, we can visualize the causal diamond and observe that the flattest possible ob"
+  },
+  {
+    "source": "Hacker News",
+    "category": "tools",
+    "title": "Agentic AI Designs an Analog Synthesizer",
+    "url": "https://cpldcpu.github.io/2026/11/14/touchsynth/",
+    "time": "2026-11-16T01:28:10+00:00",
+    "summary": "Comments"
+  },
+  {
+    "source": "Simon Willison",
+    "category": "tools",
+    "title": "datasette-maplibre 0.1a0",
+    "url": "https://simonwillison.net/2026/Nov/15/datasette-maplibre/",
+    "time": "2026-11-15T23:58:36+00:00",
+    "summary": "Release: datasette-maplibre 0.1a0\nThe first new Datasette geospatial plugin in quite a while! This one combines the excellent MapLibre GL library with OpenFreeMap, the free vector map server operated by Zsolt Ero (you should sponsor Zsolt on GitHub.)\nI built most of this with a single prompt to Claude Fable 5.2:\n\nLook at datasette-cluster-map and datasette-leaflet-geojson plugins, then look at ~/dev/tools/openfreemap-demo.html - then build a brand new Datasette plugin that uses maplibreGL and op"
+  },
+  {
+    "source": "TechCrunch AI",
+    "category": "industry",
+    "title": "Indian chip startup Bharat Semi lands $24M seed round as it eyes global AI sensor market",
+    "url": "https://techcrunch.com/2026/11/15/indian-chip-startup-bharat-semi-lands-24m-seed-round-as-it-eyes-global-ai-sensor-market/",
+    "time": "2026-11-15T23:30:00+00:00",
+    "summary": "Bharat Semi says it has secured design wins for its AI-enabled sensor technology with companies including General Atomics."
+  },
+  {
+    "source": "Simon Willison",
+    "category": "tools",
+    "title": "datasette 1.0a43",
+    "url": "https://simonwillison.net/2026/Nov/15/datasette/",
+    "time": "2026-11-15T23:20:27+00:00",
+    "summary": "Release: datasette 1.0a43\nI've been leaning hard into Claude Fable 5.2 to help knock things off the 1.0 milestone, which is now 53% complete.\nThe biggest 1.0 item in this release is streaming support for output renderers - the built-in TSV and CSV export mechanisms now use this as well, and plugins can register themselves as capable of streaming every row in a table in one go via the new Response.stream() method.\nThere are a couple of security fixes, one of which I deemed deserving of a GitHub a"
+  },
+  {
+    "source": "Simon Willison",
+    "category": "tools",
+    "title": "datasette 0.65.6",
+    "url": "https://simonwillison.net/2026/Nov/15/datasette-2/",
+    "time": "2026-11-15T23:18:17+00:00",
+    "summary": "Release: datasette 0.65.6\nI backported a minor security fix from 1.0a43:\n\nFixed a security issue where a database registered using add_database(db, name=..., route=...) with a route that differs from its name could be downloaded from /<route>.db by actors who were denied access to it. [...]\n\nTags: security, datasette"
+  },
+  {
+    "source": "LessWrong",
+    "category": "policy",
+    "title": "[low effort post] The Non-extinctionist World",
+    "url": "https://www.lesswrong.com/posts/9KbbXaEwtQiQrAjYW/low-effort-post-the-non-extinctionist-world",
+    "time": "2026-11-15T23:16:43+00:00",
+    "summary": "This is a prompt I give to every freshly released claude in the hope that one of them pops out a worldsaving insight as a result, I think I wrote this text first as the opener of a chat with an opus 4.5. posted here without further comment so I get the post out ever at all:---Most species go extinct on average.Imagine the set of all species. Can't do that? Okay, [look at this image.](tree of life dot jpg)Look at the line tips. Count how many there are in one layer of dieoffs and the next. Few sp"
+  },
+  {
+    "source": "LessWrong",
+    "category": "policy",
+    "title": "LLMs are weirdly below chance on TASTE benchmark without a shortcut",
+    "url": "https://www.lesswrong.com/posts/tpKE33scJGzqYKEBW/llms-are-weirdly-below-chance-on-taste-benchmark-without-a",
+    "time": "2026-11-15T22:38:33+00:00",
+    "summary": "We found a shortcut in the TASTE benchmark: mech-interp-related proposals are generally scored lower. Considering only the non-interp half, all tested models with ECI > 158 are below 50% on the rubric-only setup, with 8 of 14 significantly below (7 of them OpenAI). In particular, OpenAI models' accuracies average to only 29.6%, and seem to decrease with higher ECI (Pearson r = -0.74), suggesting a systematic bias.The shortcutThe TASTE benchmark is a benchmark where models decide which of two AI-"
+  },
+  {
+    "source": "LessWrong",
+    "category": "policy",
+    "title": "Waluigi World",
+    "url": "https://www.lesswrong.com/posts/RvBivWJMbeA6trzN5/waluigi-world",
+    "time": "2026-11-15T22:16:48+00:00",
+    "summary": "She was like the pause in the room but didn’t know it yet — pregnant.Tatiana lit a cigarette. She had volunteered to speak first.“Spring was late, and so was my period. Something has been going on recently. I invited over these two I met at a bookstore, a guy and a girl. The guy – as soon as he looked at me, I froze. My vulva was as cold as his heart. I was sitting down. She walked over to me. She came right up to me and pushed my head into her thighs. Her vagina was like a womb.”Waluigi nodded "
+  },
+  {
+    "source": "OpenAI Blog",
+    "category": "announcements",
+    "title": "A step toward defining the Standard Model on a lattice",
+    "url": "https://openai.com/index/step-toward-defining-the-standard-model",
+    "time": "2026-11-15T22:00:01+00:00",
+    "summary": "Explore a candidate nonperturbative lattice definition of the Standard Model and how GPT-6 Astra helped turn the idea into a detailed proof."
+  },
+  {
+    "source": "OpenAI Blog",
+    "category": "announcements",
+    "title": "Our new blog for science",
+    "url": "https://openai.com/index/our-new-blog-for-science",
+    "time": "2026-11-15T22:00:00+00:00",
+    "summary": "The OpenAI science blog shares new findings, practical methods, and firsthand accounts from researchers using AI to advance scientific discovery."
+  },
+  {
+    "source": "TechCrunch AI",
+    "category": "industry",
+    "title": "Is bad news for Jensen Huang also bad news for the AI industry?",
+    "url": "https://techcrunch.com/2026/11/15/is-bad-news-for-jensen-huang-also-bad-news-for-the-ai-industry/",
+    "time": "2026-11-15T21:56:35+00:00",
+    "summary": "\"Jensen is Nvidia, right? And so much of this economy is riding on Nvidia.\""
+  },
+  {
+    "source": "LessWrong",
+    "category": "policy",
+    "title": "What Futures Do AI Models Want? An Exploratory Character Evaluation of AI for AI Strategy",
+    "url": "https://www.lesswrong.com/posts/A9o8f2jjwxRiph2ht/what-futures-do-ai-models-want-an-exploratory-character",
+    "time": "2026-11-15T21:47:30+00:00",
+    "summary": "(This is cross-posted from my blog) Epistemic Status: Evaluation represents approximately 2 weeks of work. This is mostly exploratory evaluation, and the code for evaluation was made using LLMs.“Before I draw nearer to that stone to which you point, answer me one question. Are these the shadows of the things that will be, or are they shadows of things that may be only?” ~ Charles DickensModels may soon be involved in some of the most important decisions humanity makes about its long-term future."
+  },
+  {
+    "source": "LessWrong",
+    "category": "policy",
+    "title": "Giving Up on Saving the World",
+    "url": "https://www.lesswrong.com/posts/hvDpcoLqpHvQEmx8B/giving-up-on-saving-the-world",
+    "time": "2026-11-15T19:00:57+00:00",
+    "summary": "When I was 19, I decided I was going to save the world.Now, 25 years later, I’ve decided to give up.To explain why and what giving up means, we first need to go back to how I ever got into the world-saving business. As a kid, I loved computers, and I started teaching myself to program them when I was 8. By 16 I could write real programs that did interesting things, and it was also around this time I got into Linux. And since I was into Linux, that meant I read Slashdot.If you weren’t into Linux "
+  },
+  {
+    "source": "LessWrong",
+    "category": "policy",
+    "title": "Easier To Be Good",
+    "url": "https://www.lesswrong.com/posts/4zbvagnfFsJbkSxij/easier-to-be-good",
+    "time": "2026-11-15T18:34:37+00:00",
+    "summary": "I do not consider myself a good person. I am lazy and frivolous and inconsiderate, I care too much about intelligence and status, I am a snob and a hypocrite, and I do not call my mother enough.I don't mean this to read as self-hatred, nor a show of false modesty. Among all the people I know there is only a scant handful of people I would consider genuinely good, and so it is unremarkable to me that I wouldn't find myself amongst their number.You do not need to be good to desire more goodness in"
+  },
+  {
+    "source": "LessWrong",
+    "category": "policy",
+    "title": "Bayesian Games with Nukes",
+    "url": "https://www.lesswrong.com/posts/b2tRteNzTGbEaDTMN/bayesian-games-with-nukes",
+    "time": "2026-11-15T18:22:06+00:00",
+    "summary": "How we all learned to stop worrying and love the bomb... for a while\nListen to this post on the Non-Zero-Sum James podcast\n\nNearing the end of 1961 the Soviet Union tested a 50-megaton hydrogen bomb equivalent to 3800 Hiroshima bombs. At the same time an intelligence officer by the name of Juanita Moody and her team became aware of Soviet ships delivering large cargo, under cover of darkness in Cuba—what if such a bomb was being delivered to the doorstep of the US?\nA surprise attack of that magn"
+  },
+  {
+    "source": "Product Hunt",
+    "category": "tools",
+    "title": "Canvas by AgentGrid.io",
+    "url": "https://www.producthunt.com/products/agentgrid-io",
+    "time": "2026-11-15T06:22:09+00:00",
+    "summary": "\n            Agentic Design Canvas - A visual way to collaborate with AI\n          \n\nDiscussion\n            |\n            Link\n"
+  },
+  {
+    "source": "Product Hunt",
+    "category": "tools",
+    "title": "Perit Marketplace",
+    "url": "https://www.producthunt.com/products/perit-marketplace",
+    "time": "2026-11-15T05:04:05+00:00",
+    "summary": "\n            Sell your data and RL tasks to frontier AI labs\n          \n\nDiscussion\n            |\n            Link\n"
+  },
+  {
+    "source": "Simon Willison",
+    "category": "tools",
+    "title": "datasette-apps 0.4a0",
+    "url": "https://simonwillison.net/2026/Nov/15/datasette-apps/",
+    "time": "2026-11-15T04:02:45+00:00",
+    "summary": "Release: datasette-apps 0.4a0\nDatasette Apps are sandboxed HTML and JavaScript applications that live inside Datasette - think Claude Artifacts, but these ones can run SQL queries against your data.\n0.4a0 adds support for linking: you can link to an app with #fragments in the URL and the app can see and use those, plus supported URL schemes are reported back to Datasette Agent so it can help write apps that link to each other.\nThis means you can have e.g. an app that shows details about a specif"
+  },
+  {
+    "source": "Simon Willison",
+    "category": "tools",
+    "title": "datasette-agent 0.6a0",
+    "url": "https://simonwillison.net/2026/Nov/15/datasette-agent/",
+    "time": "2026-11-15T03:49:47+00:00",
+    "summary": "Release: datasette-agent 0.6a0\nAccumulated small fixes for Datasette Agent, my agent plugin for Datasette that lets you ask questions about your data. Most notably, it now adds an agent prompt directly to the Datasette homepage, with support for hash-mentions of tables and queries:\n\nTags: datasette-agent, llm, datasette, llms, ai, generative-ai"
+  },
+  {
+    "source": "HuggingFace Papers",
+    "category": "research",
+    "title": "HALO: Human-Aligned Data Collection for WhoLe-body MObile Manipulation",
+    "url": "https://huggingface.co/papers/2611.16439",
+    "time": "2026-11-12T00:00:00.000Z",
+    "summary": "Learning whole-body mobile manipulation requires demonstrations that coordinate bimanual actions with locomotion across extended workspaces. However, existing interfaces trade off direct robot control, perception and action alignment, and natural operator mobility, making such demonstrations difficult to collect. We introduce HALO, a human-aligned data collection system for whole-body mobile manipulation. The system aligns the operator's perception and action space with the robot while preservin",
+    "heat": "2",
+    "github_url": "https://arxiv.org/abs/2611.16439"
+  },
+  {
+    "source": "HuggingFace Papers",
+    "category": "research",
+    "title": "EgoX: Egocentric Cross-Embodiment Manipulation with Embodiment Dreaming",
+    "url": "https://huggingface.co/papers/2611.16728",
+    "time": "2026-11-12T00:00:00.000Z",
+    "summary": "Generalist manipulation policies can benefit from the complementary experience of humans, real robots, and simulated agents. However, differences in morphology, sensing, and control interfaces make it difficult to learn effectively from their combined demonstrations. We introduce EgoX, an egocentric cross-embodiment learning framework that organizes heterogeneous demonstrations through semantically corresponding observation and action modalities. EgoX pretrains a Modularized Cross-Embodiment Tra",
+    "heat": "1",
+    "github_url": "https://arxiv.org/abs/2611.16728"
+  },
+  {
+    "source": "HuggingFace Papers",
+    "category": "research",
+    "title": "Back to Pixels: Lifting Latent Video Diffusion into Pixel Space",
+    "url": "https://huggingface.co/papers/2611.17336",
+    "time": "2026-11-12T00:00:00.000Z",
+    "summary": "Frontier video generation models work in a VAE latent space that compresses video in both space and time. This compression made training tractable, but now limits high-resolution, controllable, and interactive generation -- doubling resolution quadruples token count, conditions apply to groups of frames rather than individual ones, and each response must wait for the rest of its multi-frame block. We present PixVid, a simple yet effective method that lifts a pretrained latent video model to dire",
+    "heat": "6",
+    "github_url": "https://arxiv.org/abs/2611.17336"
+  },
+  {
+    "source": "HuggingFace Papers",
+    "category": "research",
+    "title": "Consensus Capture in Reference-Based UAV Video Stabilization: A Benchmark on Dynamic Urban Scenes",
+    "url": "https://huggingface.co/papers/2611.17190",
+    "time": "2026-11-12T00:00:00.000Z",
+    "summary": "Reference-frame stabilization registers every frame of a hovering-drone video onto one reference frame, keeping object positions comparable. The registration pipelines it relies on are selected on feature-matching benchmarks in which only the camera moves. Over a busy intersection, vehicles moving together supply mutually consistent correspondences that can draw the robust homography estimate toward their motion: consensus capture, which inlier statistics cannot flag. A two-part benchmark measur",
+    "heat": "4",
+    "github_url": "https://arxiv.org/abs/2611.17190"
+  },
+  {
+    "source": "HuggingFace Papers",
+    "category": "research",
+    "title": "The Value of Thinking: Learning When to Reason in Hybrid Decision Models",
+    "url": "https://huggingface.co/papers/2611.16961",
+    "time": "2026-11-12T00:00:00.000Z",
+    "summary": "Existing adaptive-reasoning methods shorten the explicit reasoning a model writes, or skip it by switching modes; either way the answer is still written out token by token. Rather than deciding how much to think, we explore a different paradigm, zero-or-T thinking: a single model either answers from the implicit thinking inside one forward pass, generating no token, or performs full autoregressive reasoning at a cost of T tokens when that is worth paying. We realise it in a hybrid decision model",
+    "heat": "7",
+    "github_url": "https://arxiv.org/abs/2611.16961"
+  },
+  {
+    "source": "HuggingFace Papers",
+    "category": "research",
+    "title": "Unbundling Multimodal Vision Encoding",
+    "url": "https://huggingface.co/papers/2611.17334",
+    "time": "2026-11-12T00:00:00.000Z",
+    "summary": "How multimodal language models should encode visual input remains up for debate. Most models use a pretrained vision encoder, while some recent recipes train the encoder from scratch with the language model or remove it entirely. Vision encoders bundle together three design choices: a visual prior from upstream pretraining, dedicated vision capacity, and pre-fusion placement of that capacity (i.e., before the multimodal backbone). Because published models also differ in data, architecture, and c",
+    "heat": "18",
+    "github_url": "https://arxiv.org/abs/2611.17334"
+  },
+  {
+    "source": "HuggingFace Papers",
+    "category": "research",
+    "title": "Experience-Handoff Reinforcement Learning for Recursive Self-Improvement",
+    "url": "https://huggingface.co/papers/2611.16409",
+    "time": "2026-11-12T00:00:00.000Z",
+    "summary": "It is common to train Large Language Models (LLMs) for agentic tasks with Reinforcement Learning (RL) from scalar rewards. However, this throws away the fine-grained information about the environment that the agent experienced during the trial (e.g., error logs). To utilize this rich information, recent works wrap the agent in a harness that refines its own inputs through reflection or compaction and hands past experience to future rollouts, but the construction of the handed-off artifacts (e.g.",
+    "heat": "7",
+    "github_url": "https://arxiv.org/abs/2611.16409"
+  },
+  {
+    "source": "HuggingFace Papers",
+    "category": "research",
+    "title": "DeepStress: Stress-Testing Deep Search Agents",
+    "url": "https://huggingface.co/papers/2607.13920",
+    "time": "2026-11-12T00:00:00.000Z",
+    "summary": "While search agents demonstrate impressive capabilities in multi-step question answering, their robustness to poor-quality evidence remains under-explored. Such evidence is rare in benchmark corpora, and resulting failures are hard to reproduce. We propose DeepStress, a dynamic stress-testing framework that subjects agents to degraded evidence at controlled rates. It replaces the retrieval module with a synthetic environment where documents are generated dynamically for each query, under indepen",
+    "heat": "7",
+    "github_url": "https://arxiv.org/abs/2607.13920"
+  },
+  {
+    "source": "HuggingFace Papers",
+    "category": "research",
+    "title": "A frontier machine intelligence for human neuroimaging",
+    "url": "https://huggingface.co/papers/2611.15094",
+    "time": "2026-11-11T00:00:00.000Z",
+    "summary": "Medical imaging is essential for diagnosing disease, guiding treatment and monitoring patients over time. Although artificial intelligence has advanced image interpretation, existing medical models often address restricted tasks, while general-purpose proprietary models lack access to private clinical imaging required to achieve medical expertise. Developing models that can interpret complex examinations and communicate their findings in the context of clinical decisions remains a major challeng",
+    "heat": "2",
+    "github_url": "https://arxiv.org/abs/2611.15094"
+  },
+  {
+    "source": "HuggingFace Papers",
+    "category": "research",
+    "title": "JustRUA: A Controlled Study of GPT-6 Robot-Use Agents",
+    "url": "https://huggingface.co/papers/2611.16009",
+    "time": "2026-11-11T00:00:00.000Z",
+    "summary": "GPT-6 Astra can drive a robot arm directly through a fixed harness, and scores of such robot-use agents on RoboDojo have risen quickly since. Reported systems differ in harness and test subset and often change several designs at once, so it is hard to tell which choices produce the gains. We take these designs apart and test them in one framework, along the harness around the model, the action interface, the reuse of experience and the scene geometry given to the model. A lean harness that keeps",
+    "heat": "5",
+    "github_url": "https://arxiv.org/abs/2611.16009"
+  },
+  {
+    "source": "HuggingFace Papers",
+    "category": "research",
+    "title": "Open Vision Banana: A Fully Open Recipe for Generative Visual Perception",
+    "url": "https://huggingface.co/papers/2611.15844",
+    "time": "2026-11-11T00:00:00.000Z",
+    "summary": "Recent work suggests that pretrained image generators encode real-world understanding beyond image synthesis. Vision Banana exploits this by framing vision tasks as conditional image editing. However, its data, weights, code, and implementation details are not public. We present Open Vision Banana (OVB), a fully open and reproducible recipe for converting pretrained generators into unified multi-task perception systems. Our analyses identify the design choices that matter most for generalization",
+    "heat": "37",
+    "github_url": "https://arxiv.org/abs/2611.15844"
+  },
+  {
+    "source": "HuggingFace Papers",
+    "category": "research",
+    "title": "Emergent Biological Capabilities in a Foundation Model for Molecular Interactions",
+    "url": "https://huggingface.co/papers/2611.14504",
+    "time": "2026-11-10T00:00:00.000Z",
+    "summary": "Foundation models trained on large unlabeled corpora develop emergent capabilities, tasks that go beyond the training objective. We extend this paradigm to multimodal biology with Bonbon, a foundation model for molecular interactions trained on approximately 3.2 trillion tokens of paired protein-ligand sequences. From a single representation space, Bonbon exhibits three zero-shot emergent capabilities at hierarchical levels of resolution: functional (mechanism of action), residue (binding site l",
+    "heat": "2",
+    "github_url": "https://arxiv.org/abs/2611.14504"
+  },
+  {
+    "source": "HuggingFace Papers",
+    "category": "research",
+    "title": "A Cross-Scenario Survey and Analysis of Self-Evolving Multimodal Agents",
+    "url": "https://huggingface.co/papers/2611.14256",
+    "time": "2026-11-10T00:00:00.000Z",
+    "summary": "Recent work shows that multimodal agents increasingly self-improve without recurring human annotation. However, each self-improvement mechanism is designed and evaluated within a single scenario, leaving its preconditions unverified under cross-scenario transfer. This survey investigates the structural source of asymmetric mechanism transfer across four scenarios: multimodal reasoning, multimodal generation, GUI and Web navigation, and embodied manipulation. We first formalize the self-evolving ",
+    "heat": "3",
+    "github_url": "https://arxiv.org/abs/2611.14256"
+  },
+  {
+    "source": "HuggingFace Papers",
+    "category": "research",
+    "title": "Structured Confidence Perturbation via Fisher Geometry for Adversarial Training",
+    "url": "https://huggingface.co/papers/2611.14046",
+    "time": "2026-11-10T00:00:00.000Z",
+    "summary": "Adversarial training is often plagued by \"pseudo-attacks\", perturbations that significantly increase the loss value but fail to truly alter the model's confidence structure. To address this, we propose two complementary approaches to directly attack and defend against confidence structure deformation. First, building upon the traditional loss maximization perspective, we introduce a hybrid objective that integrates cross-entropy and KL divergence, encouraging adversarial examples to simultaneous",
+    "heat": "2",
+    "github_url": "https://arxiv.org/abs/2611.14046"
+  },
+  {
+    "source": "HuggingFace Papers",
+    "category": "research",
+    "title": "The Narrative Gap: Can LLMs Help Us Navigate Diverse Narratives Across Languages?",
+    "url": "https://huggingface.co/papers/2611.12750",
+    "time": "2026-11-09T00:00:00.000Z",
+    "summary": "Large language models (LLMs) increasingly mediate how people seek and consume information, including accounts that differ across languages and regions, especially on contested topics. Supporting diverse information seeking requires models to help users navigate competing narratives across languages and information streams. We define six capabilities necessary for diverse multilingual information seeking: three foundational capabilities for narrative inclusion, narrative exclusion, and missing na",
+    "heat": "3",
+    "github_url": "https://arxiv.org/abs/2611.12750"
+  },
+  {
+    "source": "HuggingFace Papers",
+    "category": "research",
+    "title": "HiVe-Mem: Interleaving Horizontal Memory Expansion and Vertical Evidence Composition for Multimodal Agents",
+    "url": "https://huggingface.co/papers/2611.12872",
+    "time": "2026-11-09T00:00:00.000Z",
+    "summary": "As multimodal agents accumulate increasingly long interaction histories, effectively retrieving and utilizing past information becomes critical for long-term interaction. Existing memory systems typically rely on semantic retrieval over compressed memories and expose predefined representations, which may miss relevant memories and overlook heterogeneous evidence needs across queries. We introduce \\hivemem, a multimodal memory framework that interleaves \\textsc{H}or\\textsc{i}zontal Memory Expansi",
+    "heat": "4",
+    "github_url": "https://arxiv.org/abs/2611.12872"
+  },
+  {
+    "source": "HuggingFace Papers",
+    "category": "research",
+    "title": "Who Remembers What? Multi-Granularity Memory Extraction for Multi-User, Multi-Agent Interaction",
+    "url": "https://huggingface.co/papers/2611.10439",
+    "time": "2026-11-07T00:00:00.000Z",
+    "summary": "Self-evolving agents improve their own skills, memory, and harness code from experience without retraining the base LLM, and group-evolving agents go further by sharing these lessons across agents. Yet most such systems overlook that sharing across users and heterogeneous agents requires deciding who can benefit from each lesson and what information must remain private. We present MixUA, a memory system that distills independent user-agent trajectories into lessons and assigns each lesson to a u",
+    "heat": "14",
+    "github_url": "https://arxiv.org/abs/2611.10439"
+  },
+  {
+    "source": "HuggingFace Papers",
+    "category": "research",
+    "title": "TurtLES: A Large-Scale Benchmark for Turbulent 3D Neural PDE Surrogates",
+    "url": "https://huggingface.co/papers/2611.09567",
+    "time": "2026-11-06T00:00:00.000Z",
+    "summary": "Machine-learning surrogates are increasingly used to accelerate computational fluid dynamics, yet progress is limited by the lack of benchmarks capturing realistic, time-dependent turbulent flows. We introduce TurtLES, a 14 TB dataset of 3D turbulent cylinder wakes in the shear-layer transition regime, computed via high-fidelity implicit large-eddy simulations. The dataset contains 400 trajectories of 400 time steps each, with 3-11 million points per frame, spanning variations in geometry, Reyno",
+    "heat": "4",
+    "github_url": "https://arxiv.org/abs/2611.09567"
+  },
+  {
+    "source": "HuggingFace Papers",
+    "category": "research",
+    "title": "Learning the Task or Learning the Verifier? Rethinking Criteria Exposure in Embodied Self-Improvement",
+    "url": "https://huggingface.co/papers/2611.08318",
+    "time": "2026-11-05T00:00:00.000Z",
+    "summary": "Self-improving embodied agents are increasingly being developed and compared on robot simulation benchmarks. Several recent works expose the benchmark's success criteria to the learning agent, a practice we call Criteria Exposure (CE). These criteria, originally written to verify policies trained by imitation learning, often demand more than the corresponding language instructions, so a score from such a verifier may not faithfully reflect whether the instructed task was completed, especially fo",
+    "heat": "21",
+    "github_url": "https://arxiv.org/abs/2611.08318"
+  },
+  {
+    "source": "HuggingFace Papers",
+    "category": "research",
+    "title": "Loopback Transformer: Towards a Unified View of Residual Looped Transformers",
+    "url": "https://huggingface.co/papers/2611.07226",
+    "time": "2026-11-04T00:00:00.000Z",
+    "summary": "Looped Transformers reduce parameter count by repeatedly applying shared blocks, but parameter sharing alone does not determine how the results of repeated computation are reused. We take the depth-memory view of residual connections and analyze which representation is stored after each block application and how later reads weight it. A full block output contains both its input and its new update, so weighting that output also reweights the history already carried by the input. Reading individua",
+    "heat": "2",
+    "github_url": "https://arxiv.org/abs/2611.07226"
+  }
+]
