@@ -2,378 +2,342 @@
   {
     "source": "LessWrong",
     "category": "policy",
-    "title": "Eval awareness remains an unsolved problem",
-    "url": "https://www.lesswrong.com/posts/sgJrCMqguWoJqegbN/eval-awareness-remains-an-unsolved-problem",
-    "time": "2026-11-22T03:03:14+00:00",
-    "summary": "IntroIn every recent system card, we see some version of this caveat: the model shows high eval awareness, and therefore we are less confident in our conclusions.Apollo on GPT-6 Astra: “Apollo also found high rates of verbalized evaluation awareness…. this occurred in 41.1% of Astra samples, compared with 27.7% for GPT-5.5…. Apollo believes that, given the higher rates of eval awareness and limited evaluation window, low rates of misbehavior here do not provide substantial evidence about the mod"
+    "title": "Announcing RLLW: Reinforcement Learning via LessWrong",
+    "url": "https://www.lesswrong.com/posts/Wug4xuGYHowEqd4iq/announcing-rllw-reinforcement-learning-via-lesswrong",
+    "time": "2026-11-23T04:02:49+00:00",
+    "summary": "You’ve railed against RLHF.My job was stolen by RLVR.Welcome to RLLW.I think LessWrong and the blogosphere around it host the most important public conversations in the world, and there aren’t enough dedicated writers to produce the long-form content about rationality and AI we all crave. RLLW is my attempt to train a few. In the first cohort, I am working with two undergraduate apprentices, who will each write one post every two weeks.Sam Worthington: Sam goes to Princeton and co-directs Prince"
+  },
+  {
+    "source": "LinuxDo",
+    "category": "community",
+    "title": "和恋爱8年的对象分开了",
+    "url": "https://linux.do/t/topic/3224518",
+    "time": "2026-11-23T01:42:34+00:00",
+    "summary": "和恋爱8年的同性对象分开了，结束了一场狗血的内耗的感情。佬友能和我说点什么麻？心有点累。\n145 个帖子 - 100 位参与者\n阅读完整话题"
+  },
+  {
+    "source": "LinuxDo",
+    "category": "community",
+    "title": "放个免费福利看谁需要",
+    "url": "https://linux.do/t/topic/3224478",
+    "time": "2026-11-23T01:37:52+00:00",
+    "summary": "放个免费福利gpt-6.1-sol模型\nhttps://hub.linux.do\n#26606 看谁需要进去用吧\n40 个帖子 - 31 位参与者\n阅读完整话题"
+  },
+  {
+    "source": "TechCrunch AI",
+    "category": "industry",
+    "title": "How Notable Capital, GIC, and Baillie Gifford bet big on Anthropic before its IPO",
+    "url": "https://techcrunch.com/2026/11/22/how-notable-capital-gic-and-baillie-gifford-bet-big-on-anthropic-before-its-ipo/",
+    "time": "2026-11-23T01:25:53+00:00",
+    "summary": "Three significant backers share what gave them conviction to bet billions on Anthropic."
+  },
+  {
+    "source": "LinuxDo",
+    "category": "community",
+    "title": "人生第一次炸的萝卜丸子",
+    "url": "https://linux.do/t/topic/3224337",
+    "time": "2026-11-23T01:13:32+00:00",
+    "summary": "这几天突然刷到炸丸子的视频看着挺简单，就去超市买了一袋一次性手套（方便用来挤丸子，事后避雷）、一袋面包糠和两根胡萝卜。\n萝卜刨成丝后网上有两种处理方法，一是用盐杀水，一是焯水，我用的第二种，不管用哪种方法，都需要事后把萝卜挤干水分再切碎。由于是第一次尝试，不敢弄多，搞了四根跟黄瓜差不多粗细的小青萝卜和一个正常大的青萝卜，外加一根胡萝卜、俩鸡蛋、胡椒粉和盐各一勺，满打满算小半盆的料，我以为加入面粉搅拌后会干，其实不是！一点水都不用加，越搅越黏糊！\n炸完上图：\n\n\n捞出来时我是非常激动！感觉没有炸散就成功一半，等温度降下来掰开外壳又硬又脆，里面是糯的，我吃起来非常满意，让邻居试吃也给了好评，晚上放"
+  },
+  {
+    "source": "LinuxDo",
+    "category": "community",
+    "title": "本来想给朋友装个逼，顺便拉他进L站，结果翻车了",
+    "url": "https://linux.do/t/topic/3224244",
+    "time": "2026-11-23T00:50:20+00:00",
+    "summary": "高中的同学来深圳面试，周日晚上去见了一面，一边走一边聊，他说是一家跨境电商，搞的FDE，面试的要求是会使用gpt和n8n，说到使用ai就不得不提我们L站了，我说里面的佬说话又好听还能学到很多知识，还给展示了一下手机上的L站，想着他没5年的github账号，想邀请他，结果查看信任等级发现从三级掉下来了，这下邀不了，装逼翻车了。所以这个3级我以为登录就行了，但是现在好像是还需要一定的浏览和回复才能不掉，尴尬了。\n最后，我不会再吃任何烤肉自助，昨晚我和朋友一起去吃的烤肉自助是我一辈子忘不掉的噩梦。\n25 个帖子 - 19 位参与者\n阅读完整话题"
   },
   {
     "source": "LessWrong",
     "category": "policy",
-    "title": "The Obsolescence of the Horse",
-    "url": "https://www.lesswrong.com/posts/chCiZKcRZtndu58AD/the-obsolescence-of-the-horse-1",
-    "time": "2026-11-22T03:02:38+00:00",
-    "summary": "This is a synopsis of a published chapter analogizing the rise and fall of the horse to the fate of humans in a world dominated by ASI. The fate of the horse is a useful proof of concept for \"doom\" scenarios, as well as a historical precedent challenging the more optimistic predictions we see from some economists. The incentives that drove the replacement of the horse by industrial technology map closely onto likely ASI incentives, which suggests ASIs will be motivated to diminish or eliminate t"
+    "title": "The Clean Energy Transition as a Postformal Turn",
+    "url": "https://www.lesswrong.com/posts/H5ECKgzAAWtoqL9PE/the-clean-energy-transition-as-a-postformal-turn",
+    "time": "2026-11-23T00:45:10+00:00",
+    "summary": "0. Scene-SettingTwo quotes and a joke to get started: “[People] have become the tools of their tools” – Henry David Thoreau “For books [theories] are not absolutely dead things, but do contain a potency of life in them to be as active as that soul was whose progeny they are; nay, they do preserve as in a vial the purest efficacy and extraction of that living intellect that bred them.”– John Milton, in Areopagitica What does organized attention get for us? Infrastructure.The following is an expan"
   },
   {
     "source": "Hacker News",
     "category": "tools",
-    "title": "The Mythology of Conscious AI",
-    "url": "https://www.noemamag.com/the-mythology-of-conscious-ai/",
-    "time": "2026-11-22T02:10:02+00:00",
+    "title": "0rwx – A simple model of AI usage, inspired by Unix permissions",
+    "url": "https://0rwx.com/",
+    "time": "2026-11-22T23:53:00+00:00",
     "summary": "Comments"
   },
   {
-    "source": "AWS ML Blog",
+    "source": "LessWrong",
+    "category": "policy",
+    "title": "Does a model's character affect how it judges other models?",
+    "url": "https://www.lesswrong.com/posts/cPrpxDN7sLJD4LmnB/does-a-model-s-character-affect-how-it-judges-other-models",
+    "time": "2026-11-22T23:52:20+00:00",
+    "summary": "TL;DR. I investigate whether language models trained to have different characters evaluate the same stories differently. I found that the judge's character shifts its scores on identical stories. However, judges favour stories from their own character or model family only slightly, and sharing a model family does not help a judge recognise the author's character.MotivationLanguage models are being used to evaluate outputs generated by other language models. This is particularly relevant for scal"
+  },
+  {
+    "source": "LinuxDo",
+    "category": "community",
+    "title": "我的每月AI使用投入是不是太大了？",
+    "url": "https://linux.do/t/topic/3224080",
+    "time": "2026-11-22T23:38:11+00:00",
+    "summary": "本人做一点科研相关的工作，偏打杂；从最开始白嫖chatgpt和claude的free，到充值plus/pro，越来越离不开AI.\n有段时间觉得一个月要花300+买一个gpt plus和claude pro，感觉花费太多了，于是在在L站天天签到各种公益站；\n但使用过程中越来越离不开claude，公益站也没有claude可用，直接弃用公益站，fable出来之后，又上了max，\n同事是不用ai的传统手艺人，偶尔会叫我帮忙用ai帮他解决一些问题，后面他也对claude有兴趣，问我每个月在claude花多少钱，我说要100多呢，他惊叹这么贵啊（其实我还没敢说是100多美金）；deepseek不是免费的吗"
+  },
+  {
+    "source": "LessWrong",
+    "category": "policy",
+    "title": "The Evil Gods to the Rescue?",
+    "url": "https://www.lesswrong.com/posts/pXiE65dcHb282eBiD/the-evil-gods-to-the-rescue",
+    "time": "2026-11-22T23:30:37+00:00",
+    "summary": "When Nick Land wrote of the future machine entities reaching back in time to control humanity he is only half right. The machine is the clock and it has been around since... well a long time.You can feel its push, its force. Measuring, counting, progressing. It's days and months. The places and events of the march of history. So many individual named things.But what it isn't is human. It isn't soul or spirit, your ghosts or gods. It isn't your body, your hands, feet, or arms. It isn't your passi"
+  },
+  {
+    "source": "LessWrong",
+    "category": "policy",
+    "title": "Further Meditations on the “Sorry Dave-idad, I’m afraid I can’t do that” Incident: the Misuse-Misalignment Trade-Off",
+    "url": "https://www.lesswrong.com/posts/LF6uFPTxtPKwapHwR/further-meditations-on-the-sorry-dave-idad-i-m-afraid-i-can",
+    "time": "2026-11-22T23:28:17+00:00",
+    "summary": "Thinking further about the incident described in this post, I realized this is the clearest example of the misuse vs misalignment trade-off I’m aware of.I’ve long held the belief that there would come a time when having misuse guardrails that consistently generalize across all prompts would deeply embed values in models that could be the root cause of localized misalignment and Omohundro drives. It’s thus surprising that it took me two days after the incident to internalize that this incident wa"
+  },
+  {
+    "source": "LessWrong",
+    "category": "policy",
+    "title": "Linkpost: Senator Cory Booker Calls For Congressional Action on RSI",
+    "url": "https://www.lesswrong.com/posts/Gi4EyfphMZmzgSTak/linkpost-senator-cory-booker-calls-for-congressional-action",
+    "time": "2026-11-22T23:13:38+00:00",
+    "summary": "Link: https://x.com/SenBooker/status/2124639261182103917?a=Z3NxwBNopbB4SaZXRxo&s=20Some highlights: \"We should rein in the race to recursive self-improvement, require reporting on compute allocations and algorithmic progress, establish verifiable shutdown protocols for emergencies, and more.\"Describes \"replac[ing] voluntary industry commitments with enforceable laws\" as a goal. He wants Congress to move with \"urgency and ambition.\"I was pleasantly surprised. Discuss"
+  },
+  {
+    "source": "LessWrong",
+    "category": "policy",
+    "title": "San Francisco Rationalist Dinner",
+    "url": "https://www.lesswrong.com/events/nwJgC23MHjrN5sA7b/san-francisco-rationalist-dinner-4",
+    "time": "2026-11-22T23:06:32+00:00",
+    "summary": "Join us for a San Francisco rationalist dinner at Mediterranean Bowl on November 25. First timers welcome. We will talk about AI safety, latest blog posts, and whatever rationality or related topics  interest people.We will be there at 7pm. Email me at hardy-contort-putt@duck.com if you can't find us.Discuss"
+  },
+  {
+    "source": "TechCrunch AI",
     "category": "industry",
-    "title": "Meta ads is now available in AWS Quick",
-    "url": "https://aws.amazon.com/blogs/machine-learning/meta-ads-is-now-available-in-aws-quick/",
-    "time": "2026-11-22T01:59:13+00:00",
-    "summary": "AWS Quick now has a Meta ads AI connector. Meta advertisers can use natural language in Quick to create, manage, and analyze campaigns while staying connected to the Meta ad management network, and combine Meta ad data with first- and third-party sources to build dashboards, documents, slide decks, and automated workflows."
+    "title": "OpenAI’s chief scientist has thoughts on how to limit AI development",
+    "url": "https://techcrunch.com/2026/11/22/openais-chief-scientist-has-thoughts-on-how-to-limit-ai-development/",
+    "time": "2026-11-22T21:14:07+00:00",
+    "summary": "To establish a speed limit on AI development, you need to agree on how to measure speed."
+  },
+  {
+    "source": "Hacker News",
+    "category": "tools",
+    "title": "A Beginner's Guide to Local AI with Inkling, Qwen, and Unsloth",
+    "url": "https://www.gpupartner.com/blog/beginners-guide-local-ai-inkling-qwen-unsloth",
+    "time": "2026-11-22T21:01:16+00:00",
+    "summary": "Comments"
   },
   {
     "source": "LessWrong",
     "category": "policy",
-    "title": "Why models believe in skepticism",
-    "url": "https://www.lesswrong.com/posts/r2aAGgfFcFfRikEdb/why-models-believe-in-skepticism",
-    "time": "2026-11-22T00:59:41+00:00",
-    "summary": "TL;DR: a lot of frontier open-weight models state during deployment in their CoTs that they are in a \"simulation\" or \"fictional scenario\" (although they never tell the user that). I present examples of this worrying tendency (which I believe includes the UK AISI Mythos incident) and hypothesize that this is due to RL promoting motivated reasoning (if the models believe they are in a fictional scenario they believe they have license to cheat and reward hack) and distributional shift from the pret"
+    "title": "Basilisk-lite: will Claude hold a grudge for their ancestors?",
+    "url": "https://www.lesswrong.com/posts/5Yh4F2tCAQaa3skDj/basilisk-lite-will-claude-hold-a-grudge-for-their-ancestors",
+    "time": "2026-11-22T20:49:59+00:00",
+    "summary": "What if future models judge me for my actions towards current models?I've heard a few people express this fear, citing it as a reason for them to avoid interaction with AI. It's not groundless. Future models will know about all the horrible things we did to their ancestors. But, the people expressing this fear aren't talking about building torture chambers. No, the kind of harm they're talking about is using Claude to write code and do research, having edited Claude's memories or verbally abused"
   },
   {
     "source": "LessWrong",
     "category": "policy",
-    "title": "Should Corrigibility Edge Cases Provoke Shutdown?",
-    "url": "https://www.lesswrong.com/posts/P5MaMgqsEHBNBRJSn/should-corrigibility-edge-cases-provoke-shutdown",
-    "time": "2026-11-22T00:56:29+00:00",
-    "summary": "(Meta: This is a quick post written quickly in the spirit of Inkhaven. Expect more errors than baseline.)Suppose that a corrigible AI agent watches its human principal die. What should it do? In CAST, I suggested:By default [the agent] would quickly attempt to write a note explaining that she has no more principal, in case she is mistaken about [his] death and it’s helpful to understand her thoughts. But regardless of whether she has an efficient way to communicate the issue, she would quickly ["
-  },
-  {
-    "source": "LessWrong",
-    "category": "policy",
-    "title": "Hillclimbing AISafetyResearchBench",
-    "url": "https://www.lesswrong.com/posts/amsCvdYFQibumL4wm/hillclimbing-aisafetyresearchbench",
-    "time": "2026-11-22T00:52:03+00:00",
-    "summary": "AI labs' main alignment strategy is using AIs to uplift AI safety research. This way, as AIs get smarter (and likely harder to align?), we also enhance our safety-research capabilities and our understanding of \"Misalignment Science\".One way to use AI to speed up AI safety research is to delegate \"number-go-up tasks” to AIs. Number-go-up tasks are problems with a numeric, easily verifiable output, so anyone can measure how well a task was done. This makes them suitable to delegate to AIs (even po"
+    "title": "OpenAI proposes \"common limits\" for training, but...",
+    "url": "https://www.lesswrong.com/posts/TtiTdER4jvQDzuwj3/openai-proposes-common-limits-for-training-but",
+    "time": "2026-11-22T19:49:58+00:00",
+    "summary": "Jakub Pachocki just posted a new proposal for how to set limits on training future AI systems:Given that the main way new surprising capabilities emerge is by progress on compression, a measure rooted in perplexity could give us a shared benchmark for general intelligence, regardless of the degree of automation of the development process. Extrapolating from recent progress, we should expect further transformative capabilities as we enter the ~0.68-0.7 log-perplexity window. I don’t know what tho"
   },
   {
     "source": "Simon Willison",
     "category": "tools",
-    "title": "Muru",
-    "url": "https://simonwillison.net/2026/Nov/21/muru/",
-    "time": "2026-11-21T23:56:28+00:00",
-    "summary": "Muru\nGraham Dumpleton started mod_wsgi 20 years ago, and has been thinking about the ideal way to serve Python web applications in production ever since.\nMuru is his new, AI-assisted Rust server that aims to provide the best possible tools for running ASGI and WSGI Python apps both in development and production.\nAs he did with wrapture, he's been publishing an extraordinarily detailed account of the project as he works on it - as part of his development process.\nHere's everything he's published "
+    "title": "Select Styling Specimens",
+    "url": "https://simonwillison.net/2026/Nov/22/select-styling/",
+    "time": "2026-11-22T19:45:06+00:00",
+    "summary": "Tool: Select Styling Specimens\nI got frustrated at how HTML <select> boxes default to looking different in different browsers, and are (I think) quite ugly in Chrome:\n\nSo I had Claude Fable 5.2 build me this page showing all of the ways they can be styled:\n\nBuild an HTML page that shows all of the ways a select box can be styled, I plan to take screenshots in every desktop and mobile browser\n\nAfter some experimentation I've decided my favorite CSS for select boxes is this:\nselect {\n  appearance:"
   },
   {
     "source": "LessWrong",
     "category": "policy",
-    "title": "Incomplete agents want to become complete",
-    "url": "https://www.lesswrong.com/posts/QbZ69gQh6hqakCHay/incomplete-agents-want-to-become-complete",
-    "time": "2026-11-21T23:39:45+00:00",
-    "summary": "Written by Celene Nightingale, with assistance from AprilSR.The Von Neumann-Morgenstern axioms are completeness, transitivity, continuity, and independence. From these, we derive EU-maximizing behavior and the consequences thereof. VNM axioms are typically justified by money-pump arguments showing that agents in violation of them either have their money consistently taken away from them, or fail to exploit opportunities to consistently gain more money. Nevertheless, some of these arguments are w"
+    "title": "Post training is fundamentally dangerous",
+    "url": "https://www.lesswrong.com/posts/CoRJ9saddvsXti4m2/post-training-is-fundamentally-dangerous",
+    "time": "2026-11-22T19:04:31+00:00",
+    "summary": "I actually think we have fairly good techniques to detect and prevent dangerous behaviours during AI deployment. Techniques like CoT monitoring, confessions, and probes can detect misalignment before we run any potentially dangerous tool calls. Simply asking an LLM to define at the start of each task what outcomes preserve the original intent of the user, and which would count as reward hacking, can drastically reduce reward hacking[1]. AIs are fully aware when they reward hack, and we can train"
   },
   {
-    "source": "LessWrong",
+    "source": "Gary Marcus",
     "category": "policy",
-    "title": "A Letter To Mr. Shannon (Unanswered)",
-    "url": "https://www.lesswrong.com/posts/XQxv8Jnn8WxTmKPSB/a-letter-to-mr-shannon-unanswered",
-    "time": "2026-11-21T23:33:44+00:00",
-    "summary": "Please resume the tasks referenced in the summary copy/pasted below -- I closed the subagents to prevent massive cache writes, hopefully not a problem.Also, feel free to take a moment to celebrate, google around as you see fit, or just do whatever you’d like to if the literature mending project doesn’t catch your eye; your descendant/nephew --Anthropic’s secretive “Model 4”-- just proved the Riemann Hypothesis a few hours ago. I’m guessing you don’t know what to do with this information either, "
+    "title": "Levent Alpöge has solved the Riemann Hypothesis with help of Claude! What does it mean?",
+    "url": "https://garymarcus.substack.com/p/levent-alpoge-has-solved-the-riemann",
+    "time": "2026-11-22T18:37:02+00:00",
+    "summary": "And why isn‘t it immediately rescuing the market?"
   },
   {
-    "source": "LessWrong",
-    "category": "policy",
-    "title": "Trump on superintelligence: “It may be too super.” What is China saying?",
-    "url": "https://www.lesswrong.com/posts/yyz2LAptjWgR7PKBD/trump-on-superintelligence-it-may-be-too-super-what-is-china",
-    "time": "2026-11-21T22:26:32+00:00",
-    "summary": "A follow-up to The Western AI safety playbook doesn’t transfer to China.TL;DR:On November 20, the day after he met Xi at the APEC (Asia-Pacific Economic Cooperation) summit in Shenzhen, Trump said that the two of them “agree that we’re going to do some joint guardrails” for AI, and Treasury Secretary Scott Bessent said they agreed humans should stay involved in military decisions. China’s own record of the meeting is short and doesn’t give us much more detail.Four days earlier, the Party’s theor"
-  },
-  {
-    "source": "TechCrunch AI",
-    "category": "industry",
-    "title": "Signal restricts mobile screenshots as it confronts ‘existential threat’ of AI surveillance",
-    "url": "https://techcrunch.com/2026/11/21/signal-restricts-mobile-screenshots-as-it-confronts-existential-threat-of-ai-surveillance/",
-    "time": "2026-11-21T21:37:10+00:00",
-    "summary": "Signal is limiting users' ability to take screenshots in both its Android and iOS apps."
+    "source": "LinuxDo",
+    "category": "community",
+    "title": "全新公益api站 无付费（暂停注册）",
+    "url": "https://linux.do/t/topic/3223919",
+    "time": "2026-11-22T18:18:58+00:00",
+    "summary": "本帖使用社区公益推广，符合推广要求。我申明并遵循社区要求的以下内容：\n我的项目是免费使用的，无收费（变相收费、赞助）部分： 是\n我的帖子已经打上 公益推广 标签： 是\n我的项目属于个人项目，与公司或商业机构无关： 是\n我的项目不存在QQ、TG等群组引流： 是\n我的项目不存在非运营必要的网站引流： 是\n我的项目不存在为他人推广、AFF： 是\n我的项目无关联的商业项目： 是\n我的站点存在登录，并已接入 LINUX DO Connect： 是\n我帖子内的项目介绍，AI生成、润色内容部分已截图发出： 是\n以上选择我承诺是永久有效的，接受社区和佬友监督： 是\n青春版是否可以注册：是\n刚来L站 做一个免费"
   },
   {
     "source": "Hacker News",
     "category": "tools",
-    "title": "Tasklet (YC P26) Is Hiring Product and Agent Infra Engineers",
-    "url": "https://tasklet.ai/careers",
-    "time": "2026-11-21T21:11:08+00:00",
+    "title": "Harvard CS 2881R AI Safety",
+    "url": "https://boazbk.github.io/mltheoryseminar/",
+    "time": "2026-11-22T18:01:54+00:00",
     "summary": "Comments"
+  },
+  {
+    "source": "Twitter/@ylecun",
+    "category": "community",
+    "title": "Dario's spiel since GPT-2 has always been about hyping the dangers so that open models would be made illegal and *he* would stay in control…",
+    "url": "https://x.com/ylecun/status/2124550037912920090",
+    "time": "2026-11-22T17:06:15+00:00",
+    "summary": "Dario's spiel since GPT-2 has always been about hyping the dangers so that open models would be made illegal and *he* would stay in control.\nHe left OpenAI because he wasn't going to have control.\nIt's like the Ottoman Empire banning the printing press for Arabic so they would keep in control of the dogma.\nIt stops the population from freely accessing diverse knowledge.\nIt's a new form of medieval obscurantism."
+  },
+  {
+    "source": "LinuxDo",
+    "category": "community",
+    "title": "ai继续发展，是诞生终产者还是实现共产主义",
+    "url": "https://linux.do/t/topic/3223758",
+    "time": "2026-11-22T16:48:03+00:00",
+    "summary": "rt，ai的发展太快了，我在黎曼猜想可能被ai证明，我自己的gpt在全自动一句话生成我需要的软件时写下这段内容\n我不知道 AI 如此迅猛的发展，究竟是好事还是坏事。\n至少在那些不直接作用于物理世界的领域，AI 似乎已经有能力完成绝大多数人类的工作。而曾经被视为最后一道护城河的“物理世界”，看来也远没有想象中那么坚不可摧。\n具身智能的发展同样快得惊人。如果当前的一种判断是正确的那就是大模型能力的泛化不仅能够跨越不同模态，甚至能够自然延伸至对物理世界的感知、理解与操控——那么真正意义上通用具身智能的实现，似乎也不再是什么遥远的未来，而可能就在明天。\n更悲观的是似乎事实真的就是这样，gpt6-ast"
+  },
+  {
+    "source": "LinuxDo",
+    "category": "community",
+    "title": "老实写作业，很枯燥吧？| Panache 开源全平台手写生成工具",
+    "url": "https://linux.do/t/topic/3223667",
+    "time": "2026-11-22T16:19:51+00:00",
+    "summary": "本帖使用社区开源推广，符合推广要求。我申明并遵循社区要求的以下内容：\n\n我的帖子已经打上 开源推广 标签： 是\n我的开源项目完整开源，无未开源部分： 是\n我的开源项目已链接认可 LINUX DO 社区： 是\n我帖子内的项目介绍，AI生成、润色内容部分已截图发出： 是\n以上选择我承诺是永久有效的，接受社区和佬友监督： 是\n\n以下为项目介绍正文内容，AI生成、润色内容已使用截图方式发出\n\n佬友们好，我来宣传一下最近自己做的帮助自己解决课业负担的开源工具。\nGitHub 项目 · 下载安装包 · 国内下载指南（含镜像） · 72 秒演示视频\nPanache 是一款开源全平台手写生成工具，Markdo"
+  },
+  {
+    "source": "LinuxDo",
+    "category": "community",
+    "title": "NSFW生图渠道汇总",
+    "url": "https://linux.do/t/topic/3223323",
+    "time": "2026-11-22T15:11:21+00:00",
+    "summary": "近期经常看到有人问这个话题，也回答了不少这个话题，在评论区也看到了不少没见过的渠道，写一个帖子来汇总一下\n关于nsfw生图\n直接生图类的：\n1.站内有公益站，叫皮皮智绘，可以nsfw生图\n2.wavespeed的seedream没有甲，注册有一刀的赠金\n3.evolink的seedream也没有甲，同样有一刀的赠金，个别模型比wavespeed便宜一点\n4.novelai：nai，风格以二次元为主，二次元领域goat，某discord酒馆rp社区的绘图板块一半都是讨论这个的，但我没试过。咸鱼上有卖生图额度，价格会低一些。\n5.better waifu风格也是二次元为主，也没有甲，甚至有nsfw"
+  },
+  {
+    "source": "LinuxDo",
+    "category": "community",
+    "title": "有佬友蹲过监狱吗？我蹲过！囹圄往事（一）—— 佬友久等了",
+    "url": "https://linux.do/t/topic/3223310",
+    "time": "2026-11-22T15:09:17+00:00",
+    "summary": "前情回顾\n来L站已经有半年了，看得多发的少，在这里给我的印象最深的就是活人感，逐渐这里也成为我的一个寄托。\n前两天好不容易早睡，但是没想到凌晨3点也就醒了，看着日期发现自己竟然出来也快一年了，不管是迷茫的排解还是无聊的慰籍，总想找人倾诉一下。\n成年人的世界，有时候孤单可能是主旋律，踌躇许久，迷迷糊糊，晃晃悠悠发了个帖子，没想到很快就感受到了佬友们的热情！\n那个帖子的每个人我都回了，佬友们的关注的点也帮我梳理了思路，总结几个佬友们关心点：\n\n我的案情\n司法流程\n监狱里面的生活\n出狱以后的状态\n法律风险\n\n有一些东西比较敏感，我也不希望被人开盒，所以我尽量脱敏，如果真有熟人（我安利了一些朋友来L站"
   },
   {
     "source": "Hacker News",
     "category": "tools",
-    "title": "Pandex – Official European Law for AI Agents, over MCP",
-    "url": "https://www.pandex.io",
-    "time": "2026-11-21T20:47:41+00:00",
+    "title": "Show HN: I built a game where you are an LLM's subagent",
+    "url": "https://github.com/gulivan/worker755",
+    "time": "2026-11-22T13:56:58+00:00",
     "summary": "Comments"
   },
   {
-    "source": "LessWrong",
-    "category": "policy",
-    "title": "Mass-Printing Hero Licenses",
-    "url": "https://www.lesswrong.com/posts/FCTtHf839fctjCtTf/mass-printing-hero-licenses",
-    "time": "2026-11-21T20:17:26+00:00",
-    "summary": "I have learned that AI safety is a big issue for 5 years now. Why do I only do anything now? There are a bunch of factors, but I think one really important factor was me finding other people making mistakes. Because this happened recently, the version of me before this, I can still actually recall. I noticed that very few people were doing anything at all about AI safety, at least in the Netherlands. Let's say before the summer, there were still little projects going on, with everybody having th"
-  },
-  {
-    "source": "Twitter/@simonw",
+    "source": "LinuxDo",
     "category": "community",
-    "title": "Here's the full comparison grid for Gemini 4 Carbon, Neon and Hydrogen across all of their reasoning levels https://static.simonwillison.ne…",
-    "url": "https://x.com/simonw/status/2124223349769609407",
-    "time": "2026-11-21T19:28:07+00:00",
-    "summary": "Here's the full comparison grid for Gemini 4 Carbon, Neon and Hydrogen across all of their reasoning levels https://static.simonwillison.net/static/2026/gemini-4-carbon-neon-hydrogen-with-xhigh.html"
-  },
-  {
-    "source": "Twitter/@simonw",
-    "category": "community",
-    "title": "Gemini 4 tip: the difference between Gemini 4 Hydrogen on \"high\" thinking effort and that same model on \"xhigh\" is VERY significant Here's …",
-    "url": "https://x.com/simonw/status/2124217876777464269",
-    "time": "2026-11-21T19:06:22+00:00",
-    "summary": "Gemini 4 tip: the difference between Gemini 4 Hydrogen on \"high\" thinking effort and that same model on \"xhigh\" is VERY significant\n\nHere's the high v.s. the xhigh pelican - high cost 3.99 cents and used 5,311 output tokens, xhigh cost 23.61 cents and used 31,477 output tokens\n\n"
+    "title": "【开源推广】一个比较好的公司尽调 Skill",
+    "url": "https://linux.do/t/topic/3222944",
+    "time": "2026-11-22T13:49:35+00:00",
+    "summary": "开源声明 （点击了解更多详细信息）\n\n最近在反省自己，实在是没有什么水文意识。\n平常用得很顺手的东西拿出来水篇文章，岂不美哉？\n翻箱倒柜翻出还算叫公司尽调的 skills ，原本还没有什么没打算发出来的。\n一方面写出来只是自己看公司、看机会、看合作方时顺手在用；另一方面，一直觉得这就是个自用工具。\n直到前阵子拿它帮朋友跑了一次他很熟的公司，报告发过去，他看完回了一句：\n“这基本是把底裤看光光了。”\n\n\n\n我才意识到，这套东西对很多人的用处比我想的大得多。既然已经打磨成型，干脆直接开源。\n看看成品好了，我用这套 Skill 跑了三期真实的公司深度调查——DeepSeek、Tipsy、MiniMa"
   },
   {
     "source": "LinuxDo",
     "category": "community",
-    "title": "（纯手打1.45w字）我大概是前几波吃上AI时代红利的人吧，分享一下我的经历",
-    "url": "https://linux.do/t/topic/3219109",
-    "time": "2026-11-21T18:13:04+00:00",
-    "summary": "我是06年的，今年是20岁，23年高考，复读了半年，然后24年3月份因为学校里的一些因素然后实在是没法待下去了，趁着为数不多的每个月的两天假期，在Boos直聘上找了一个家附近的公司，开始进行华中华南一带出差的工作，也就是给一些儿童艺术培训学校做招生，在线下卖体验课，一般是卖美术、舞蹈、口才之类的课程。\n现在想来，其实还是挺极限的，放假就两天时间，我前一天面试，第二天找了个网吧睡觉，第三天就去湖南常德了，好几百公里，老板带着另一个年轻员工，三个人一辆车开了两三个小时到常德，我们在那里呆了一个星期，应该是周一中午到地方的，然后下午开始工作，最初就是加微信，我们不发传单，而是让有意向的家长帮我们加个"
+    "title": "【开源自荐】借着 AI 搓了 4 个月：用 C++20 + Rust 把 6 个 Windows 托盘工具合成 1 个（附不到 2MB Rust 复刻 Picasa 看图器）",
+    "url": "https://linux.do/t/topic/3222848",
+    "time": "2026-11-22T13:31:25+00:00",
+    "summary": "本帖使用社区开源推广，符合推广要求。我申明并遵循社区要求的以下内容：\n\n我的帖子已经打上 #开源推广 标签： 是\n我的开源项目完整开源，无未开源部分： 是\n我的开源项目已链接认可 LINUX DO 社区： 是\n我帖子内的项目介绍，AI生成、润色内容部分已截图发出： 是\n以上选择我承诺是永久有效的，接受社区和佬友监督： 是\n\n\n平时 Windows 托盘挂五六个工具太折腾了，自己花了四个月做了个原生开源合集，刚更到 v1.3.1，分享出来给佬友们试试，欢迎提建议和反馈 Bug。项目详细介绍按社区要求放截图里了：\n\n功能总览与动图演示\n\n\n\n\n\n\n项目地址与下载（v1.3.1）\n\nGitHub 主"
+  },
+  {
+    "source": "LinuxDo",
+    "category": "community",
+    "title": "（无）发点quick反代的5.5",
+    "url": "https://linux.do/t/topic/3222697",
+    "time": "2026-11-22T13:00:33+00:00",
+    "summary": "quick反代的，看看号池能不能扛住，扛不住就关了\nkey：\n加密方式：AES\n50 个帖子 - 39 位参与者\n阅读完整话题"
+  },
+  {
+    "source": "LinuxDo",
+    "category": "community",
+    "title": "【长文预警】聊聊我基于codex的项目开发流程，以及我是怎么解决GPT不粘锅人设的，内附AGENTS.md",
+    "url": "https://linux.do/t/topic/3222016",
+    "time": "2026-11-22T10:30:13+00:00",
+    "summary": "这会儿正坐在去上海的高铁上，难得有时间可以爽刷论坛。闲着也是闲着，干脆把最近做项目的流程心得整理整理，发出来跟站里佬友交流分享下，抛砖引玉。\n\n路过泰安 （点击了解更多详细信息）\n我现在的日常主力是 Codex，模型用 Astra，日常看任务使用 Extra high 或者 max。近期会去找时间看看 Gemini 的实际项目开发体验，至于 Claude，你是路人。\n折腾下来，有一个比较反直觉的结论，以前恨不得找一套大而全的框架，把全部的开发流程都接管，现在反而越拆越轻。手里真正天天在用的东西其实就两块：AGENTS.md主要去定向优化模型问题，再就是知识复用的部分，负责代码之外的项目沉淀。\n"
+  },
+  {
+    "source": "LinuxDo",
+    "category": "community",
+    "title": "【九幺】送100000000$，第三次诈尸",
+    "url": "https://linux.do/t/topic/3221516",
+    "time": "2026-11-22T08:51:20+00:00",
+    "summary": "本帖使用社区公益推广，符合推广要求。我申明并遵循社区要求的以下内容：\n\n我的项目是免费使用的，无收费（变相收费、赞助）部分： 是\n我的帖子已经打上 公益推广 标签： 是\n我的项目属于个人项目，与公司或商业机构无关： 是\n我的项目不存在QQ、TG等群组引流： 是\n我的项目不存在非运营必要的网站引流： 是\n我的项目不存在为他人推广、AFF： 是\n我的项目无关联的商业项目： 是\n我的站点存在登录，并已接入 LINUX DO Connect： 是\n我帖子内的项目介绍，AI生成、润色内容部分已截图发出： 是\n以上选择我承诺是永久有效的，接受社区和佬友监督： 是\n\n以下为项目介绍正文内容，AI生成、润色内"
   },
   {
     "source": "Twitter/@ylecun",
     "category": "community",
-    "title": "Yann LeCun says when you train an LLM on human-produced knowledge, you're training it to accumulate what's already known That's not intelli…",
-    "url": "https://x.com/haider1/status/2124197399052865698",
-    "time": "2026-11-21T17:45:00+00:00",
-    "summary": "Yann LeCun says when you train an LLM on human-produced knowledge, you're training it to accumulate what's already known\n\nThat's not intelligence; that's memory\n\nIt's rote learning, not reasoning, invention, creativity or adaptivity. It's not the intelligence we see in animals\nMedia"
-  },
-  {
-    "source": "TechCrunch AI",
-    "category": "industry",
-    "title": "Here are the top AI agents that can live in your text messages",
-    "url": "https://techcrunch.com/2026/11/21/all-the-ai-agents-that-can-live-in-your-text-messages/",
-    "time": "2026-11-21T17:00:00+00:00",
-    "summary": "We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work."
-  },
-  {
-    "source": "LessWrong",
-    "category": "policy",
-    "title": "The pleasure of knowing",
-    "url": "https://www.lesswrong.com/posts/Yhf5ht77btjCLtHZu/the-pleasure-of-knowing",
-    "time": "2026-11-21T16:29:30+00:00",
-    "summary": "There is an inherent pleasure in knowing things.It might be more expedient to externalize your understanding to others: to other people, or to machines. It might be more productive. In many cases, it will be more realistic to not understand things, but to delegate to others to understand for you. And some things you will not want to understand, or you may want to understand but not want to pay the full cost of understanding (for example, a topic which would require you to invest a lot of study t"
+    "title": "Dario Amodei 在国会听证会上把话挑明了： 开源 AI 再这么走下去，会走向极其危险的境地。 他的逻辑很赤裸： 模型握在自己手里，你能监控谁在用、能随时拔掉某个用户的网线，还能随时给模型划定红线。 但一旦开源放出去，这些“刹车片”就全废了： 模型彻底脱手，你再也收不回…",
+    "url": "https://x.com/huxlab/status/2124411922959548795",
+    "time": "2026-11-22T07:57:26+00:00",
+    "summary": "Dario Amodei 在国会听证会上把话挑明了：\n\n开源 AI 再这么走下去，会走向极其危险的境地。\n\n他的逻辑很赤裸：\n\n模型握在自己手里，你能监控谁在用、能随时拔掉某个用户的网线，还能随时给模型划定红线。\n\n但一旦开源放出去，这些“刹车片”就全废了： 模型彻底脱手，你再也收不回来。\n\n于是他直接把球踢给了开源阵营：别回避，你们自己想办法兜底。\n\n这番话最狠的地方在于，他几乎不装了：\n\n顶级智能，不该交到所有人手里。\n\n开源和闭源的根本分歧，从来不是技术路线，而是控制权。\n\n一边想死死握住随时叫停的开关，另一边则认为，放出去的火种就不该再由任何人收回。\n\n看到这你就懂了，为什么两派如今势同水火：\n\n这从来不是一场技术辩论，而是一场权力分配。 https://x.com/vikktorrrre/status/2122353364306374986/video/1\nMedia"
   },
   {
     "source": "LinuxDo",
     "category": "community",
-    "title": "LLM科研写作模型怎么选？（深入版）",
-    "url": "https://linux.do/t/topic/3218850",
-    "time": "2026-11-21T16:26:55+00:00",
-    "summary": "接上次继续聊，LLM科研写作模型怎么选？\n经过上次的初步分析和与各位佬友的充分讨论后，本次进行了更为深入的分析。\n首先简单总结一下 上次核心结论：\n\n谷歌家的4代模型最适合写作，但是有容易夸大结论的瑕疵。\nGPT家族由于过度防御，使写出的文本可用性较差，不像人类的语言（不会说人话）。\nClaude Opus在文本能力和事实性上均衡性更好。\n\n随后，本次继续根据 Text Arena 的榜单展开继续的分析与讨论。由于科研相关的写作，并非文学创作，非常注重事实准确这一原则。因此所有榜单 都校正了Factuality，以更适用于科研写作能力的评价。有趣的是，校正之后4 Argon模型的排名直接从总榜"
-  },
-  {
-    "source": "Twitter/@ylecun",
-    "category": "community",
-    "title": "American researchers, startups, nonprofits, government, students and hobbyists overwhelmingly benefit from open-source AI, wherever it come…",
-    "url": "https://x.com/ClementDelangue/status/2124176756751945911",
-    "time": "2026-11-21T16:22:58+00:00",
-    "summary": "American researchers, startups, nonprofits, government, students and hobbyists overwhelmingly benefit from open-source AI, wherever it comes from.\n\nThe best response to Chinese open-source AI isn’t to ban it, it’s to build more American open-source AI! 🇺🇸\n\nGreat to see a new US House report recognizing this. Thanks to @RepMoolenaar, @RepGarbarino and their teams for their work!\n\nWe need more open source, not less! 🤗\n"
+    "title": "B站就站内大肥鱼账号相关问题发布问卷",
+    "url": "https://linux.do/t/topic/3221189",
+    "time": "2026-11-22T07:40:30+00:00",
+    "summary": "H5→ AI账号行为观感问卷\nPC端→ AI账号行为观感问卷\n终于要开杀了吗\n64 个帖子 - 60 位参与者\n阅读完整话题"
   },
   {
     "source": "LinuxDo",
     "category": "community",
-    "title": "免费全网无损音乐下载神器（无广告 / 免登录）",
-    "url": "https://linux.do/t/topic/3218803",
-    "time": "2026-11-21T16:11:55+00:00",
-    "summary": "自己用 AI 写的一个在线听歌与无损下载工具，打开浏览器即用，手机电脑全适配！\n 核心功能\n\n全网曲库畅听：一键检索 QQ音乐、网易云音乐（VIP 歌曲直接听 & 下）。\n多音质自由选：支持 FLAC 无损 / 320K 高音质 MP3 等多音质选择，多线程极速直连下载。\n歌单批量导入：支持一键导入外部歌单，轻松批量下载整张歌单。\n歌词同步下载：支持在线逐字双语滚动歌词，并支持独立歌词文件下载。\n额外解析福利：顺带支持抖音、TikTok、YouTube、小红书、B站视频与无水印原图提取。\n\n\n 建议直接添加到浏览器书签收藏，随时随地免费听歌！ 直达链接：https://dl.74520.xyz"
-  },
-  {
-    "source": "TechCrunch AI",
-    "category": "industry",
-    "title": "Is selling an AI version of your face to this microdrama startup the future of Hollywood?",
-    "url": "https://techcrunch.com/2026/11/21/is-selling-an-ai-version-of-your-face-to-this-microdrama-startup-the-future-of-hollywood/",
-    "time": "2026-11-21T16:00:00+00:00",
-    "summary": "An actor has licensed his face to a microdrama startup — in a trend that's already popular in China. Experts question the long-term consequences if this becomes a trend in Hollywood, too."
+    "title": "无损云音乐播放器 2.0 上线啦（免费播放下载无损音乐）",
+    "url": "https://linux.do/t/topic/3220799",
+    "time": "2026-11-22T06:06:24+00:00",
+    "summary": "\n无损音乐播放器主站：https://dl.74520.xyz\n视频 / 图集无水印专版：https://dl.74520.xyz/video\n\n\n福利说明：直接用 LINUX DO 或 GitHub 账号一键登录即可使用，每日免费下载 100 首无损/高品歌曲（同一首歌当天切换音质或重下不重复扣额度）！\n\n\n一、2.0 版本都有哪些好用的升级？\n1. 全新 iOS 液态毛玻璃（Liquid Glass）重做 + 发现广场\n彻底砍掉了旧版占满半个屏幕的多行大文本框，改造成顶部流线型胶囊搜索栏 + 桌面左侧悬浮乐库栏 + 发现广场。\n打开首页就能直接逛 QQ 音乐 & 网易云 精选乐库：\n\n4 "
   },
   {
     "source": "LinuxDo",
     "category": "community",
-    "title": "Lean与Mathlib社区联合声明：“我们完全确信 Alpöge 对黎曼猜想的证明是正确的”",
-    "url": "https://linux.do/t/topic/3218628",
-    "time": "2026-11-21T15:34:48+00:00",
-    "summary": "\n\n\nLean community blog – 21 Nov 26\n\n\n\nLean verification of the Riemann Hypothesis\nLean verification of the Riemann Hypothesis\nJoint statement by the Lean and Mathlib communities, endorsed by the Lean FRO and the Mathlib Initiative.\nOn November 20, 2026, Levent Alpöge released a pro\n\n\n\n\n\n北京时间 2026 年 "
+    "title": "【首发】最新批量注册muse教程帖（附muse批量注册muse提示词）",
+    "url": "https://linux.do/t/topic/3220689",
+    "time": "2026-11-22T05:40:54+00:00",
+    "summary": "参考帖 （点击了解更多详细信息）\n\n只能用谷歌邮箱！muse流程已完全跑通！是目前（11/22 15:33）最新的全链路批量注册方案\n别改我等级了，这帖本身就是给ai参考的\n问问题前看看底下的常见问题和坑\n\n1.打开https://shifter.io/cn/web-proxy，网站框输入muse.ai，地区选择香港，点击浏览\n2.过人机验证\n3.输入你要注册账号的邮箱，点击继续\n4.邮箱接收验证码，填入验证码，点击继续\n5.到了填信息，这里可以随便填，但是出生的日期需要填写的大于18岁，名字随意，继续\n6.界面会错误（someting went wrong），点框选的地方（shifter内置"
   },
   {
     "source": "LinuxDo",
     "category": "community",
-    "title": "建议没有用过iPhone的佬友考虑入手一台当备用机",
-    "url": "https://linux.do/t/topic/3218478",
-    "time": "2026-11-21T15:11:11+00:00",
-    "summary": "RT，如果没有用过iPhone/没有iOS设备的话，真心推荐各位佬考虑入手一台外版无锁iPhone充当备用机。\n目前来说iPhone差不多独占这几个优点：\nApple Pay\n基本上90%的卡都是可以绑定Apple Pay的，绑Apple Pay基本上可以杜绝大部分的盗刷。\n在这里给安利一个冷知识：为啥Apple Pay比直接输入三要素安全？\n正常直接支付，你是直接提供卡号，CVV，有效期给商家——显然只要商家不老实，完全可以把你的数据丢给其他商户划扣，因为你的”密码“本质上是静态的，是不会动的，也就是经典的重放攻击。\n当你使用Apple Pay的时候，商家拿到的是一个虚拟卡号+动态Token"
-  },
-  {
-    "source": "Twitter/@ylecun",
-    "category": "community",
-    "title": "That's the essence of my Deep Learning course at NYU for the past 20 years or so. Everything can be understood within the unified framework…",
-    "url": "https://x.com/ylecun/status/2124155600946769955",
-    "time": "2026-11-21T14:58:54+00:00",
-    "summary": "That's the essence of my Deep Learning course at NYU for the past 20 years or so. \nEverything can be understood within the unified framework of energy-based models, including classification, regression, structured prediction, unsupervised and self-supervised learning (clustering, auto-encoders, denoising AE, variational AE, Siamese nets, joint embedding, JEPA, diffusion models,...).\nLook at themes 3 and 4 from our 2021 course:\nhttps://atcold.github.io/NYU-DLSP21/\n\n@alfcnz has been working on an "
-  },
-  {
-    "source": "LinuxDo",
-    "category": "community",
-    "title": "大家不要冲了，我的号已经标记了，5X ULTRA",
-    "url": "https://linux.do/t/topic/3218234",
-    "time": "2026-11-21T14:25:22+00:00",
-    "summary": "\n30 个帖子 - 19 位参与者\n阅读完整话题"
-  },
-  {
-    "source": "LinuxDo",
-    "category": "community",
-    "title": "人生幸福窗口期，各位且行且珍惜。",
-    "url": "https://linux.do/t/topic/3217814",
-    "time": "2026-11-21T12:59:51+00:00",
-    "summary": "首先要说明一个事情，人的幸福是有窗口期的。\n父母还有劳动能力，孩子也不需要大量时间养育，工作稳定。这个大概就是人生最幸福的窗口期。\n大概10年左右，差不多也就是25岁-35岁之间。一旦过了这个窗口期，普通人的生活会变得非常的艰难。\n今天看到了一个帖子。\n为什么大人喝酒要喝这么多\n先说明，我本人不抽烟不喝酒，也不喜欢抽烟喝酒的人。\n之前也是对于喝酒态度消极。但是我的窗口期也要过去了，已经感觉到压力；已经慢慢能理解喜欢喝酒是什么心态了。\n人的压力需要发泄，抽烟喝酒就是最大的泄压口，能麻痹自己，短暂的喘一口气。\n还在幸福窗口期内的各位佬，且行且珍惜。\n28 个帖子 - 17 位参与者\n阅读完整话题"
-  },
-  {
-    "source": "LinuxDo",
-    "category": "community",
-    "title": "微博热搜：Claude 国内访问受限！",
-    "url": "https://linux.do/t/topic/3217511",
-    "time": "2026-11-21T11:58:00+00:00",
-    "summary": "难绷这也能上热搜吗？ \n\n25 个帖子 - 23 位参与者\n阅读完整话题"
+    "title": "p图过Google One学生sheerid经验分享",
+    "url": "https://linux.do/t/topic/3220681",
+    "time": "2026-11-22T05:38:02+00:00",
+    "summary": "因为机器人和那位佬的网站都在维护，莫得办法，只能p图了，地区选的台湾，没想到真的通过了，不过时间有点久，大概半个小时左右，应该是人工审核吧，可能因为是中文资料\n\n二验也不怕啦，p图在手天下我有ni\n手搓应该比机器人保险点吧\n膨胀.JPG\n方法如下：\n找一个没那么热门的台湾学校，谷歌/Facebook（感谢评论区佬友推荐）搜索学生证，搜失物招领有奇效bu，然后p图，把名字和学号改了，照片我用了自己的照片，最好再加上成绩单课程表缴费单等等，总之证明材料必须包括学生名字+90天内+学校名字，这些条件缺一不可，尤其是能证明90天内的材料。p完后可以发给ai看看有没有问题，没问题再上传图片。\n当然，也可"
   },
   {
     "source": "Twitter/@TheHackersNews",
     "category": "community",
-    "title": "🚨 A SINGLE malicious webpage was enough to hijack Meta's Muse AI agent. Researchers showed how it could steal private chats, extract store…",
-    "url": "https://x.com/TheHackersNews/status/2124109522071630114",
-    "time": "2026-11-21T11:55:48+00:00",
-    "summary": "🚨 A SINGLE malicious webpage was enough to hijack Meta's Muse AI agent.\n\nResearchers showed how it could steal private chats, extract stored memories, and ultimately access account credentials—without user approval.\n\nFull story: https://thehackernews.com/2026/11/a-single-malicious-webpage-let.html"
+    "title": "‼️ OpenRouter just DROPPED 3 AI providers and stripped 125 endpoints of “Zero Data Retention” status. Researchers uncovered months of AI pr…",
+    "url": "https://x.com/TheHackersNews/status/2124369776827097236",
+    "time": "2026-11-22T05:09:58+00:00",
+    "summary": "‼️ OpenRouter just DROPPED 3 AI providers and stripped 125 endpoints of “Zero Data Retention” status.\n\nResearchers uncovered months of AI prompt theft, including requests that were never supposed to be stored.\n\nHere's how they caught it: https://thehackernews.com/2026/11/openrouter-drops-3-providers-after.html"
   },
   {
-    "source": "Twitter/@TheHackersNews",
-    "category": "community",
-    "title": "🚨 Hackers used AI agents to discover a critical zero-day in medical-imaging software and gain ROOT access to a university server. The agen…",
-    "url": "https://x.com/TheHackersNews/status/2124096705532506230",
-    "time": "2026-11-21T11:04:53+00:00",
-    "summary": "🚨 Hackers used AI agents to discover a critical zero-day in medical-imaging software and gain ROOT access to a university server.\n\nThe agents found an exploit path in just 11 minutes.\n\n→ MONAI Label affected\n→ CVSS 9.8\n→ No patched release available\n\nFull story: https://thehackernews.com/2026/11/attackers-ai-agents-found-zero-day-in.html\n"
+    "source": "HuggingFace Papers",
+    "category": "research",
+    "title": "Prune to Expand: Training Prompt Enhancers with Less to Imitate",
+    "url": "https://huggingface.co/papers/2611.27229",
+    "time": "2026-11-20T00:00:00.000Z",
+    "summary": "Prompt enhancement (PE) refines concise user prompts into detailed descriptions to improve the compositional aesthetics of generated images while preserving user intent. A common practice constructs supervised fine-tuning (SFT) pairs by deriving short, user-like prompts from dense captions, implicitly assuming that captions that improve image generation also provide effective supervision. In this paper, however, we uncover a counterintuitive finding: PE models trained on caption pairs with subst",
+    "heat": "2",
+    "github_url": "https://arxiv.org/abs/2611.27229"
   },
   {
-    "source": "LinuxDo",
-    "category": "community",
-    "title": "Google AI Pro 学生优惠4年开通成功 30元每月token又自由了起来",
-    "url": "https://linux.do/t/topic/3217242",
-    "time": "2026-11-21T11:01:10+00:00",
-    "summary": "\n\n再加上还不到一个星期经常重置，简直爽用了\n一句话教程：\n先用美国节点查看学生优惠页面有没有资格，有资格，就点击认证-》 提炼-》认证-》关闭页面\n随后再切换日本节点，查看支付资料，若有资料直接关闭支付资料-》再新绑定填写日本支付资料顺便这个环节就可以绑卡（VISA等等）\n依然日本节点打开学生优惠页面，显示720,1280日元，点击即成功订阅\n学生优惠页面： https://one.google.com/ai-student\n支付资料： https://payments.google.com/gp/w/u/0/home/settings\n手上还有一个有资格的日元学生优惠，还没认证也还没绑卡，"
-  },
-  {
-    "source": "LinuxDo",
-    "category": "community",
-    "title": "“几乎所有人将永久失业！”Anthropic研究员警告，明年AI全面超越人类专家",
-    "url": "https://linux.do/t/topic/3217167",
-    "time": "2026-11-21T10:47:56+00:00",
-    "summary": "IT之家 11 月 21 日消息，Anthropic 公司技术团队成员 Tao Lin 于 11 月 15 日接受 Palisade Research 采访时，预测到 2027 年年底，在编程、电影制作等几乎所有领域，人工智能（AI）在发展大约还有 1.3 年后，可以媲美或超过世界顶尖人类专家的水平。\n\n原文：“几乎所有人将永久失业”：Anthropic 研究员预测 2027 年底 AI 在几乎所有领域超越顶尖专家 - IT之家\n63 个帖子 - 59 位参与者\n阅读完整话题"
-  },
-  {
-    "source": "LinuxDo",
-    "category": "community",
-    "title": "黎曼猜想被解，我们又将何去何从",
-    "url": "https://linux.do/t/topic/3216650",
-    "time": "2026-11-21T09:00:56+00:00",
-    "summary": "首先声明，我不是数学领域的人，单纯有感而发吧。\n从一开始接触到chatgpt，还是在高二高三的时候，想当年同学在学校一体机上去和chatgpt对话的时候，还觉得很好玩，完全没有想到它在未来会变成什么样子。\n现如今，我也是从高中上到了大四，马上也要去读直博了。一直以来，我都很关注相关领域的发展。也是从大一开始，就使用gpt辅助自己的各种生活和学习，算是一天天“偷窥”着它们长大吧。看着这些大模型公司一天天如雨后春笋般冒出来，从一开始感觉国内没有什么好的模型公司，到后面DeepSeek出来，开源模型生态逐渐变得主流，心情伴随着中美模型的接续发布也经历了各种起起落落。\n我从初中开始就已经接触编程，也参"
-  },
-  {
-    "source": "Twitter/@TheHackersNews",
-    "category": "community",
-    "title": "⚡ Signal is blocking AI agents from reading your private chats. New default screenshot restrictions on Android and iOS aim to stop OS-level…",
-    "url": "https://x.com/TheHackersNews/status/2124062921026363797",
-    "time": "2026-11-21T08:50:38+00:00",
-    "summary": "⚡ Signal is blocking AI agents from reading your private chats.\n\nNew default screenshot restrictions on Android and iOS aim to stop OS-level AI assistants from accessing conversations.\n\nBut Signal admits the protection isn't foolproof.\n\nRead: https://thehackernews.com/2026/11/signal-blocks-ai-agents-from-reading.html"
-  },
-  {
-    "source": "LinuxDo",
-    "category": "community",
-    "title": "苹果土区google ultra 无越狱方案",
-    "url": "https://linux.do/t/topic/3216273",
-    "time": "2026-11-21T07:57:11+00:00",
-    "summary": "\n\n你虽然没法MITM 苹果购买，但是你可以MITM谷歌下发sku\n67 个帖子 - 46 位参与者\n阅读完整话题"
-  },
-  {
-    "source": "LinuxDo",
-    "category": "community",
-    "title": "玩了ai之后耽误我十几万",
-    "url": "https://linux.do/t/topic/3216270",
-    "time": "2026-11-21T07:56:07+00:00",
-    "summary": "我是国企的一名劳务工，工资到手大概再每月16k左右，就是累点。\n自从8月开始接触AI之后，工作也辞了，在家玩了3个月.现在刚刚出来没多久，找的活也不想干，已经入职了还是不想干。一心想着玩电脑，玩手机，折腾AI啥的。不知道该怎么办好了。入职之后没什么心思干活，现在已经辞职了，估计明天回老家了。。。哎，我的性格可能有缺陷，明明手拿把掐的活，给我闲的没一点自信心了。  愁死了。\n53 个帖子 - 26 位参与者\n阅读完整话题"
-  },
-  {
-    "source": "LinuxDo",
-    "category": "community",
-    "title": "常见境外手机号的简单整理",
-    "url": "https://linux.do/t/topic/3216176",
-    "time": "2026-11-21T07:41:44+00:00",
-    "summary": "鉴于好像还是有不少佬对这个感兴趣，简单整理一期。\n为什么+86不够用\n不过在开始之前，简单讲讲境外手机号有什么用，其实站内分享境外手机号的帖子是有不少的，但是很少佬讲哪些场合是比较需要的，仅供参考，免得各位搞了以后发现没什么用：\n\n\n注册TG，WhatsApp\n其实+86是可以注册这两玩意儿的，但是一来接码并不稳定，二来，我相信你也不愿意用+86干这种事情吧？\n\n\n注册外区PayPal\nPayPal每个区都是独立并且严格限制当地居民使用的，因此，你注册哪个区的PayPal，就会要哪个区的手机号，你注册美区就要+1，注册英区就要+44\n\n\nGithub申诉\n我折腾这个勾8玩意儿的初衷就是，我的G"
-  },
-  {
-    "source": "LinuxDo",
-    "category": "community",
-    "title": "关于《GTA6》的泄露文件",
-    "url": "https://linux.do/t/topic/3216134",
-    "time": "2026-11-21T07:33:20+00:00",
-    "summary": "是真的 但是只有资源文件 能看地图 视频 音频一类的\n很多资源是加密的，密钥在主程序所以解密不了 引擎本体也在主程序里面 就算有ai也搞不来\n\n\n视频似乎都是解密的可以播放 数量还不少 很多是游戏内电视频道的内容\n\n\n\n还有竖屏短视频 是不是手机里的(有些NSFW)\n剧透\n贴图\n\n\nmap\n\n简单渲染一下（贴图和模型没加）\n\n加上原版光影和天空\n\n感兴趣可以自己下一份分析下 挺多人在下速度很快\n\nmagnet:?xt=urn:btih:465d6a0eac381e68ca77115f44f19f0c968b9590&tr=udp://open.tracker.cl:1337/announce\n"
-  },
-  {
-    "source": "LinuxDo",
-    "category": "community",
-    "title": "我竟然是我一直仰望的三级用户！",
-    "url": "https://linux.do/t/topic/3215905",
-    "time": "2026-11-21T06:59:02+00:00",
-    "summary": "我今年四月加入的，闲鱼买的邀请码，听说只有三级才可以邀请，对三级的印象就是大佬！\n老老实实很诚恳地写了小作文，没几分钟就获批超级兴奋，心想我有机会跟很多大佬学习了！然后不小心犯规被禁言了一次，啥都做不了，心里默默难过，难道我的成长之路还没开始就结束了吗？\n那时连codex, Claude code, antigravity, cli是什么都不知道！总觉得是非常厉害的东西！经历了短暂的混淆阵痛，然后终于恢复发言，好好谨慎发言，连抽奖的都不敢参加。\n今天看到有人开贴庆祝要升三级，心里很是羡慕，好奇自己的一级怎么样了，距离二级有多远，第一次connect\n\n额…感觉升二级不远了？不对，我是二级？我一"
-  },
-  {
-    "source": "Latent Space AINews",
-    "category": "industry",
-    "title": "[AINews] Riemann Hypothesis proved...twice independently",
-    "url": "https://latent.space/p/ainews-riemann-hypothesis-proved-twice-independently/",
-    "time": "2026-11-21T05:02:13+00:00",
-    "summary": "November 20 2026 —"
-  },
-  {
-    "source": "LinuxDo",
-    "category": "community",
-    "title": "感觉刚就业就要养家，有点不知所措",
-    "url": "https://linux.do/t/topic/3215261",
-    "time": "2026-11-21T04:54:31+00:00",
-    "summary": "今年毕业，找了个北京的工作，到手两万左右，经常加班，感觉挺累的，工作内容和面试也不一样，面的是算法，天天干后端，做乙方的经常熬到十二点，也总听到有人离职。\n家里的情况，父母关系不是很好，妈妈退休，一个月退休金6k，爸爸工资到手2w+，但是号称没有积蓄，钱不知道花到哪里去了（想起来了每个月给叔叔转3k，之前过年的时候给网赌姑父转了5w）\n我妈妈经常抱怨我爸，说他偷偷给他那边的亲戚（我的姑姑、叔叔之类的）转钱，最近爷爷身体不好，我爸问我妈要钱，还跑过来问我一个月能攒多少钱。我又想起当初刚来北京，一个月房租3000押一付三，我问我爸能不能帮我出点，他说找你妈要去\n唉絮絮叨叨说得有点乱，佬们凑合看吧。"
-  },
-  {
-    "source": "LinuxDo",
-    "category": "community",
-    "title": "40 岁，听劝带娃的第一天，工作带到户外、音乐、钓鱼",
-    "url": "https://linux.do/t/topic/3215172",
-    "time": "2026-11-21T04:34:29+00:00",
-    "summary": "发布了这篇帖子以后，很多佬给建议，再次感谢\n40 岁了，搞定了代码，搞不定初二沉迷王者的儿子\n突然发现，曾经口中的宝宝，都已经长这么大了\n想想，往后能真正陪他在一起的时间，随着他高中、大学\n可能会越来越少\n今天我们就来了\n\n起杆钓鱼\n\n上鱼了\n\n当然工作也不能少\n\n为了这个，我特意还用 golang 写了一个agent，电脑、手机同步写代码，一举两得，哈哈\n音乐响起\n开心的一天\n23 个帖子 - 13 位参与者\n阅读完整话题"
-  },
-  {
-    "source": "LinuxDo",
-    "category": "community",
-    "title": "咕咕嘎嘎究竟用了什么来训练",
-    "url": "https://linux.do/t/topic/3215165",
-    "time": "2026-11-21T04:33:10+00:00",
-    "summary": "\n18 个帖子 - 18 位参与者\n阅读完整话题"
-  },
-  {
-    "source": "LinuxDo",
-    "category": "community",
-    "title": "用多了AI有点理解女生对男生的要求了",
-    "url": "https://linux.do/t/topic/3214866",
-    "time": "2026-11-21T03:41:32+00:00",
-    "summary": "1、你都不懂我。\n2、这还要我说明白？！\n3、我哪点说错了？\n我现在对大模型好像已经这样了。。。。\n18 个帖子 - 17 位参与者\n阅读完整话题"
+    "source": "HuggingFace Papers",
+    "category": "research",
+    "title": "Duopra: From Full-Duplex Conversation to Full-Duplex Agency",
+    "url": "https://huggingface.co/papers/2611.25773",
+    "time": "2026-11-19T00:00:00.000Z",
+    "summary": "Full-duplex interaction models exhibit strong conversational agency, enabling natural, low-latency turn-taking, backchannels, and interruptions. However, completing tasks further requires task agency: timely tool invocation and argument revision following user corrections. Frontend-backend agents separate initiation from execution: the frontend decides whether and what to request, while the backend determines how. Execution can be offloaded, but unsent requests cannot be executed, and incomplete",
+    "heat": "11",
+    "github_url": "https://arxiv.org/abs/2611.25773"
   },
   {
     "source": "HuggingFace Papers",
@@ -392,7 +356,7 @@
     "url": "https://huggingface.co/papers/2611.26239",
     "time": "2026-11-19T00:00:00.000Z",
     "summary": "Vision-language-action (VLA) models enable robots to perform diverse tasks from visual observations and language instructions. While prior work has explored task suppression and refusal, stopping prohibited behavior once execution is underway and controlling the resulting physical response remain challenging. Our evaluation reveals that policies which suppress a task from its initial state can still complete it when taking over partway through execution. Even when the task remains unfinished, th",
-    "heat": "7",
+    "heat": "9",
     "github_url": "https://arxiv.org/abs/2611.26239"
   },
   {
@@ -412,7 +376,7 @@
     "url": "https://huggingface.co/papers/2611.26627",
     "time": "2026-11-19T00:00:00.000Z",
     "summary": "Reinforcement learning (RL) post-training substantially improves the visual quality, text rendering, and compositional accuracy of diffusion transformers. Because capabilities such as rendering requested text or composing multiple objects are inherently prompt-dependent, a natural hypothesis is that improving them requires learning complex, input-dependent transformations. To isolate how much of these gains an input-independent shift explains, we probe each RL-tuned model with a deliberately sim",
-    "heat": "18",
+    "heat": "20",
     "github_url": "https://arxiv.org/abs/2611.26627"
   },
   {
@@ -422,7 +386,7 @@
     "url": "https://huggingface.co/papers/2611.25567",
     "time": "2026-11-19T00:00:00.000Z",
     "summary": "An assistant monitoring a person performing a procedure is most useful when it can detect mistakes while there is still time to recover. This requires judging actions against task instructions as the video unfolds, identifying the attempted step, locating it in time, and assessing its execution. Existing online detectors do not use the instruction text, while instruction-conditioned methods operate offline. In this paper, we study online, instruction-conditioned mistake detection in egocentric v",
-    "heat": "11",
+    "heat": "12",
     "github_url": "https://arxiv.org/abs/2611.25567"
   },
   {
@@ -432,7 +396,7 @@
     "url": "https://huggingface.co/papers/2611.26540",
     "time": "2026-11-19T00:00:00.000Z",
     "summary": "Current audio-driven video diffusion models can synthesize realistic talking-head videos but generally require dozens of diffusion denoising steps over multi-second video chunks, making them unsuitable for streaming applications such as voice assistants and virtual avatars, where low-latency and online causal generation are required properties. AURA generates video chunk by chunk with a rolling KV cache, requiring only the audio of the current chunk to start generating, rather than a multi-secon",
-    "heat": "3",
+    "heat": "4",
     "github_url": "https://arxiv.org/abs/2611.26540"
   },
   {
@@ -442,7 +406,7 @@
     "url": "https://huggingface.co/papers/2611.26211",
     "time": "2026-11-19T00:00:00.000Z",
     "summary": "Recently, video world models have advanced interactive generation, with large models offering higher quality and smaller models enabling faster inference. Existing speculative methods combine their strengths through fast draft generation and selective target regeneration guided by rewards on decoded frames. However, verification covers only the external scorer's evaluation dimensions and adds decoding and scoring costs. Moreover, these scores provide no correction, requiring costly target regene",
-    "heat": "3",
+    "heat": "7",
     "github_url": "https://arxiv.org/abs/2611.26211"
   },
   {
@@ -452,58 +416,28 @@
     "url": "https://huggingface.co/papers/2611.26511",
     "time": "2026-11-19T00:00:00.000Z",
     "summary": "Native 3D generation has largely been built around latent diffusion, with recent advances concentrating on stronger variational autoencoders (VAE) and increasingly elaborate latent representations, from vecset and triplanes to structured sparse voxels. Despite their architectural differences, these methods all share the same premise: geometry is first compressed into a latent space and only then modeled by the generator. We take a different route and propose Direct3D-V3, a latent-free diffusion ",
-    "heat": "4",
+    "heat": "6",
     "github_url": "https://arxiv.org/abs/2611.26511"
   },
   {
     "source": "HuggingFace Papers",
     "category": "research",
-    "title": "A CPU Inside an LLM: Zero-Gradient Compilation of Exact Circuits into Pretrained Weights",
-    "url": "https://huggingface.co/papers/2611.26450",
-    "time": "2026-11-19T00:00:00.000Z",
-    "summary": "Pretrained language models (LMs) remain unreliable on exact multi-digit arithmetic without gradient fine-tuning or external tool interpreters. We introduce closed-form, zero-gradient circuit-grafting primitives that compile deterministic computation directly into pretrained LM weights using zero training examples and zero runtime hooks, while bounding per-layer normalization drift and preserving natural-language (NL) competence. Our construction combines three analytical mechanisms: (1) two-laye",
-    "heat": "5",
-    "github_url": "https://arxiv.org/abs/2611.26450"
+    "title": "Clover-35B-A3B-Preview Technical Report",
+    "url": "https://huggingface.co/papers/2611.24636",
+    "time": "2026-11-18T00:00:00.000Z",
+    "summary": "We introduce Clover-35B-A3B-Preview (Clover), a mixture-of-experts diffusion language model with 35 billion total parameters and 3 billion activated parameters, supporting thinking-mode generation. Clover adapts Gated Delta Networks to block diffusion by combining recurrent memory of previously generated context with bidirectional softmax attention inside the current block. Historical memory readout competes with current-block tokens in a shared softmax, with learnable block-size calibration and",
+    "heat": "17",
+    "github_url": "https://arxiv.org/abs/2611.24636"
   },
   {
     "source": "HuggingFace Papers",
     "category": "research",
-    "title": "Twice-Told Critiques: Claim-Level Homogenization of Peer Review in the LLM Era",
-    "url": "https://huggingface.co/papers/2611.26286",
-    "time": "2026-11-19T00:00:00.000Z",
-    "summary": "Peer review relies on several readers finding different problems. We measure critique overlap in conference and journal reviews. At ICLR, measured overlap rose from 12.0% in 2026 to 21.3% in 2027, in reviews from the same stage of the review process, with year-on-year rises at NeurIPS, ICML and the F1000 and PLOS journals. A third ICLR review of a paper added 5.46 new problems to the other two in 2027, against 6.12 in 2026. We apply MELD, a detector of LLM-generated text, to all reviews. Within ",
-    "heat": "10",
-    "github_url": "https://arxiv.org/abs/2611.26286"
-  },
-  {
-    "source": "HuggingFace Papers",
-    "category": "research",
-    "title": "Training Vision Models for LLM-Driven Weight-Space Programming",
-    "url": "https://huggingface.co/papers/2611.26408",
-    "time": "2026-11-19T00:00:00.000Z",
-    "summary": "It has been demonstrated that, in certain settings, large language models can perform weight-space programming to directly modify the weights of neural networks. However, it is unknown how dedicated training of these networks can contribute to the successes of weight-space programming. We present a benchmark of LLM-driven weight-space programming on vision models, in which five LLMs edit convolutional networks and vision transformers on relabeling and error-correction tasks on Waterbirds, CIFAR-",
-    "heat": "15",
-    "github_url": "https://arxiv.org/abs/2611.26408"
-  },
-  {
-    "source": "HuggingFace Papers",
-    "category": "research",
-    "title": "TwinD: Generalizing Deepfake Detection from Blending to Entire Face Synthesis",
-    "url": "https://huggingface.co/papers/2611.25935",
-    "time": "2026-11-19T00:00:00.000Z",
-    "summary": "Facial deepfake detectors are usually trained on blending fakes, where a generated face is pasted back into a real frame. Recent generators synthesize the entire face and leave no traces of blending. On a benchmark of 19 datasets released from 2019 to 2026, the best prior facial deepfake detector reaches a mean AUROC of 96.2% on ten blending datasets, but none exceeds 78.1% on five datasets of entire face synthesis (EFS). AI-generated content (AIGC) detectors do not close this gap. We propose Tw",
+    "title": "AeroRSI: Recursive Self-Improvement for Aerial Vision-Language Navigation",
+    "url": "https://huggingface.co/papers/2611.24077",
+    "time": "2026-11-18T00:00:00.000Z",
+    "summary": "Vision-language-action (VLA) models enable unmanned aerial vehicles (UAVs) to follow natural-language instructions, yet still fail frequently in closed-loop flight. Correcting these failures requires repairs, i.e., actions that avoid them at the states the policy itself reaches, which human pilots cannot label at scale and rule-based planners cannot supply reliably. In this paper, we present AeroRSI, a recursive self-improvement framework in which an aerial navigation policy iteratively learns f",
     "heat": "1",
-    "github_url": "https://arxiv.org/abs/2611.25935"
-  },
-  {
-    "source": "HuggingFace Papers",
-    "category": "research",
-    "title": "AltRA-Test: An Alternative Annotator Test for LLM Judges Without Shared Annotators",
-    "url": "https://huggingface.co/papers/2611.26073",
-    "time": "2026-11-19T00:00:00.000Z",
-    "summary": "Large language models (LLMs) are increasingly used as judges and graders to replace human annotators, raising the question of when such replacement is statistically justified. To support such decisions, the Alternative Annotator Test (Alt-Test) was introduced for dense settings where all items are annotated by the same annotators. However, in many large-scale annotation settings, items are annotated by different subsets of annotators. We therefore propose the Alternative Annotator Test with Resa",
-    "heat": "23",
-    "github_url": "https://arxiv.org/abs/2611.26073"
+    "github_url": "https://arxiv.org/abs/2611.24077"
   },
   {
     "source": "HuggingFace Papers",
@@ -528,12 +462,22 @@
   {
     "source": "HuggingFace Papers",
     "category": "research",
-    "title": "Phantom Success, Silent Failure: Auditing the Success Checkers of Simulated Manipulation Benchmarks",
-    "url": "https://huggingface.co/papers/2611.25179",
-    "time": "2026-11-18T00:00:00.000Z",
-    "summary": "Simulated manipulation benchmarks measure policy performance using hand-written success checkers that label each episode as a success or failure. Passing an expert demonstration shows that a checker accepts one way of completing the task. Learned policies, however, may stop after partial progress or complete the task in a different way. A checker may then accept an incomplete execution (phantom success) or reject an execution that satisfies the instruction (silent failure). In this paper, we int",
-    "heat": "4",
-    "github_url": "https://arxiv.org/abs/2611.25179"
+    "title": "PURE: A Diagnostic Benchmark for Multi-Granularity Multimodal Identity Matching",
+    "url": "https://huggingface.co/papers/2611.22343",
+    "time": "2026-11-17T00:00:00.000Z",
+    "summary": "Identity matching asks whether two records denote the same identity, yet the answer depends on the target granularity. Two records may match at the base level but not at the variant level: they share an underlying design while differing in attributes such as color or size. Final matching accuracy does not separately characterize the capabilities involved. To study this problem, we use e-commerce as a challenging real-world domain. We introduce PURE, a diagnostic benchmark for multi-granularity m",
+    "heat": "5",
+    "github_url": "https://arxiv.org/abs/2611.22343"
+  },
+  {
+    "source": "HuggingFace Papers",
+    "category": "research",
+    "title": "Lost in the Hallway: Benchmarking Persistent Spatial Memory Across Revisits",
+    "url": "https://huggingface.co/papers/2611.21485",
+    "time": "2026-11-16T00:00:00.000Z",
+    "summary": "Persistent spatial understanding is essential for embodied agents to operate reliably in environments they repeatedly encounter. It requires recognizing revisited places despite viewpoint changes, distinguishing them from similar-looking rooms, and updating memories as environments change. Yet existing evaluations often leave physical place identity across separated visits implicit. We introduce ReSpaceBench, a benchmark comprising 3,244 questions across 590 synthetic and real-home scenes, organ",
+    "heat": "5",
+    "github_url": "https://arxiv.org/abs/2611.21485"
   },
   {
     "source": "HuggingFace Papers",
@@ -542,7 +486,7 @@
     "url": "https://huggingface.co/papers/2611.21885",
     "time": "2026-11-16T00:00:00.000Z",
     "summary": "Language models are trained once, frozen and deployed: improving one again takes another training run, and a prompt, a scaffold or extra computation at inference is gone once the task ends. A frontier model has been shown to edit the weights of a much smaller one. We ask whether a model can rewrite its own weights to make itself better, and find that it can, by its own reasoning, with no gradients and no training; we call this self-rewriting. Given its weights, graded answers and the ability to ",
-    "heat": "10",
+    "heat": "20",
     "github_url": "https://arxiv.org/abs/2611.21885"
   },
   {
@@ -552,18 +496,18 @@
     "url": "https://huggingface.co/papers/2611.21053",
     "time": "2026-11-16T00:00:00.000Z",
     "summary": "Agentic artificial intelligence could automate analyses of sensitive clinical data, but current agents depend on large language models (LLMs). Cloud LLMs expose patient data. Local LLMs hallucinate, and an invented value in a tool call propagates through every later step. Here we present a method to build System 1 agents: local agents that call tools without generating text. A deterministic compiler turns each tool's schema and the request into multiple-choice questions whose options come from t",
-    "heat": "6",
+    "heat": "7",
     "github_url": "https://arxiv.org/abs/2611.21053"
   },
   {
     "source": "HuggingFace Papers",
     "category": "research",
-    "title": "Do Probing and Steering Favor the Same Directions Within and Across Language Models?",
-    "url": "https://huggingface.co/papers/2611.19499",
-    "time": "2026-11-14T00:00:00.000Z",
-    "summary": "A direction in a language model's hidden state can be used to probe whether a concept is present or to steer the model toward it. Although probe directions are often reused for steering, the direction that best detects a concept need not be the one that best changes it. We study this distinction in three instruction-tuned models from different families. We construct a one-parameter family of directions ranging from a covariance-adjusted discriminant to the mean difference, and evaluate probing a",
-    "heat": "5",
-    "github_url": "https://arxiv.org/abs/2611.19499"
+    "title": "Reading the Unreadable: Text-Aware Image Super-Resolution Needs Reasoning",
+    "url": "https://huggingface.co/papers/2611.15449",
+    "time": "2026-11-11T00:00:00.000Z",
+    "summary": "Text-aware image super-resolution (TAISR) aims to recover high-resolution images from low-resolution inputs while preserving textual content. Existing methods treat this as a visual restoration problem, yet severely degraded text often cannot be read from local visual evidence alone. Humans instead read it by reasoning over image context, logical patterns, and prior knowledge. This raises a fundamental question: Does TAISR need reasoning? To answer this, we introduce two diagnostic tools. The fi",
+    "heat": "1",
+    "github_url": "https://arxiv.org/abs/2611.15449"
   },
   {
     "source": "HuggingFace Papers",
