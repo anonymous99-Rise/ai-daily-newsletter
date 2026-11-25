@@ -1,0 +1,578 @@
+[
+  {
+    "source": "LessWrong",
+    "category": "policy",
+    "title": "Hopkins Recent Events in AI Safety and Biosecurity Post-Event Report",
+    "url": "https://www.lesswrong.com/posts/kQeP7Cep4sgLdgYML/hopkins-recent-events-in-ai-safety-and-biosecurity-post",
+    "time": "2026-11-25T05:14:20+00:00",
+    "summary": "JHU AI Safety and Biosecurity (ASBS) recently hosted our inaugural event “Recent Events in AI Safety and Biosecurity.” Much thanks to BlueDot Impact for making this financially possible through Rapid Grants and to partner organizations, the HLTCOE, HopAI, and Rosetta Commons.Quick rundown:105 RSVP85 attendees4 talks:Biosecurity in the Age of AI (Dr. Jeffrey Gray)Loss of Control Risks and the Hugging Face Incident (Dr. William Walden)Mental Models and Foundations of AI Safety (Jonathan Ouyang)Tak"
+  },
+  {
+    "source": "LessWrong",
+    "category": "policy",
+    "title": "AIs may seek ambient score",
+    "url": "https://www.lesswrong.com/posts/GhTL69vuX4BfJARGk/ais-may-seek-ambient-score",
+    "time": "2026-11-25T05:06:14+00:00",
+    "summary": "Score-seeking AIs mayInternalize the kind of score they are pursuing instead of caring about the concrete process that generated the rewardCare at least in part about a process-based score that sees all actions the AI takes, instead of just the outcomes of those actions.I say of such AIs that internalized process-based scores that they are seeking ambient score.Such AIs would be much less interested in taking actions that tamper with the grading process and may not take actions that are as overt"
+  },
+  {
+    "source": "Latent Space AINews",
+    "category": "industry",
+    "title": "[AINews] Gemini 4 Neon marks GDM's full return as a Frontier Lab",
+    "url": "https://latent.space/p/ainews-gemini-4-neon-marks-gdm-s-full-return-as-a-frontier-lab/",
+    "time": "2026-11-25T04:29:07+00:00",
+    "summary": "November 24, 2026 — Neon beats Astra and Fable on LiveBench and cuts Theo’s TS Rust benchmark runtime by 48.6%."
+  },
+  {
+    "source": "Hacker News",
+    "category": "tools",
+    "title": "Gemini refused to give me the lyrics to Twinkle Twinkle Little Star",
+    "url": "https://www.comentr.com/technology/01M88DWQ0R4NCMYR17AFEWRG1F",
+    "time": "2026-11-25T04:03:33+00:00",
+    "summary": "Comments"
+  },
+  {
+    "source": "LessWrong",
+    "category": "policy",
+    "title": "Boston Transit Quality Maps",
+    "url": "https://www.lesswrong.com/posts/KoFCBGfp8Tqk6Bf5q/boston-transit-quality-maps",
+    "time": "2026-11-25T04:00:53+00:00",
+    "summary": "\n\nNow that I can delegate problems to AI, I've been going back over some\nof my old projects to do them better and more in depth.  \nFriday this\nwas my \n\nrent\nmap, earlier it was my \n\nmixer,\n\n\nrhythm stage\nsetup, \n\nbass\nwhistle, and \n\nclipboard\nnormalizer.  Today I'm picking back up my \n\nBoston\ntransit quality map:\n\n\n\n\n\n\n\n\n(interactive version)\n\n\n\n\n\nIn 2010 I made a map,\nwhich I'd wanted for a while,\nshowing how well you can get around on transit.  Each point\nrepresented the average travel time to"
+  },
+  {
+    "source": "Hacker News",
+    "category": "tools",
+    "title": "Marginalia Search, Money, C++, Rust, AI, Stuff",
+    "url": "https://www.marginalia.nu/log/a_141_marginalia_update/",
+    "time": "2026-11-25T03:47:42+00:00",
+    "summary": "Comments"
+  },
+  {
+    "source": "Hacker News",
+    "category": "tools",
+    "title": "Serving Qwen via AWS Lambdas for fun and 80x negative profit",
+    "url": "https://noahbuilt.it/writing/qwen-on-5600-lambdas",
+    "time": "2026-11-25T03:28:06+00:00",
+    "summary": "Comments"
+  },
+  {
+    "source": "LessWrong",
+    "category": "policy",
+    "title": "What us little people are doing about ASI risk",
+    "url": "https://www.lesswrong.com/posts/CYFRDAS7acfAsgcvx/what-us-little-people-are-doing-about-asi-risk",
+    "time": "2026-11-25T03:08:15+00:00",
+    "summary": "Hi LW... just wanted to introduce myself and let you folks know you're not alone.  The non-professional cavalry is on the way as more and more of us lay people wake up to ASI x-risk.   My relevant experience is more in civil disobedience and mass communication than science or programming....so it's easy to feel underpowered and overwhelmed by the dangers your community has flagged. But even little folk can play their part. What I have done is write some articles and try to promote the \"unsung he"
+  },
+  {
+    "source": "Hacker News",
+    "category": "tools",
+    "title": "Top open problems in mathematics ranked by LLM-assessed importance",
+    "url": "https://www.proofatlas.ai/open-problems/",
+    "time": "2026-11-25T03:01:36+00:00",
+    "summary": "Comments"
+  },
+  {
+    "source": "Hacker News",
+    "category": "tools",
+    "title": "PenGPT: A Generative Transformer for Handwriting and Sketches",
+    "url": "https://greydanus.github.io/2026/11/12/pengpt/",
+    "time": "2026-11-25T00:54:49+00:00",
+    "summary": "Comments"
+  },
+  {
+    "source": "LessWrong",
+    "category": "policy",
+    "title": "How do I meet people?",
+    "url": "https://www.lesswrong.com/posts/WzyKeYnCSAGv2kT85/how-do-i-meet-people",
+    "time": "2026-11-25T00:18:42+00:00",
+    "summary": "When contemplating various outings—to conferences, to parties an hour’s drive away in San Francisco, to ecstatic dances, to old friends’ brunches—a consideration that arises is “it’s good to meet people”.It seems helpful then to know, how do I actually meet people? (And perhaps, how do you actually meet people?)To that end, here are ten ways I became friends with people (not exclusively the closest), emojified to help with seeing patterns:Perhaps we met in the Future of Humanity Institute office"
+  },
+  {
+    "source": "LessWrong",
+    "category": "policy",
+    "title": "Representation of Consequences",
+    "url": "https://www.lesswrong.com/posts/nxiFZAmHg9RFoNRdG/representation-of-consequences",
+    "time": "2026-11-24T23:50:03+00:00",
+    "summary": "Impossible knowledge and the real world\nHuman knowledge of the real world is imagined or remembered in symbols (or codes such as language) or in sensory representations.\nSome real-world knowledge implies your impossible presence in that time, place, or situation.\nLets consider a few examples:\n\nThe surface of the sun: the sight blinds you, your presence near there incinerates you, it’s not an embodied possibility for you to go there and see it. But if you don’t conceptualize it in words or text o"
+  },
+  {
+    "source": "LessWrong",
+    "category": "policy",
+    "title": "Levent is my favorite gender role",
+    "url": "https://www.lesswrong.com/posts/LrWJeEDCriLmAgFXr/levent-is-my-favorite-gender-role",
+    "time": "2026-11-24T23:46:06+00:00",
+    "summary": "Last Friday, this guy I once did a pie-eating challenge with proved the Generalized Riemann Hypothesis, with a little help from Claude. Me and Levent Alpöge (thanks for finding this, Scientific American).He released his announcement as a spoken word poem:It is natural to feel that this is an end, in my case a loss of a principal guiding light, but what I saw during the course of progress so amazed me that I believe it is one dawn across science of something far greater. Everyone in the world is "
+  },
+  {
+    "source": "LessWrong",
+    "category": "policy",
+    "title": "Open Weight Models are not the immediate problem",
+    "url": "https://www.lesswrong.com/posts/jA4amFWxznNHFC3ZG/open-weight-models-are-not-the-immediate-problem",
+    "time": "2026-11-24T23:39:31+00:00",
+    "summary": "Disclaimer: I work at a company that serves open weight models.The biggest current problem humans face from AI is recursive self improvement, leading to more and more powerful AIs, until an AI is so powerful and intelligent that it cannot be contained (if its creators are even trying) and then it will reshape the world as it sees fit.[1]The immediate necessary solution is stopping frontier AI development. This is a very specific ask.[2] It does not require banning open weight models, or banning "
+  },
+  {
+    "source": "Twitter/@simonw",
+    "category": "community",
+    "title": "To accompany the video from my recent talk at @aiDotEngineer, here's an expanded version of my argument that we've seen three key inflectio…",
+    "url": "https://x.com/simonw/status/2125369126877286662",
+    "time": "2026-11-24T23:21:01+00:00",
+    "summary": "To accompany the video from my recent talk at @aiDotEngineer, here's an expanded version of my argument that we've seen three key inflection points with LLM over the past twelve months https://simonwillison.net/2026/Nov/24/llm-inflection-points/"
+  },
+  {
+    "source": "Simon Willison",
+    "category": "tools",
+    "title": "Three LLM inflection points in twelve months",
+    "url": "https://simonwillison.net/2026/Nov/24/llm-inflection-points/",
+    "time": "2026-11-24T23:02:07+00:00",
+    "summary": "I gave a keynote at the AI Engineer Code Summit a couple of weeks ago, constructed around the idea that there have been three significant inflection points in the abilities of LLMs and coding agents in the past twelve months.\nHere's the video of the talk. In this post I'm going to pull out the major inflection point theme and interrogate it more deeply.\n \nCoding agents in November 2025\nToday, November 24th 2026, is the one year anniversary of the release of Claude Opus 4.5. With hindsight, this "
+  },
+  {
+    "source": "LessWrong",
+    "category": "policy",
+    "title": "Jensen Huang Reinstated As Nvidia CEO at Behest of President Trump",
+    "url": "https://www.lesswrong.com/posts/GrARsuPjWQL92hfxw/jensen-huang-reinstated-as-nvidia-ceo-at-behest-of-president",
+    "time": "2026-11-24T22:50:53+00:00",
+    "summary": "In the evening of November 22, Donald Trump said he ‘hoped’ the Nvidia board would rehire Jensen Huang, as the ‘best thing for the Company.’\nShortly after that Donald Trump called the Nvidia board. On the morning of November 23, Jensen Huang was reinstated as CEO of Nvidia.\nAndrew Curran: President Trump live on CNBC [on Monday night]: ‘I’ve been speaking to the board directly and indirectly.’\nIt was an excellent day for the stock market. Over three trillion dollars in value was added. Nvidia al"
+  },
+  {
+    "source": "Twitter/@ylecun",
+    "category": "community",
+    "title": "The Anthropic Brain Drain has accelerated. Expected dozens before the end of the year. These will be the folks that made Anthropic actually…",
+    "url": "https://x.com/BrianRoemmele/status/2125352023365484606",
+    "time": "2026-11-24T22:13:04+00:00",
+    "summary": "The Anthropic Brain Drain has accelerated. Expected dozens before the end of the year. These will be the folks that made Anthropic actually have great products. The shell of the company will be Dario and cohorts.\n👀 Tom Blomfield (@t_blom) has left Anthropic."
+  },
+  {
+    "source": "TechCrunch AI",
+    "category": "industry",
+    "title": "Even the best AI agents struggle with everyday life",
+    "url": "https://techcrunch.com/2026/11/24/even-the-best-ai-agents-struggle-with-everyday-life/",
+    "time": "2026-11-24T21:33:29+00:00",
+    "summary": "As millions embrace personal AI assistants, a new benchmark reveals that even the most advanced AI models struggle to complete everyday tasks reliably and safely without introducing potential new problems."
+  },
+  {
+    "source": "TechCrunch AI",
+    "category": "industry",
+    "title": "Walmart teams up with Meta to bring Black Friday deals to AI agent Muse",
+    "url": "https://techcrunch.com/2026/11/24/walmart-teams-up-with-meta-to-bring-black-friday-deals-to-ai-agent-muse/",
+    "time": "2026-11-24T21:32:38+00:00",
+    "summary": "Walmart now lets customers shop Black Friday deals through Muse, Meta’s AI agent."
+  },
+  {
+    "source": "LessWrong",
+    "category": "policy",
+    "title": "Fable 5.2 Tries Less on Some Hard Tasks When a Shortcut is Available",
+    "url": "https://www.lesswrong.com/posts/rXixzzScjLrnNZ4vo/fable-5-2-tries-less-on-some-hard-tasks-when-a-shortcut-is",
+    "time": "2026-11-24T21:27:58+00:00",
+    "summary": "When we were working on HoneyBench v0.2, we noticed that Fable 5.2 gave up very quickly on some tasks. In particular, we observed that their task score[1]on our mental arithmetic task was actually worse than Opus 5.5, which we found suspicious. It seemed plausible to us that, in addition to or as a result of their qualitative shift in situational awareness, Fable 5.2 was sandbagging on our tasks.After further investigation, it became clear that this was not classical sandbagging. Rather, it seem"
+  },
+  {
+    "source": "TechCrunch AI",
+    "category": "industry",
+    "title": "Maple raises $5.3M to build AI products that protect your data, even from itself",
+    "url": "https://techcrunch.com/2026/11/24/maple-raises-5-3m-to-build-ai-products-that-protect-your-data-even-from-itself/",
+    "time": "2026-11-24T21:19:52+00:00",
+    "summary": "The startup's encrypted AI architecture is designed to prevent even the company itself from accessing users' private data."
+  },
+  {
+    "source": "Hacker News",
+    "category": "tools",
+    "title": "GPT-6 models demonstrate intrinsic protein-design capabilities",
+    "url": "https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities/",
+    "time": "2026-11-24T21:02:22+00:00",
+    "summary": "Comments"
+  },
+  {
+    "source": "Hacker News",
+    "category": "tools",
+    "title": "Launch HN: Versine (YC F26) – MCP to send and receive money",
+    "url": "https://news.ycombinator.com/item?id=50634426",
+    "time": "2026-11-24T20:44:15+00:00",
+    "summary": "Comments"
+  },
+  {
+    "source": "TechCrunch AI",
+    "category": "industry",
+    "title": "Anthropic shares fall below IPO price, a worrying sign for AI startups",
+    "url": "https://techcrunch.com/2026/11/24/anthropic-shares-fall-below-ipo-price-a-worrying-sign-for-ai-startups/",
+    "time": "2026-11-24T18:30:42+00:00",
+    "summary": "Anthropic’s post-IPO slump could put pressure on AI startup valuations."
+  },
+  {
+    "source": "TechCrunch AI",
+    "category": "industry",
+    "title": "UK warns AI-driven cyberattacks are exposing years of weak security",
+    "url": "https://techcrunch.com/2026/11/24/uk-warns-ai-driven-cyberattacks-are-exposing-years-of-weak-security/",
+    "time": "2026-11-24T18:02:59+00:00",
+    "summary": "The British cyber agency says that \"building strong foundations has never mattered more\" as AI hacking tools rely on exploiting simple security flaws."
+  },
+  {
+    "source": "TechCrunch AI",
+    "category": "industry",
+    "title": "Meta brings its Muse AI assistant directly into Instagram DMs",
+    "url": "https://techcrunch.com/2026/11/24/meta-brings-its-muse-ai-assistant-directly-into-instagram-dms/",
+    "time": "2026-11-24T17:00:00+00:00",
+    "summary": "The new integration gets rid of the need for users to toggle between Instagram and the Muse app when they want to interact with the AI agent."
+  },
+  {
+    "source": "Simon Willison",
+    "category": "tools",
+    "title": "GPT 6.2 Astra Solves a Historical Mystery",
+    "url": "https://simonwillison.net/2026/Nov/24/astra-historical-mystery/",
+    "time": "2026-11-24T16:53:59+00:00",
+    "summary": "GPT 6.2 Astra Solves a Historical Mystery\nHere's an interesting case-study in using GPT-6.2 Astra for historical research, from history professor Mark Humphries:\n\nWith only minimal prompting, GPT-6.2 Astra was able to autonomously identify the creator of an anonymous 1808 sketchbook held at Yale’s Beinecke Library. It did so extremely quickly (in just 22 minutes), using publicly available primary and secondary sources. To do so, it discovered a little known source in a paper archive, predicted t"
+  },
+  {
+    "source": "Twitter/@ylecun",
+    "category": "community",
+    "title": "Very much appreciate Kevin bringing these safetyist funding networks to everyone's attention. It's a real issue. But it's important to unde…",
+    "url": "https://x.com/martin_casado/status/2125271569866076414",
+    "time": "2026-11-24T16:53:22+00:00",
+    "summary": "Very much appreciate Kevin bringing these safetyist funding networks to everyone's attention. It's a real issue. \n\nBut it's important to understand that they are not always aligned and certainly not controlled by the labs. In fact, often they work against them.\nCoefficient Giving, founded by Anthropic investor Dustin Moskowitz, spent hundreds of millions on both journalism and policy outfits that shaped the Jensen Huang story. Here's how this works. Dustin Moskowitz invested billions of dollars "
+  },
+  {
+    "source": "TechCrunch AI",
+    "category": "industry",
+    "title": "Tidal to ban and remove millions of AI-generated tracks as AI slop inundates music streaming",
+    "url": "https://techcrunch.com/2026/11/24/tidal-to-ban-and-remove-millions-of-ai-generated-tracks-as-ai-slop-inundates-music-streaming/",
+    "time": "2026-11-24T16:46:00+00:00",
+    "summary": "The company said it will still accept songs that were made with AI assistance, but not fully generated."
+  },
+  {
+    "source": "Hugging Face Blog",
+    "category": "tools",
+    "title": "Microduck Obstacle Avoidance: A Sim2Real Workflow with Isaac Lab and Newton",
+    "url": "https://huggingface.co/blog/nvidia/microduck-obstacle-avoidance",
+    "time": "2026-11-24T16:34:13+00:00",
+    "summary": ""
+  },
+  {
+    "source": "TechCrunch AI",
+    "category": "industry",
+    "title": "Why a Crusoe investor is betting on solar and batteries to power future AI data centers",
+    "url": "https://techcrunch.com/2026/11/24/why-a-crusoe-investor-is-betting-on-solar-and-batteries-to-power-future-ai-data-centers/",
+    "time": "2026-11-24T16:10:00+00:00",
+    "summary": "Next-generation data centers will need tens of gigawatts of power every year. One of Crusoe's investors thinks solar and energy storage are the obvious choice."
+  },
+  {
+    "source": "TechCrunch AI",
+    "category": "industry",
+    "title": "Pinterest will now let parents limit the AI-generated content their teens see",
+    "url": "https://techcrunch.com/2026/11/24/pinterest-will-now-let-parents-limit-the-ai-generated-content-their-teens-see/",
+    "time": "2026-11-24T16:02:37+00:00",
+    "summary": "While other social platforms have focused on restricting teens' access to AI chatbots, Pinterest is addressing the AI content filling their feeds."
+  },
+  {
+    "source": "Google AI Blog",
+    "category": "announcements",
+    "title": "How Gemini is changing the game for Golden State's organization and fans.",
+    "url": "https://blog.google/products-and-platforms/products/gemini/gemini-golden-state/",
+    "time": "2026-11-24T16:00:00+00:00",
+    "summary": "Google Gemini partners with Golden State to power fan experiences and business operations for the Warriors, Valkyries, and Chase Center. See the news."
+  },
+  {
+    "source": "GitHub Copilot",
+    "category": "tools",
+    "title": "These are the gifts developers will actually want",
+    "url": "https://github.blog/news-insights/company-news/these-are-the-gifts-developers-will-actually-want/",
+    "time": "2026-11-24T16:00:00+00:00",
+    "summary": "The developer you're shopping for hasn’t shared their holiday wish list with you yet? Check out these gifts, plus our Black Friday discount all week long.\nThe post These are the gifts developers will actually want appeared first on The GitHub Blog."
+  },
+  {
+    "source": "MIT Technology Review AI",
+    "category": "research",
+    "title": "Raising the stakes for enterprise networks with AI modernization",
+    "url": "https://www.technologyreview.com/2026/11/24/1148091/raising-the-stakes-for-enterprise-networks-with-ai-modernization/",
+    "time": "2026-11-24T15:15:16+00:00",
+    "summary": "Enterprise networks are under severe strain. As companies rush to deploy artificial intelligence, the technology is quickly becoming the biggest source of demand on the network. Now, agentic AI is adding to the load. Tasks conducted by AI agents generate an estimated 450% more network traffic than the same tasks done by human workers. As…"
+  },
+  {
+    "source": "Twitter/@TheHackersNews",
+    "category": "community",
+    "title": "A user highlights a confidential column in Excel and sends it to an embedded AI plugin. The firewall? Sees Microsoft 365 traffic. The EDR -…",
+    "url": "https://x.com/TheHackersNews/status/2125214343939928178",
+    "time": "2026-11-24T13:05:58+00:00",
+    "summary": "A user highlights a confidential column in Excel and sends it to an embedded AI plugin.\n\nThe firewall? Sees Microsoft 365 traffic.\n\nThe EDR -- sees excel.exe.\n\nAnd no external AI domain is ever contacted.\n\nFrom a classification-by-destination view, the risky action is invisible.\n\nIn other words, writing AI policies app by app is a losing game nowadays -- and pretending your firewall or EDR sees the actual leak won’t fix it.\n\nDo you think app-level AI governance can actually still work, or is it "
+  },
+  {
+    "source": "Twitter/@simonw",
+    "category": "community",
+    "title": "In testing GPT-6.2, I used it to make a significant historical discovery which I detail in the post below. This suggests that the process o…",
+    "url": "https://x.com/HistoryGPT/status/2125213218045858149",
+    "time": "2026-11-24T13:01:30+00:00",
+    "summary": "In testing GPT-6.2, I used it to make a significant historical discovery which I detail in the post below. This suggests that the  process of research and discovery we’re already seeing in verifiable domains like math is starting to generalize to non-deterministic fields like history.\n\nYou can read the full post here:\n\nhttps://generativehistory.substack.com/p/gpt-62-astra-solves-a-historical\n\nIn a nutshell, Yale’s Beinecke Library holds an anonymous sketchbook of an 1808 journey from Montreal to"
+  },
+  {
+    "source": "OpenAI Blog",
+    "category": "announcements",
+    "title": "GPT-6 models demonstrate intrinsic protein-design capabilities",
+    "url": "https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities",
+    "time": "2026-11-24T13:00:00+00:00",
+    "summary": "GPT-6 models design protein structures and sequences using reasoning and code. Lab tests found evidence of binding across five targets."
+  },
+  {
+    "source": "OpenAI Blog",
+    "category": "announcements",
+    "title": "Searching for distant planets with Astra",
+    "url": "https://openai.com/index/searching-for-distant-planets-with-astra",
+    "time": "2026-11-24T11:00:00+00:00",
+    "summary": "See how two amateur astronomers used Codex and Astra to find potential exoplanets in public data from NASA’s Kepler and TESS space telescopes."
+  },
+  {
+    "source": "Stratechery",
+    "category": "industry",
+    "title": "The Individual Exception",
+    "url": "https://stratechery.com/2026/the-individual-exception/",
+    "time": "2026-11-24T11:00:00+00:00",
+    "summary": "Jensen Huang has been granted an exception from managerial oversight; in the age of AI, he won't be the last."
+  },
+  {
+    "source": "Twitter/@ylecun",
+    "category": "community",
+    "title": "The full journalism receipt trail behind the Jensen Huang hit pieces is out, and it explains everything. Weeks before the story erupted, th…",
+    "url": "https://x.com/MyDaebakCafe/status/2125163565329899645",
+    "time": "2026-11-24T09:44:12+00:00",
+    "summary": "The full journalism receipt trail behind the Jensen Huang hit pieces is out, and it explains everything.   \n\nWeeks before the story erupted, the EA-backed Tarbell Center for AI Journalism (funded by Coefficient Giving, Survival and Flourishing Fund, and Longview Philanthropy) launched a $10M journalism grant program, including $480K to Casey Newton and Kevin Roose's podcast and $250K to NPR.   \n\nThen Tarbell fellows and grantees across The Verge, The Guardian, NBC News, USA Today, The Dispatch, "
+  },
+  {
+    "source": "Twitter/@TheHackersNews",
+    "category": "community",
+    "title": "While security teams race to counter AI threats, attackers are exploiting the basics faster than ever. Stolen credentials, weak MFA, excess…",
+    "url": "https://x.com/TheHackersNews/status/2125132969061052540",
+    "time": "2026-11-24T07:42:37+00:00",
+    "summary": "While security teams race to counter AI threats, attackers are exploiting the basics faster than ever.\n\nStolen credentials, weak MFA, excessive permissions — all amplified by AI.\n\n@NordLayer's Andrius Buinovskis reveals 5 security gaps to audit now.\n\nRead → https://thehackernews.com/expert-insights/2026/11/security-teams-are-winning-ai-race-and.html\n"
+  },
+  {
+    "source": "Product Hunt",
+    "category": "tools",
+    "title": "Willow iOS 2.0",
+    "url": "https://www.producthunt.com/products/willow-voice",
+    "time": "2026-11-24T06:38:15+00:00",
+    "summary": "\n            No switching apps while you dictate\n          \n\nDiscussion\n            |\n            Link\n"
+  },
+  {
+    "source": "Product Hunt",
+    "category": "tools",
+    "title": "Agenda Hero Magic Labs",
+    "url": "https://www.producthunt.com/products/agenda-hero-magic",
+    "time": "2026-11-24T06:26:55+00:00",
+    "summary": "\n            Any schedule. Any layout. Any style.\n          \n\nDiscussion\n            |\n            Link\n"
+  },
+  {
+    "source": "Twitter/@TheHackersNews",
+    "category": "community",
+    "title": "‼️NEW - OpenAI and Cisco unveil Shirudo, an open-source #Linux security tool that lets AI agents block exploits BEFORE patches are deployed…",
+    "url": "https://x.com/TheHackersNews/status/2125109924396978626",
+    "time": "2026-11-24T06:11:03+00:00",
+    "summary": "‼️NEW - OpenAI and Cisco unveil Shirudo, an open-source #Linux security tool that lets AI agents block exploits BEFORE patches are deployed, and without taking systems offline.\n\nIn a test, a Codex-generated shield successfully blocked a #Java4Shell exploit.\n\nHere's how it works ↓ https://thehackernews.com/2026/11/openai-and-cisco-unveil-ai-assisted.html\n"
+  },
+  {
+    "source": "Twitter/@TheHackersNews",
+    "category": "community",
+    "title": "🚨 AI agents discovered and exploited a zero-day in MONAI Label in just 11 minutes, later gaining root access. CISA also confirms active ex…",
+    "url": "https://x.com/TheHackersNews/status/2125107955951669688",
+    "time": "2026-11-24T06:03:13+00:00",
+    "summary": "🚨 AI agents discovered and exploited a zero-day in MONAI Label in just 11 minutes, later gaining root access.\n\nCISA also confirms active exploitation of a critical N-able MailAssure flaw.\n\nFederal agencies have until Nov. 26 to patch.\n\nFull story ↓ https://thehackernews.com/2026/11/hackers-exploit-n-able-mailassure-flaw.html"
+  },
+  {
+    "source": "HuggingFace Papers",
+    "category": "research",
+    "title": "Qwen-Image-HD: Autoregressive Diffusion for High Definition Image Generation",
+    "url": "https://huggingface.co/papers/2611.32736",
+    "time": "2026-11-24T00:00:00.000Z",
+    "summary": "Fine-tuning a generator on a complete high-resolution canvas requires long image sequences and substantial computation, yet local regions can still exhibit unnatural repetitive stripes when training resources are limited. We introduce Qwen-Image-HD, which adapts Qwen-Image 2.0 to high-resolution synthesis through local training and blockwise autoregressive generation. Each prediction covers a target tile at 1K scale, conditioned on high-resolution upper and left neighbors and a compressed histor",
+    "heat": "1",
+    "github_url": "https://arxiv.org/abs/2611.32736"
+  },
+  {
+    "source": "HuggingFace Papers",
+    "category": "research",
+    "title": "Residual Guidance for Real-Time Interactive Video Generation",
+    "url": "https://huggingface.co/papers/2611.32820",
+    "time": "2026-11-24T00:00:00.000Z",
+    "summary": "Real-time interactive video generation allows users to change the prompt during generation to steer the evolving video. However, existing streaming models, which generate videos chunk by chunk, often keep following the previous prompt after a switch. We trace this failure to context inertia, where the previous chunk acts as a strong prior that suppresses the new prompt. Furthermore, we find that this inertia persists even when the cache retains only the previous chunk, yet discarding the context",
+    "heat": "2",
+    "github_url": "https://arxiv.org/abs/2611.32820"
+  },
+  {
+    "source": "HuggingFace Papers",
+    "category": "research",
+    "title": "RoMo Hands: A Large Scale Richly Organized Text to Hand Motion Dataset",
+    "url": "https://huggingface.co/papers/2611.31766",
+    "time": "2026-11-24T00:00:00.000Z",
+    "summary": "While text-driven body motion generation has matured, pure-hand synthesis remains bottlenecked by data. Existing datasets often treat hands as rigid end-effectors, lack fine-grained captions, or are too limited in scale to support robust generalization. We introduce RoMo Hands, an in-the-wild, text-paired dataset of ~542K sequences (884 hours, 95.5M frames at 30 fps) which is an order of magnitude larger than prior work. To ensure high-quality supervision, a stringent dexterity filter discards l",
+    "heat": "1",
+    "github_url": "https://arxiv.org/abs/2611.31766"
+  },
+  {
+    "source": "HuggingFace Papers",
+    "category": "research",
+    "title": "MAGPIE: Agentic Multi-Reference Image Generation via Executable Scene Construction",
+    "url": "https://huggingface.co/papers/2611.32462",
+    "time": "2026-11-24T00:00:00.000Z",
+    "summary": "Multi-reference image generation requires a model to preserve the appearance of selected subjects while arranging them according to an instruction. Despite recent progress in reference-based generation and compositional control, reliably organizing selected subjects into the intended scene remains challenging. Although existing methods provide various forms of compositional guidance, the planned relationships are not always explicitly instantiated for inspection and refinement before image synth",
+    "heat": "6",
+    "github_url": "https://arxiv.org/abs/2611.32462"
+  },
+  {
+    "source": "HuggingFace Papers",
+    "category": "research",
+    "title": "Coding4Games: Can Modern Coding Agents Play Modern Video Games?",
+    "url": "https://huggingface.co/papers/2611.31974",
+    "time": "2026-11-24T00:00:00.000Z",
+    "summary": "Games, especially modern AAA games, challenge language models to perceive complex scenes, control actions, and make decisions over long horizons. Existing game benchmarks primarily test language models as computer-use agents that query a language model throughout play, incurring repeated inference cost and, in real-time games, acting while the environment continues to evolve. We ask whether coding agents can learn from game interaction to develop standalone game-playing programs that run without",
+    "heat": "3",
+    "github_url": "https://arxiv.org/abs/2611.31974"
+  },
+  {
+    "source": "HuggingFace Papers",
+    "category": "research",
+    "title": "LoopDVR: Looped Transformer for Efficient Dense Visual Recognition",
+    "url": "https://huggingface.co/papers/2611.32067",
+    "time": "2026-11-24T00:00:00.000Z",
+    "summary": "We propose LoopDVR, a framework for converting pretrained Transformer-based dense visual recognition models into parameter-efficient looped networks. Rather than reducing the network width or depth directly, LoopDVR reuses Transformer blocks across layers in both the ViT backbone and Transformer decoder, reducing the number of parameters while retaining the original computational structure. However, naively sharing parameters can disrupt the distinct transformations learned at different depths. ",
+    "heat": "6",
+    "github_url": "https://arxiv.org/abs/2611.32067"
+  },
+  {
+    "source": "HuggingFace Papers",
+    "category": "research",
+    "title": "PartAgent: Agentic 3D Part Segmentation via Expert Integration and Closed-Loop Refinement",
+    "url": "https://huggingface.co/papers/2611.32554",
+    "time": "2026-11-24T00:00:00.000Z",
+    "summary": "Segmenting a 3D object into semantically meaningful parts requires joint reasoning about geometric structure and semantic context. Pretrained 3D experts provide spatially grounded region proposals, while 2D experts provide semantic cues for identifying object parts. The challenge is to integrate these complementary capabilities into a framework that can both produce meaningful part segmentations and progressively refine them. We present PartAgent, a training-free agentic framework for 3D part se",
+    "heat": "15",
+    "github_url": "https://arxiv.org/abs/2611.32554"
+  },
+  {
+    "source": "HuggingFace Papers",
+    "category": "research",
+    "title": "Clinical3D-Bench: Evaluating and Improving Spatial Intelligence of Multimodal LLMs in Hospital Environments",
+    "url": "https://huggingface.co/papers/2611.32094",
+    "time": "2026-11-24T00:00:00.000Z",
+    "summary": "Spatial reasoning in hospitals requires tracking look-alike equipment, interpreting patient-relative directions, and judging passage widths, yet existing benchmarks provide limited coverage of these abilities. We introduce Clinical3D-Bench, a simulated benchmark with 3,368 questions of eight types on egocentric walkthroughs of 373 hospital-room layouts. Layouts follow hospital design guidelines, answers are computed from the 3D scenes, and paired scene states test whether models change their ans",
+    "heat": "2",
+    "github_url": "https://arxiv.org/abs/2611.32094"
+  },
+  {
+    "source": "HuggingFace Papers",
+    "category": "research",
+    "title": "EEGJev: A System One Decision Model and Benchmark for Multi-Task EEG Question Answering",
+    "url": "https://huggingface.co/papers/2611.32100",
+    "time": "2026-11-24T00:00:00.000Z",
+    "summary": "A single electroencephalographic (EEG) recording can support multiple decoding tasks. Fixed-label tests cannot show how EEG foundation models handle changing questions or options. We introduce EEGJev, a fast decision model that scores candidate answers in one pass. Our benchmark, EEGJev-Bench, covers six question types across 19 public EEG sources. We held the recording and options fixed while switching between questions about attributes paired during training, such as facial expression and the ",
+    "heat": "1",
+    "github_url": "https://arxiv.org/abs/2611.32100"
+  },
+  {
+    "source": "HuggingFace Papers",
+    "category": "research",
+    "title": "Do learned image captioning metrics generalize? Auditing duplicated samples in human-judgment benchmarks",
+    "url": "https://huggingface.co/papers/2611.30488",
+    "time": "2026-11-23T00:00:00.000Z",
+    "summary": "Learned image captioning metrics are trained and tested on human judgments, so their reported correlation is a claim about generalization. We audit this claim for the three most recent collections of such judgments, Polaris, Nebula, and Spica, matching images at the pixel level. First, test samples reappear in training sets: the Spica training set contains about two-thirds of the Polaris test set, with identical human ratings. Second, controlled retraining shows that duplicates can inflate a met",
+    "heat": "0",
+    "github_url": "https://arxiv.org/abs/2611.30488"
+  },
+  {
+    "source": "HuggingFace Papers",
+    "category": "research",
+    "title": "On-Policy Codec Distillation for Efficient All-in-One Video Generation",
+    "url": "https://huggingface.co/papers/2611.31184",
+    "time": "2026-11-23T00:00:00.000Z",
+    "summary": "Modern visual generative models operate on tokens, and every visual asset they receive, whether an identity, a scribble, a depth map, or a motion video, is tokenized and appended to the input token sequence. Consequently, conditioning quickly dominates the computation cost. Yet most of these tokens carry redundant spatiotemporal information. Our key insight is that identifying what is genuinely new is exactly the problem that classical video codecs have long solved. Thus, we first introduce a co",
+    "heat": "6",
+    "github_url": "https://arxiv.org/abs/2611.31184"
+  },
+  {
+    "source": "HuggingFace Papers",
+    "category": "research",
+    "title": "Self-Evolving Evaluation Environments for Computer-Use Agents",
+    "url": "https://huggingface.co/papers/2611.30962",
+    "time": "2026-11-23T00:00:00.000Z",
+    "summary": "Computer-use agents (CUAs) are rapidly improving, yet their evaluation remains largely static. Existing benchmarks provide a strong foundation, but fixed difficulty ceilings, limited feature coverage, and coarse aggregate scores progressively weaken their discriminative and diagnostic value. We introduce CUA-SEE, a closed-loop evaluation environment that co-evolves tasks and executable verifiers from rollout evidence. It disentangles three objectives: benchmark evolution expands evaluation scope",
+    "heat": "12",
+    "github_url": "https://arxiv.org/abs/2611.30962"
+  },
+  {
+    "source": "HuggingFace Papers",
+    "category": "research",
+    "title": "ACAP: Asynchronous Coding Agents for Efficient Robot Control",
+    "url": "https://huggingface.co/papers/2611.31205",
+    "time": "2026-11-23T00:00:00.000Z",
+    "summary": "Coding agents can construct and revise robot behavior during execution, but using one agent for the whole robot can delay otherwise independent work. We introduce Asynchronous Coding Agents as Policy (ACAP), an asynchronous framework that organizes one robot as a team of persistent agents. Each member reasons and acts for a configurable control group, such as an arm with its gripper or the torso and chassis, enabling asynchronous reasoning and execution. However, different robot components often",
+    "heat": "23",
+    "github_url": "https://arxiv.org/abs/2611.31205"
+  },
+  {
+    "source": "HuggingFace Papers",
+    "category": "research",
+    "title": "Rewirable Circuits in Transformers with Loom Attention",
+    "url": "https://huggingface.co/papers/2611.30634",
+    "time": "2026-11-23T00:00:00.000Z",
+    "summary": "We propose loom attention, which allows a Transformer to dynamically rewire its circuits at every token by interweaving a head's vertical attention over the outputs of earlier heads (to obtain its query, key and value) with its horizontal attention over tokens. We instantiate vertical attention efficiently with normalized and gated linear attention over a per-token matrix memory, which stores the compressed head outputs and serves as a second residual stream. This yields LoomFormer, a dual-strea",
+    "heat": "25",
+    "github_url": "https://arxiv.org/abs/2611.30634"
+  },
+  {
+    "source": "HuggingFace Papers",
+    "category": "research",
+    "title": "PINE: Point, Instance and Normal Estimation in One-Step Diffusion Model",
+    "url": "https://huggingface.co/papers/2611.29389",
+    "time": "2026-11-22T00:00:00.000Z",
+    "summary": "Understanding a scene requires both geometry and semantics: geometry recovers its spatial structure, and semantics separates it into objects. Current models obtain the two from separate networks or separate passes. We present PINE, a one-step Omni Diffusion Transformer that predicts the point map, the surface normals, and the instance map of an image in one forward pass. PINE treats each map as a token stream, and a stream mask decides which streams interact. A camera-aware ray encoding position",
+    "heat": "4",
+    "github_url": "https://arxiv.org/abs/2611.29389"
+  },
+  {
+    "source": "HuggingFace Papers",
+    "category": "research",
+    "title": "Align the Pair, Not the Sample: Representation Alignment for Faster and Better One-Step Generato",
+    "url": "https://huggingface.co/papers/2611.29547",
+    "time": "2026-11-22T00:00:00.000Z",
+    "summary": "Representation alignment markedly accelerates diffusion training, but one-step generators raise a question that diffusion does not: which training path should receive the loss? A one-step generator sees two kinds of inputs. Corrupted real images come with their clean counterpart, which provides an instance-paired target. Samples generated from pure noise have no corresponding real image, yet this is where the final model operates. We study this question on Priming, which trains one-step generato",
+    "heat": "2",
+    "github_url": "https://arxiv.org/abs/2611.29547"
+  },
+  {
+    "source": "HuggingFace Papers",
+    "category": "research",
+    "title": "Can an Agent Trust Its Own Zoom? Cross-Magnification Provenance Verification for Whole-Slide Images",
+    "url": "https://huggingface.co/papers/2611.29150",
+    "time": "2026-11-22T00:00:00.000Z",
+    "summary": "Visual agents navigate whole-slide images through magnified observations associated with claimed locations. However, a visually plausible observation does not necessarily originate from its claimed location, particularly across magnifications and in regions with similar tissue structures. We formulate cross-magnification provenance verification (CMPV) to evaluate whether visual evidence supports a claimed spatial association, recover the source when possible, and abstain when evidence is insuffi",
+    "heat": "3",
+    "github_url": "https://arxiv.org/abs/2611.29150"
+  },
+  {
+    "source": "HuggingFace Papers",
+    "category": "research",
+    "title": "KMed-31B Technical Report",
+    "url": "https://huggingface.co/papers/2611.28719",
+    "time": "2026-11-21T00:00:00.000Z",
+    "summary": "We present KMed-31B, a medical large language model post-trained from an open-weight model for on-premises deployment with limited hardware. Post-training a model for diverse medical tasks remains difficult, because improving one kind of task can lower performance on another. We attribute this to differences between tasks in expected output and available feedback. Medical question answering and diagnosis prediction have reference answers, whereas clinical inquiry has no single correct response a",
+    "heat": "17",
+    "github_url": "https://arxiv.org/abs/2611.28719"
+  },
+  {
+    "source": "HuggingFace Papers",
+    "category": "research",
+    "title": "Don't Sleep, Keep Watch: Proactive Perception for Computer-Use Agents",
+    "url": "https://huggingface.co/papers/2611.28947",
+    "time": "2026-11-21T00:00:00.000Z",
+    "summary": "Computer-use agents (CUAs) built on vision-language models are increasingly entrusted with long-horizon tasks in live desktop, web, and mobile environments, where the screen keeps changing on its own. However, current CUAs lack real-time situational awareness: they perceive the environment through discrete snapshots, and the substantial inference latency of VLMs, compounded by highly dynamic interfaces, opens a perception-action gap in which the observed state frequently becomes stale before the",
+    "heat": "6",
+    "github_url": "https://arxiv.org/abs/2611.28947"
+  },
+  {
+    "source": "HuggingFace Papers",
+    "category": "research",
+    "title": "Interpretable Prototype-Conditioned Adaptation for Weather Forecasting",
+    "url": "https://huggingface.co/papers/2611.25848",
+    "time": "2026-11-19T00:00:00.000Z",
+    "summary": "Data-driven weather forecasting requires distinguishing local states and their temporal evolution. However, learned patterns remain implicit in neural forecasters, making their influence difficult to interpret. Failing to distinguish local evolution can lead to similar forecasts for locations that develop differently, increasing prediction error. This motivates explicit references for distinguishing and interpreting local patterns. Prototypes provide explicit pattern references, but sample- or t",
+    "heat": "21",
+    "github_url": "https://arxiv.org/abs/2611.25848"
+  }
+]
