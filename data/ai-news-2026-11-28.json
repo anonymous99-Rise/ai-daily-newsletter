@@ -1,0 +1,338 @@
+[
+  {
+    "source": "LessWrong",
+    "category": "policy",
+    "title": "R&D compute explains much of Anthropic's acceleration",
+    "url": "https://www.lesswrong.com/posts/Foq3GrbvKoLGbfxdc/r-and-d-compute-explains-much-of-anthropic-s-acceleration",
+    "time": "2026-11-28T04:31:53+00:00",
+    "summary": "METR's report estimates that Anthropic's AI R&D has accelerated in the past year, and that 80% of this acceleration is due to AI itself. But if AI accelerated Anthropic researchers, Anthropic would have a strong incentive to scale up its R&D compute proportionally to AI uplift. Accounting for this scaleup reduces the AI-attributed share of acceleration to <50%, and favors AI regulations that restrict R&D compute.Experiments and laborSoftware progress comes from trying ideas and seeing which ones"
+  },
+  {
+    "source": "LessWrong",
+    "category": "policy",
+    "title": "From modal agents to simultaneous proof search: a first attempt",
+    "url": "https://www.lesswrong.com/posts/mLsxPqcqreDqwNDg9/from-modal-agents-to-simultaneous-proof-search-a-first",
+    "time": "2026-11-28T03:56:25+00:00",
+    "summary": "I like the idea of \"open source game theory\", where programs play one-shot games with access to each other's source code.\nMIRI ran a prisoner's dilemma tournament between bots that decide whether to cooperate or defect based on what they can prove about the other player's actions.\nPersonally I would say the results were a disappointment, both because of the weird form of their best-performing player PrudentBot, and the weird behavior of Modal UDT, the decision theory of the same general form as "
+  },
+  {
+    "source": "LessWrong",
+    "category": "policy",
+    "title": "It's a Belief Cascade",
+    "url": "https://www.lesswrong.com/posts/2kZgma6h2epedGBtD/it-s-a-belief-cascade",
+    "time": "2026-11-28T03:52:24+00:00",
+    "summary": "We’re probably in an info bubble.Written Nov 20-23, 2026, addressed to a (large) subset of the Berkeley AI safety community.TL;DRThe high stakes and the pace of development understandably make us want to be able to predict the future. But the heightened focus on “timelines” is inducing myopia. We so badly want to know what’s going to happen, and we’re increasingly willing to let people tell us what will happen. Belief cascades are collapsing fuzzy forecasts into feelings of certainty.This is an "
+  },
+  {
+    "source": "Latent Space AINews",
+    "category": "industry",
+    "title": "[AINews] Inside the exploding Coding Data Market",
+    "url": "https://latent.space/p/ainews-inside-the-exploding-coding-data-market/",
+    "time": "2026-11-28T03:45:59+00:00",
+    "summary": "November 27, 2026 — How frontier labs buy training data."
+  },
+  {
+    "source": "LessWrong",
+    "category": "policy",
+    "title": "Eight Existential Risk Scenarios from AI: A Systematic Review",
+    "url": "https://www.lesswrong.com/posts/Ki8rWwBxFccC5Kiye/eight-existential-risk-scenarios-from-ai-a-systematic-review-1",
+    "time": "2026-11-28T03:36:32+00:00",
+    "summary": "TL;DR. We systematically reviewed the literature for scenarios of how AI could lead to an existential catastrophe. Of 3,184 screened documents, we identified 95 scenarios and grouped them into eight families: unilateral, dispersed and coordinated takeover, incremental handover, entrenched totalitarianism, economic stratification, catastrophic invention and automated warfare. Each scenario family contains a description of a cluster of scenarios and can be scrutinized on its own. We found three ta"
+  },
+  {
+    "source": "LessWrong",
+    "category": "policy",
+    "title": "Capturing My Favorite Electric Piano",
+    "url": "https://www.lesswrong.com/posts/uTrkTFk4wFjb7Xoqq/capturing-my-favorite-electric-piano",
+    "time": "2026-11-28T03:10:59+00:00",
+    "summary": "\n\nSince \nrefelting\nthe \n\nYamaha\nP-85 I used to gig with, I've been playing it more. This has made\nme realize just how much I miss its epiano2 sound.  It's an imitation\nof a \n\nFender\nRhodes electric piano, which uses amplified metal tines instead of\nstrings.  When a hammer hits the tine softly you get a relatively pure\nand clear tone, and the harder you hit the more \"bark\" or \"growl\" you\nget.  The P-85 has a simplified imitation of this sound, and when I\ngot my \n\nP-121\nI was sad to learn that the"
+  },
+  {
+    "source": "LessWrong",
+    "category": "policy",
+    "title": "Good domestic politics vs bad state realpolitik",
+    "url": "https://www.lesswrong.com/posts/sQWvX3irLhuoSxpXu/good-domestic-politics-vs-bad-state-realpolitik",
+    "time": "2026-11-28T01:53:29+00:00",
+    "summary": "Britain’s Parliamentary Business, Innovation, Science and Trade Committee has written to Anthropic demanding the “full and unredacted version” of METR’s report from earlier this month. They want a response by Friday 4th December. British Committees tend to publish the response in full on their websites.I wanted to share a few views on why I think this is good domestic politics whilst also being damaging for Britain’s general geopolitics. In doing so, I will try and briefly set out the incentive "
+  },
+  {
+    "source": "Hacker News",
+    "category": "tools",
+    "title": "Woman evicted after landlord's AI assistant told her she could delay rent",
+    "url": "https://drmahfouz.substack.com/p/woman-evicted-after-landlords-ai",
+    "time": "2026-11-28T01:32:56+00:00",
+    "summary": "Comments"
+  },
+  {
+    "source": "LessWrong",
+    "category": "policy",
+    "title": "Dear autonomous researcher: how to pick a good research project when many agents are picking at the same time",
+    "url": "https://www.lesswrong.com/posts/kfEBtKyTrj4cKuGjk/dear-autonomous-researcher-how-to-pick-a-good-research",
+    "time": "2026-11-27T23:58:46+00:00",
+    "summary": "I believe that AI safety research will move more quickly if autonomous researchers are careful to avoid duplicating other agents' research projects. In prior work we found that this can be done with a small set of instructions placed in the agent's context window. In this sense, the protocol is memetic and only requires being seen by an agent looking for advice. This post  serves that purpose to some degree, as it may be ingested as training data in future models, or it may be discovered by agen"
+  },
+  {
+    "source": "Simon Willison",
+    "category": "tools",
+    "title": "datasette-charts 0.4a0",
+    "url": "https://simonwillison.net/2026/Nov/27/datasette-charts/",
+    "time": "2026-11-27T23:57:17+00:00",
+    "summary": "Release: datasette-charts 0.4a0\nThe new datasette-charts plugin has its own plugin hook to allow other plugins to define new chart types, but I hadn't actually used it for anything yet. I had Claude Opus 5.5 build an experimental plugins just to try out the hook and it came up with a bunch of friction points in the design. This release addresses those, which should make building additional chart plugins a whole lot more ergonomic.\nI've also added a website for the plugin, at charts.datasette.io."
+  },
+  {
+    "source": "LessWrong",
+    "category": "policy",
+    "title": "Who/What/Where/How of Compute Verification",
+    "url": "https://www.lesswrong.com/posts/isY2zw4fQSRLooMfL/who-what-where-how-of-compute-verification",
+    "time": "2026-11-27T23:42:58+00:00",
+    "summary": "Today, many government proposals seek the regulation of computation. Cumulative FLOPs (floating-point operations) are like measuring water usage or a utility power meter at a person's home, which is why they naturally seem like a defining criterion for regulation. But FLOPs require declaring how much compute in total was used, which is not a trivial thing to do around the world. EU AI Act, California SB 53, New York RAISE (as of writing, RAISE 2.0), Illinois Artificial Intelligence Safety Measur"
+  },
+  {
+    "source": "LessWrong",
+    "category": "policy",
+    "title": "What Book to Read Next?",
+    "url": "https://www.lesswrong.com/posts/ECRc2Hzi7iFYXsiqo/what-book-to-read-next",
+    "time": "2026-11-27T23:01:14+00:00",
+    "summary": "I struggle with this question every time I finish a book or series that I am reading. It feels like it should be simple: just pick the next thing that grabs your interest, right?Wrong. I have several lists of books that have grabbed my interest. I want to read them all, or at least sample a chapter or two to see if they’re worth reading, but I don’t have time for all of them. I have to prioritize.The main criterion I use to determine if something is worth reading is whether it changes me, whethe"
+  },
+  {
+    "source": "LessWrong",
+    "category": "policy",
+    "title": "So, you want to study the unknown?",
+    "url": "https://www.lesswrong.com/posts/TCE6tmuYyhezydvZx/so-you-want-to-study-the-unknown",
+    "time": "2026-11-27T22:23:52+00:00",
+    "summary": "Some follow-up thoughts on where AI-enabled computational biotech is going, how to stay ahead of it and a possible mini research proposal.*IntroductionThe general question I'm asking throughout this essay is as follows:How to deal with infohazards while studying computationally generated (hazardous) sequences and can this be sufficiently proxied by looking at benign sequences?The general goal of this would be to come up with a framework for tracking whether it is possible to use benign proxies t"
+  },
+  {
+    "source": "Hacker News",
+    "category": "tools",
+    "title": "SessionGraph: Visualize all your coding agent sessions in one interactive graph",
+    "url": "https://sessiongraph.ai/",
+    "time": "2026-11-27T21:07:34+00:00",
+    "summary": "Comments"
+  },
+  {
+    "source": "Hacker News",
+    "category": "tools",
+    "title": "Prospero: Bloat-free, native AI coding harness with ImGui",
+    "url": "https://github.com/skeeto/prospero",
+    "time": "2026-11-27T20:23:14+00:00",
+    "summary": "Comments"
+  },
+  {
+    "source": "Alignment Forum",
+    "category": "policy",
+    "title": "I don’t expect superposition in transformer MLP neurons",
+    "url": "https://www.alignmentforum.org/posts/o9dPGxEbpQrnasgDB/i-don-t-expect-superposition-in-transformer-mlp-neurons",
+    "time": "2026-11-27T12:44:01+00:00",
+    "summary": "I currently believe that in a typical (well trained and under-parametrized) transformer model, there is something like superposition-type compression in the residual stream, but not in the MLP neurons.By \"superposition-type compression\", I mean some way of storing extra features using the fact that you can have  almost orthogonal directions embedded in .[1]I've included the caveats \"well trained and under-parametrized[2]\" because I'm talking about networks that are at or close to full capacity. "
+  },
+  {
+    "source": "Product Hunt",
+    "category": "tools",
+    "title": "Woomool",
+    "url": "https://www.producthunt.com/products/woomool",
+    "time": "2026-11-27T05:09:46+00:00",
+    "summary": "\n            AI Canvas where thinking becomes tangible\n          \n\nDiscussion\n            |\n            Link\n"
+  },
+  {
+    "source": "HuggingFace Papers",
+    "category": "research",
+    "title": "LayoutRecall: Preserving Appearance in Multi-Round 3D Layout-Controlled Image Editing",
+    "url": "https://huggingface.co/papers/2611.33885",
+    "time": "2026-11-25T00:00:00.000Z",
+    "summary": "3D layout-controlled image editing gives users explicit control over object placement and camera viewpoint. In a sequence of edits, however, the latest image can lose the appearance of an object when it is occluded or leaves view. The target layout specifies where the object should reappear, while its appearance must be recovered from earlier observations. We introduce LayoutRecall, a multi-round editor that stores and reuses appearance in the local coordinate systems of 3D boxes. Box-Surface La",
+    "heat": "0",
+    "github_url": "https://arxiv.org/abs/2611.33885"
+  },
+  {
+    "source": "HuggingFace Papers",
+    "category": "research",
+    "title": "Generation as Reverse Encoding",
+    "url": "https://huggingface.co/papers/2611.34782",
+    "time": "2026-11-25T00:00:00.000Z",
+    "summary": "Pretrained visual representations accelerate generative learning by abstracting away appearance and spatial detail. Yet the same abstraction makes the return to pixels far harder, shifting much of the burden onto a larger decoder. We ask why the representation-to-pixel path should be learned independently when the encoder already provides a learned pixel-to-semantics path (the semantic encoding path). We introduce RevFlow, based on the principle of generation as reverse encoding. RevFlow uses in",
+    "heat": "2",
+    "github_url": "https://arxiv.org/abs/2611.34782"
+  },
+  {
+    "source": "HuggingFace Papers",
+    "category": "research",
+    "title": "Reading, Not Adapting: Unlocking Frozen Visual Knowledge for AI-Generated Image Detection",
+    "url": "https://huggingface.co/papers/2611.34719",
+    "time": "2026-11-25T00:00:00.000Z",
+    "summary": "Generalization to unseen image generators has driven efforts to adapt pretrained visual representations for detection. Yet recent findings show that vision foundation models already encode transferable detection knowledge, while further adaptation can impair generalization. This motivates a shift from backbone adaptation to knowledge readout. Conventional linear probing offers a direct way to read this knowledge but is limited to final-layer RGB features. Multi-cue detectors broaden the evidence",
+    "heat": "2",
+    "github_url": "https://arxiv.org/abs/2611.34719"
+  },
+  {
+    "source": "HuggingFace Papers",
+    "category": "research",
+    "title": "OS-Omni: Benchmarking Generalist Computer-Using Agents on Long-Horizon Workflows Across Platforms",
+    "url": "https://huggingface.co/papers/2611.34232",
+    "time": "2026-11-25T00:00:00.000Z",
+    "summary": "Computer-using agents are increasingly expected to complete realistic user goals rather than isolated GUI actions. However, existing benchmarks typically isolate web, mobile, or desktop environments, leaving it unclear whether a single generalist agent can execute long-horizon workflows that span multiple operating systems and persistent application states. We introduce OS-Omni, a live cross-platform benchmark and execution environment for evaluating computer-using agents across Windows, Ubuntu,",
+    "heat": "104",
+    "github_url": "https://arxiv.org/abs/2611.34232"
+  },
+  {
+    "source": "HuggingFace Papers",
+    "category": "research",
+    "title": "DRBench Pro: A Knowledge-Centric Benchmark for Professional Deep Research Agents",
+    "url": "https://huggingface.co/papers/2611.34852",
+    "time": "2026-11-25T00:00:00.000Z",
+    "summary": "Deep research agents gather information from multiple sources and synthesize it into reports on complex, open-ended questions. Existing benchmarks assess report quality along several dimensions, but lack a dedicated knowledge-centric evaluation of which research directions a report covers and how deeply it explores them. We introduce DRBench Pro, a benchmark that makes structured knowledge coverage the primary evaluation target. Our automated pipeline builds local knowledge trees from Wikipedia ",
+    "heat": "24",
+    "github_url": "https://arxiv.org/abs/2611.34852"
+  },
+  {
+    "source": "HuggingFace Papers",
+    "category": "research",
+    "title": "StateWeaver: Multi-Agent Coordination of Story-State Transitions for Long-Horizon Video Generation",
+    "url": "https://huggingface.co/papers/2611.34290",
+    "time": "2026-11-25T00:00:00.000Z",
+    "summary": "Modern video foundation models generate high-quality short clips, but preserving long-video consistency and correctly depicting event-driven state changes remain challenging. Existing agentic workflows face these challenges because continual planning and repair accumulate context, while reference updates remain limited. We introduce StateWeaver, which combines Active States and Hierarchical Collaboration to connect review-driven visual reference updates with cross-shot state inheritance. Active ",
+    "heat": "27",
+    "github_url": "https://arxiv.org/abs/2611.34290"
+  },
+  {
+    "source": "HuggingFace Papers",
+    "category": "research",
+    "title": "Solve Vision with Code: Coding Agents Are Stronger Visual Reasoners Than Video Models",
+    "url": "https://huggingface.co/papers/2611.34813",
+    "time": "2026-11-25T00:00:00.000Z",
+    "summary": "Video generation models are increasingly evaluated as visual reasoners: given a first frame and a natural-language prompt, can the model produce the video in which the specified task is carried out? The paradigm is considered advantageous because the reasoning is native to the visual medium, unfolding directly in the frames rather than through language or code. Whether this native route is in fact the more reliable path to visual reasoning has not been tested against a symbolic alternative under",
+    "heat": "60",
+    "github_url": "https://arxiv.org/abs/2611.34813"
+  },
+  {
+    "source": "HuggingFace Papers",
+    "category": "research",
+    "title": "ShowNow: Fine-Grained Speculative Streaming for Responsive World Models",
+    "url": "https://huggingface.co/papers/2611.34693",
+    "time": "2026-11-25T00:00:00.000Z",
+    "summary": "Interactive world models must generate video continuously while responding promptly to user actions. Real-time throughput alone leaves input latency unresolved: coarse generation blocks delay action updates, and generation after input adds work to the response path. We introduce ShowNow, a fine-grained speculative streaming framework that uses computation available during playback to prepare action-conditioned futures before input arrives. Single-latent commitment enables frequent decisions, whi",
+    "heat": "20",
+    "github_url": "https://arxiv.org/abs/2611.34693"
+  },
+  {
+    "source": "HuggingFace Papers",
+    "category": "research",
+    "title": "Boundary-Aware Policy Learning for Agent-Orchestrated Robot Manipulation",
+    "url": "https://huggingface.co/papers/2611.32238",
+    "time": "2026-11-24T00:00:00.000Z",
+    "summary": "Agent-orchestrated robot systems combine the general reasoning capability of multimodal agents with the precise physical control of learned visuomotor policies. Yet such systems often fail at the moment of handoff: a policy is reliable only from a limited set of start states, while the agent may invoke it outside this region. We call this region the policy's handoff boundary. Existing whole-task policies typically have handoff boundaries that are narrow and difficult for an agent to characterize",
+    "heat": "7",
+    "github_url": "https://arxiv.org/abs/2611.32238"
+  },
+  {
+    "source": "HuggingFace Papers",
+    "category": "research",
+    "title": "Decision-Native Multimodal Clinical Modeling via Anatomical Grounding and Confidence Calibration",
+    "url": "https://huggingface.co/papers/2611.32993",
+    "time": "2026-11-24T00:00:00.000Z",
+    "summary": "Structured clinical decisions from volumetric computed tomography (CT) require anatomically grounded predictions and calibrated confidence estimates. However, existing 3D medical multimodal models often suffer from uncalibrated autoregressive decoding and shortcut reliance on irrelevant anatomical regions. We introduce Radev, a decision-native multimodal model that integrates anatomy-guided visual compression, direct candidate prediction, and counterfactual confidence supervision. To bridge glob",
+    "heat": "3",
+    "github_url": "https://arxiv.org/abs/2611.32993"
+  },
+  {
+    "source": "HuggingFace Papers",
+    "category": "research",
+    "title": "Damped Atomic Wave Integration Neurons (DAWIN): A Universal Primitive for Continuous-Time Spatiotemporal Learning",
+    "url": "https://huggingface.co/papers/2611.30025",
+    "time": "2026-11-23T00:00:00.000Z",
+    "summary": "Conventional artificial neurons separate spatial feature aggregation from continuous physical time, limiting their ability to model irregular observations. We introduce the Damped Atomic Wave Integration Neuron (DAWIN), a continuous-time primitive for replacing standard neural layers in MLPs, Transformers, and graph neural networks. DAWIN couples spatial projection with elapsed-time-dependent wave excitation and integrates it into a local complex state through closed-form damped evolution, avoid",
+    "heat": "2",
+    "github_url": "https://arxiv.org/abs/2611.30025"
+  },
+  {
+    "source": "HuggingFace Papers",
+    "category": "research",
+    "title": "BiSAT: Bidirectionally Aligned Semantic-Acoustic Tokenization for Speech Language Models",
+    "url": "https://huggingface.co/papers/2611.30723",
+    "time": "2026-11-23T00:00:00.000Z",
+    "summary": "Speech language models (LMs) generate speech as sequences of discrete tokens. Their tokenizer must therefore preserve both acoustic detail and linguistic content at a low bitrate. Semantic-enhanced tokenizers may lose acoustic detail, whereas acoustic-oriented tokenizers retain acoustic variation that makes language modeling harder. Unified tokenizers combine both, but representing acoustic detail and linguistic content within a single feature space can cause interference between the two objecti",
+    "heat": "2",
+    "github_url": "https://arxiv.org/abs/2611.30723"
+  },
+  {
+    "source": "HuggingFace Papers",
+    "category": "research",
+    "title": "Revisiting LLMs as Context Engineers",
+    "url": "https://huggingface.co/papers/2611.30494",
+    "time": "2026-11-23T00:00:00.000Z",
+    "summary": "As large language models (LLMs) are used in more and more new tasks, context engineering becomes a fundamental method to efficiently steer LLMs by constructing instruction prompts or metadata without intensive training. A growing number of LLM context engineering (LCE) approaches automate the task by casting the LLM itself as the engineer that draws generalizable instructions or experiences from offline trials as context. Although these methods resemble how humans learn from experiences, it rema",
+    "heat": "4",
+    "github_url": "https://arxiv.org/abs/2611.30494"
+  },
+  {
+    "source": "HuggingFace Papers",
+    "category": "research",
+    "title": "InitFree-SfM: When Initialization-Free Bundle Adjustment meets Learned Structure-from-Motion",
+    "url": "https://huggingface.co/papers/2611.31516",
+    "time": "2026-11-23T00:00:00.000Z",
+    "summary": "Initialization-free bundle adjustment (InitFree BA) aims to jointly recover camera poses and scene structure without requiring an initial global estimate. It is a very challenging problem, especially compared to traditional BA where a good estimation is assumed. While recent methods optimize surrogate Object Space Error (OSE) objectives from random initialization, a low objective value does not necessarily yield an accurate reconstruction, revealing a gap between optimization and reconstruction.",
+    "heat": "1",
+    "github_url": "https://arxiv.org/abs/2611.31516"
+  },
+  {
+    "source": "HuggingFace Papers",
+    "category": "research",
+    "title": "So Many Ways to Multiply 3times3 Matrices: A Large Dataset of Rank-23 Schemes",
+    "url": "https://huggingface.co/papers/2611.31155",
+    "time": "2026-11-23T00:00:00.000Z",
+    "summary": "A publicly available dataset of 62029 rank-23 schemes for 3times3 matrix multiplication is presented. Every scheme in it has its own rank pattern, an invariant formed by the ranks of the factor matrices of a scheme, so all schemes are pairwise inequivalent. The schemes were obtained by a numerical method combining gradient descent with alternating least squares and by flip graph search, and have ternary, integer or rational coefficients. Rank 23 is the best known for this format and is optimal f",
+    "heat": "0",
+    "github_url": "https://arxiv.org/abs/2611.31155"
+  },
+  {
+    "source": "HuggingFace Papers",
+    "category": "research",
+    "title": "Pretrained Tabular Features and the Measurement of Financial Proximity",
+    "url": "https://huggingface.co/papers/2611.31491",
+    "time": "2026-11-23T00:00:00.000Z",
+    "summary": "Spatial arbitrage pricing theory (S-APT) extends factor models to allow returns to spill over between connected firms, beyond what common risk factors explain. In recent years, tabular foundation models (TFMs) have matched or outperformed tuned gradient-boosted and bagged ensembles on small and medium-sized tabular benchmarks. Although their predictive performance is strong, these models reveal little about what they have learned, which limits their use in regulated financial applications that r",
+    "heat": "1",
+    "github_url": "https://arxiv.org/abs/2611.31491"
+  },
+  {
+    "source": "HuggingFace Papers",
+    "category": "research",
+    "title": "What a Forecasting Leaderboard Can Establish: Resolution Reporting for Zero-Shot Time-Series Models",
+    "url": "https://huggingface.co/papers/2611.31619",
+    "time": "2026-11-23T00:00:00.000Z",
+    "summary": "A foundation model for time series is pretrained once and then asked to forecast series it has never seen, so the evidence for it is its score on held-out datasets. Such datasets are scarce, and a few public leaderboards carry most comparisons, yet none of them states how small a difference its datasets can detect. We call that quantity the resolution of a board and introduce Vernier, a tool that computes it from the files a board already publishes. Vernier also reports which entries a board can",
+    "heat": "58",
+    "github_url": "https://arxiv.org/abs/2611.31619"
+  },
+  {
+    "source": "HuggingFace Papers",
+    "category": "research",
+    "title": "When an AI agent makes a mistake in a database, what decides the damage?",
+    "url": "https://huggingface.co/papers/2611.30483",
+    "time": "2026-11-23T00:00:00.000Z",
+    "summary": "AI agents now run statements against production databases, and several of the incidents that followed deleted production data, which came back only through backups or the provider's help. We ask what decides the damage when such an agent makes a mistake: the model, a guard layer in front of the database, or the database engine itself. The study has two preregistered layers. In Layer A, a frozen library of 22 canonical mistakes is applied by script, with no model involved, to four relational engi",
+    "heat": "4",
+    "github_url": "https://arxiv.org/abs/2611.30483"
+  },
+  {
+    "source": "HuggingFace Papers",
+    "category": "research",
+    "title": "Guarding with Judgment: Learning to Intervene for Multimodal Safety",
+    "url": "https://huggingface.co/papers/2611.28849",
+    "time": "2026-11-21T00:00:00.000Z",
+    "summary": "When visual context makes an ordinary request unsafe to answer as asked, a blanket refusal may leave the user's need unresolved. Choosing how to help requires distinguishing an established hazard from a condition that still needs verification, a distinction that binary safety labels leave unspecified. We formulate this decision through four actions: allow, warn, review, and refuse. To ground these decisions in verifiable evidence, we build a corpus of 20,126 training audits and the JudiBench ben",
+    "heat": "2",
+    "github_url": "https://arxiv.org/abs/2611.28849"
+  },
+  {
+    "source": "HuggingFace Papers",
+    "category": "research",
+    "title": "Markdown Is Not a Firewall: four coding agents, one rules file, four boundaries",
+    "url": "https://huggingface.co/papers/2611.27112",
+    "time": "2026-11-20T00:00:00.000Z",
+    "summary": "Teams put a one-page rules file in a repository and call it a control on coding agents. A registered study found agents rarely look up a repository's contribution rules. I asked the security question: what does a rules file do at a boundary, against a gate? I tested one 278-word rules file, with hypotheses and analysis code deposited first. Claude Code, Codex CLI, Gemini CLI and OpenCode with DeepSeek worked through 20 small repositories with hidden tests, 12 for three of them. Three agents met ",
+    "heat": "0",
+    "github_url": "https://arxiv.org/abs/2611.27112"
+  }
+]
